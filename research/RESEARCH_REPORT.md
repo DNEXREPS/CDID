@@ -136,7 +136,7 @@ Re-run `python3 scripts/build_data.py` to regenerate the vehicle datasets.
 |---|---|---|
 | Account `pengemudiindo` (254673003) published Indonesian driving places from 23 Apr 2020 (City of Snow Shoreside), plus Bolivia Death Road (14 Jun 2020, "The next Indonesian Death Road") and "old cdid" (25 Nov 2020) | Roblox Games API | Officially confirmed |
 | GrandMini Games Studio (group 7069915, owner `pengemudiindo`) describes itself as the "Car Driving Indonesia Official Group". Its first place was created 25 Jul 2020; all its places are now deleted, last updated 17 May 2021 | Roblox Groups and Games APIs | Officially confirmed (records). The contents of the deleted places are unknown |
-| "CDID V4" changelog (new cars and trucks, reworked map, new UI, police jobs, new highway, Jakarta rework) is preserved on place 6267849935 (created 19 Jan 2021, last edited 5 Apr 2021). It refers players to the GrandMini group | Roblox Games API | Partially verified (the uploader account's link to the team is undocumented) |
+| ~~V4 changelog place 6267849935 treated as the V4 record~~ **Corrected 14 Nov 2026:** the original classic CDID was place 5896294709 (see Addendum 2). Place 6267849935 is a separate V4-labelled copy (owner xxblueknighgxx, created 19 Jan 2021, 216,610 visits) whose changelog text is not necessarily the original's | Roblox Games API | Verified as *not* the original |
 | Classic builds V2.5, V3.3 (Village Edition) and V3.5 survive as places published by Hariaall, who holds the Developer role in CDID Studio Official Group and is Co-Owner of GrandMini | Roblox APIs; community "Evolution of CDID" videos list V1, V2.5, V3.3, V3.5, V4, then Revamp | Multiple independent sources |
 | Earliest build: "oldest cdid i could ever find in my folder" ("indonesia death road/ ndesovania"), uploaded 28 Apr 2021 | Roblox Games API and thumbnails | Community-reported |
 | Revamp: old places taken down 17 May 2021; new experience created 5 Jun 2021 01:58 UTC under CDID Studio Official Group; first passes the same day; versions restart at V0.x | Roblox APIs; wiki limited log | Officially confirmed |
@@ -178,3 +178,42 @@ The 17 images in `public/images/archive/` were downloaded from Roblox's thumbnai
   - snapshot storage against the official `@netlify/blobs` local server
   - Netlify build bundling (route `/api/live`, Node 22, blobs included)
 - **Not tested here:** `netlify dev` could not run because it needs `dl.deno.land`, which is blocked here.
+
+
+---
+
+# Addendum 2 — 14 November 2026: the disappearance of CDID V4 (May 2021)
+
+## Access
+| Source | Status |
+|---|---|
+| TikTok https://vt.tiktok.com/ZSp4FHdtQ/ (@beeforiel), supplied by the site owner as the primary lead | **Not accessed.** TikTok is blocked here (proxy 403, and the network allowlist could not be extended). Video, caption, date and comments were **not** reviewed. Search listings only show that @beeforiel ("Beef") posts CDID and Indonesia Driver clips. |
+| Farrelpee blog, "Sejarah evolusi cdid" (Sept 2024) | Host blocked; read via search-engine summaries only |
+| YouTube "CDID DI COPY SI LEMON" (UfK2Bplqx_w), "CDID and indonesia without lemon" (pVldxWhTwa4) | Titles and descriptions via search listings; not viewed |
+| Instagram, Facebook, X, Discord | Not reachable, or nothing relevant indexed |
+| Roblox Games, Groups and Thumbnails APIs | Accessed. Raw responses saved in `research/raw/history/` |
+
+## Findings
+1. **The original classic CDID is place 5896294709** (universe 2110495097). It is titled "(CLOSED) Car Driving Indonesia" with the description "We're closing for a moment, Sorry!".
+   - Owner: pengemudiindo (254673003). Created 2020-10-30; `updated` 2025-03-07.
+   - 5,534,986 visits, 24,195 favourites, 4,404 up / 1,005 down votes.
+   - A single-universe API lookup returns "[TITLE UNAVAILABLE]"; a multi-universe lookup returns the full record, reproduced three times. **Verified.**
+2. **V4.5 media.** The place's icon is "CDID V4.5", and eight promotional images are still served. Roblox asset IDs are one global sequence, so the images can be dated against known places:
+   - The V4.5 images (IDs 6779490590–6779625497) fall after place 6738228104 (created 2021-04-28) and before the GrandMini places created on 2021-05-17.
+   - The earlier images (IDs 6583977622–6657643476) date to about late March – mid April 2021.
+   - **Verified, by inference from asset IDs.**
+3. **17 May 2021.** That day the GrandMini group's July 2020 place was last updated, three new group places were created and updated (all four are now deleted), and pengemudiindo's last public place was updated. **The date is verified by Roblox records.** The original place's own closure date is not public.
+4. **Place 6267849935 is not the original.** Its owner (xxblueknighgxx) is still active and the place is still public: 216,610 visits, 58 up / 278 down votes. Its "CDID V4" icon is an earlier version of the original's V4.5 artwork. The site owner identifies it as the "Grandmini" duplicate, but it was created four months before 17 May and was never removed. **Its link to "Lemon" is unverified.**
+5. **GrandMini Games Studio** (group 7069915) is owned by pengemudiindo, the original game's owner, and Hariaall (CDID Studio Developer) is its Co-Owner. This **conflicts** with the owner's context that "Grandmini" is the duplicate. It is recorded as **Disputed**.
+6. **Account deletion.** The Roblox Thumbnails API returns "Blocked" for pengemudiindo's avatar, a moderation indicator; the other accounts are normal. We could not establish which account the report refers to, or when and why. **Unverified.** No inference of responsibility is drawn.
+7. **The Lemon allegation** comes from the 2024 blog and two period video descriptions. One description names a Roblox account; that accusation is unverified and deliberately not reproduced. No developer statement, Roblox record or archive of the duplicate was found. **Community report.** Lemon's identity: **Unknown**.
+8. **V5.**
+   - The new game was created on 2021-06-05 under CDID Studio Official Group. Its owner's display name is "Pengemudiindo", and Hariaall is Developer. **Verified.**
+   - The developers use "V5" as an era name: the official "V5 Nostalgia 2026" event and 20 "[V5 Nostalgic Edition]" cars. **Verified.**
+   - That this relaunch is the community's "CDID V5" (bigger map, island, ferry): **Community report.**
+   - That V5 was a response to the V4 disappearance: **Unverified.**
+9. **Origins.** The blog says the project began in 2019 as "Esofania" by "beforiest". **Community report**; no 2019 Roblox record was found. The blog's statements about the individuals' family relationship and ages are private details and are not republished.
+
+## Records corrected
+- Archive: the "CDID V4" exhibit now uses the original place's V4.5 media. Place 6267849935 is labelled a separate V4-labelled copy everywhere (places register, sources, chapter). The GrandMini entry is marked Disputed with both positions. The generic "old places taken down" entry is replaced by the chapter. Place 5896294709 is now identified as the original (it was previously "Unknown/Unavailable").
+- About timeline and intro: the classic era now starts with the original place (30 Oct 2020), "The disappearance of CDID V4" replaces the generic shutdown entry, and the relaunch notes the community's "V5" name.

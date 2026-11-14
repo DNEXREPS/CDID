@@ -91,7 +91,7 @@ unique(archive.entries, "archive");
 refs(archive.entries, "archive entry");
 for (const e of archive.entries) {
   if (!eraIds.has(e.era)) err(`archive "${e.id}": unknown era "${e.era}"`);
-  if (!["official", "multiple", "community", "partial", "unconfirmed"].includes(e.verification)) err(`archive "${e.id}": bad verification`);
+  if (!["official", "multiple", "community", "partial", "unconfirmed", "disputed"].includes(e.verification)) err(`archive "${e.id}": bad verification`);
   if (e.date && !isoDate.test(e.date)) err(`archive "${e.id}": bad date`);
   for (const m of e.media) {
     if (m.type === "image" && !existsSync(new URL(`../public${m.src}`, import.meta.url))) err(`archive "${e.id}": missing image ${m.src}`);
@@ -102,6 +102,19 @@ for (const c of archive.comparisons) {
   for (const side of [c.before, c.after]) if (!existsSync(new URL(`../public${side.src}`, import.meta.url))) err(`comparison "${c.id}": missing image ${side.src}`);
   for (const sid of c.sourceIds) if (!sourceIds.has(sid)) err(`comparison "${c.id}": unknown source ${sid}`);
 }
+const LABELS = ["Verified", "Community Report", "Unverified", "Disputed", "Unknown"];
+const inc = archive.incident;
+for (const sec of inc.sections) {
+  if (!LABELS.includes(sec.label)) err(`incident section "${sec.id}": bad label`);
+  for (const sid of sec.sourceIds) if (!sourceIds.has(sid)) err(`incident section "${sec.id}": unknown source ${sid}`);
+  for (const m of sec.media ?? []) if (m.type === "image" && !existsSync(new URL(`../public${m.src}`, import.meta.url))) err(`incident "${sec.id}": missing image ${m.src}`);
+}
+for (const c of inc.claims) {
+  if (!LABELS.includes(c.label)) err(`incident claim "${c.claim}": bad label`);
+  for (const sid of c.sourceIds) if (!sourceIds.has(sid)) err(`incident claim "${c.claim}": unknown source ${sid}`);
+}
+for (const r of inc.records) if (!LABELS.includes(r.status)) err(`incident record "${r.id}": bad status`);
+if (!sourceIds.has(inc.tiktok.sourceId)) err("incident: TikTok source missing");
 for (const r of regions) for (const sid of r.communityTours ?? []) if (!sourceIds.has(sid)) err(`region "${r.id}": unknown tour source ${sid}`);
 
 const index = load("vehicle-index.json");

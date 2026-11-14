@@ -20,7 +20,7 @@ export default function AboutPage() {
         eyebrow="About CDID"
         title={<>Built on<br />Indonesian roads</>}
         image="/images/media/shot-14006205781.webp"
-        intro="Car Driving Indonesia began as a 2020 project, whose classic V1–V4 builds were tied to the GrandMini Games Studio group, and was relaunched on 5 June 2021 as today's CDID. Its promise is the everyday experience of driving in Indonesia, on Roblox, and it has since passed half a billion visits."
+        intro="Car Driving Indonesia's original place opened in October 2020 and ran the classic builds up to V4.5. After that game disappeared in May 2021, CDID was relaunched on 5 June 2021 as today's game. Its promise is the everyday experience of driving in Indonesia, on Roblox, and it has since passed half a billion visits."
       />
 
       <section className="bg-paper text-ink">

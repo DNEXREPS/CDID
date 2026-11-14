@@ -6,27 +6,27 @@
     "dateConfidence": "exact",
     "version": null,
     "title": "Before CDID",
-    "description": "The creator's personal account 'pengemudiindo' publishes Indonesian driving places such as City of Snow Shoreside (April 2020) and Bolivia Death Road ('the next Indonesian Death Road', June 2020). It also runs GrandMini Games Studio, a group that calls itself the 'Car Driving Indonesia Official Group'. A place named 'old cdid' follows in November 2020.",
+    "description": "The creator's account 'pengemudiindo' publishes Indonesian driving places such as City of Snow Shoreside (April 2020) and Bolivia Death Road (June 2020). It also runs GrandMini Games Studio, a group that calls itself the 'Car Driving Indonesia Official Group'. A 2024 community article traces the project further back, to a 2019 game called 'Esofania' (not independently confirmed).",
     "image": "/images/archive/oldest-cdid-4.webp",
     "sourceIds": [
       "src-roblox-pengemudiindo-games",
       "src-roblox-grandmini-group",
-      "src-roblox-grandmini-games"
+      "src-roblox-grandmini-games",
+      "src-blog-farrel-2024"
     ]
   },
   {
     "id": "t-classic",
-    "date": "2021-01-28",
-    "dateLabel": "Late 2020 – early 2021",
-    "dateConfidence": "approximate",
-    "version": "V1 – V4",
+    "date": "2020-10-30",
+    "dateLabel": "30 Oct 2020 – May 2021",
+    "dateConfidence": "exact",
+    "version": "V1 – V4.5",
     "title": "Classic CDID",
-    "description": "The first numbered builds: V1, V2.5, the Village Edition (V3.3), V3.5 and V4. V4 brought new cars and trucks, a reworked map and Jakarta, a new UI, police jobs and a new highway. Exact release dates were never published.",
-    "image": "/images/archive/v3-3-village-edition-icon.webp",
+    "description": "The original Car Driving Indonesia place opens on 30 October 2020 and runs the classic builds: the Village Edition, V4 and finally V4.5. It reached 5.5 million visits. Promotional images for V4.5 (a new mall, TipenLand, a map expansion) were uploaded as late as May 2021.",
+    "image": "/images/archive/original-cdid-v4-5-icon.webp",
     "sourceIds": [
+      "src-roblox-original-cdid",
       "src-roblox-place-v33",
-      "src-roblox-place-v4",
-      "src-roblox-place-v25",
       "src-yt-evolution-2024"
     ]
   },
@@ -36,11 +36,14 @@
     "dateLabel": "17 May 2021",
     "dateConfidence": "exact",
     "version": null,
-    "title": "The old places come down",
-    "description": "Roblox records show the original group's places last updated on 17 May 2021; all are now deleted. The reason was never published.",
-    "image": null,
+    "title": "The disappearance of CDID V4",
+    "description": "Roblox records show the original team's places changing on 17 May 2021, the date community sources give for V4 'suddenly disappearing'. The original place still exists but is closed. Community reports describe an alleged duplication by someone called 'Lemon'; that has not been independently confirmed. See the archive chapter.",
+    "image": "/images/archive/original-cdid-shot0-6779625497.webp",
     "sourceIds": [
-      "src-roblox-grandmini-games"
+      "src-roblox-grandmini-games",
+      "src-roblox-original-cdid",
+      "src-blog-farrel-2024",
+      "src-tiktok-beeforiel"
     ]
   },
   {
@@ -50,13 +53,14 @@
     "dateConfidence": "exact",
     "version": "V0.x",
     "title": "CDID is back",
-    "description": "The current experience opens under the verified CDID Studio Official Group. The group is owned by Pengemudiindonesiaa (display name 'Pengemudiindo'), whom the community wiki credits as the creator. The first game passes are created the same day, and version numbers start again from V0.x.",
+    "description": "The current experience opens under the verified CDID Studio Official Group. The group is owned by Pengemudiindonesiaa (display name 'Pengemudiindo'), whom the community wiki credits as the creator. The first game passes are created the same day, and version numbers start again from V0.x. Community sources call this new game 'CDID V5'.",
     "image": "/images/media/game-icon.webp",
     "sourceIds": [
       "src-roblox-api-stats",
       "src-roblox-group",
       "src-roblox-gamepasses",
-      "src-wiki-home"
+      "src-wiki-home",
+      "src-blog-farrel-2024"
     ]
   },
   {

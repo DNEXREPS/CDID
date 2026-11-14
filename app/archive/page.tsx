@@ -1,11 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { BadgeCheck, CircleDashed, HelpCircle, Layers, MessageSquare } from "lucide-react";
+import { Fragment } from "react";
+import { AlertOctagon, BadgeCheck, CircleDashed, HelpCircle, Layers, MessageSquare } from "lucide-react";
 import { getArchive } from "@/lib/data";
 import type { ArchiveEntry, HistoryVerification } from "@/lib/types";
 import { Container, PageHero, Plate, cx } from "@/components/ui";
 import { SourceList } from "@/components/source-list";
 import { CompareSlider, UnavailableMedia, YouTubeFacade } from "@/components/archive-media";
+import { IncidentChapter } from "@/components/incident-chapter";
 
 export const metadata: Metadata = {
   title: "Archive — The History of CDID",
@@ -19,6 +21,7 @@ const LEVELS: Record<HistoryVerification, { label: string; icon: typeof BadgeChe
   community: { label: "Community-reported", icon: MessageSquare, tone: "text-violet-300 border-violet-300/30", help: "Reported by a community source, such as a developer's informal upload, the wiki or videos." },
   partial: { label: "Partially verified", icon: CircleDashed, tone: "text-rambu border-rambu/35", help: "Some parts are confirmed; others, such as dates or authorship, are not." },
   unconfirmed: { label: "Unconfirmed", icon: HelpCircle, tone: "text-zinc-400 border-zinc-400/30", help: "Could not be verified. Shown only to record what was checked." },
+  disputed: { label: "Disputed", icon: AlertOctagon, tone: "text-orange-300 border-orange-300/40", help: "Sources conflict. Both sides are shown." },
 };
 
 function HistoryBadge({ level }: { level: HistoryVerification }) {
@@ -41,7 +44,7 @@ function Media({ entry }: { entry: ArchiveEntry }) {
           <figure key={i}>
             <a href={m.src} target="_blank" rel="noopener noreferrer" className="group block overflow-hidden bg-black" aria-label={`Open full image: ${m.caption}`}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={m.src} alt={m.caption} loading="lazy" className="aspect-video w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]" />
+              <img src={m.src} alt={m.caption} loading="lazy" className={cx("w-full transition-transform duration-500 group-hover:scale-[1.03]", m.src.includes("-icon") ? "mx-auto aspect-square max-w-[18rem] object-contain" : "aspect-video object-cover")} />
             </a>
             <figcaption className="mt-2 text-[0.75rem] leading-snug text-silver">
               {m.caption}
@@ -59,7 +62,7 @@ function Media({ entry }: { entry: ArchiveEntry }) {
 }
 
 export default function ArchivePage() {
-  const { eras, entries, comparisons, gaps, places } = getArchive();
+  const { eras, entries, comparisons, gaps, places, incident } = getArchive();
   return (
     <>
       <PageHero
@@ -77,13 +80,16 @@ export default function ArchivePage() {
             </a>
           ))}
         </nav>
+        <a href={`#${incident.id}`} className="mt-3 inline-flex items-center gap-2 border border-merah/50 bg-merah/10 px-3 py-2 text-sm font-semibold text-red-200 hover:bg-merah/20">
+          Chapter: {incident.title} — {incident.subtitle}
+        </a>
       </PageHero>
 
       <section className="border-b border-white/10 bg-carbon">
         <Container className="py-8">
           <p className="eyebrow text-steel">Verification levels</p>
           <ul className="mt-3 flex flex-wrap gap-x-6 gap-y-3">
-            {(Object.keys(LEVELS) as HistoryVerification[]).map((k) => (
+            {(Object.keys(LEVELS) as HistoryVerification[]).filter((k) => k !== "disputed" || entries.some((e) => e.verification === "disputed")).map((k) => (
               <li key={k} className="flex max-w-xs items-start gap-2 text-[0.75rem] text-silver">
                 <HistoryBadge level={k} />
                 <span className="hidden lg:inline">{LEVELS[k].help}</span>
@@ -94,7 +100,9 @@ export default function ArchivePage() {
       </section>
 
       {eras.map((era) => (
-        <section key={era.id} id={era.id} className="scroll-mt-20 border-b border-white/10 bg-asphalt odd:bg-asphalt even:bg-[#101114]">
+        <Fragment key={era.id}>
+        {era.id === "revamp" && <IncidentChapter chapter={incident} />}
+        <section id={era.id} className="scroll-mt-20 border-b border-white/10 bg-asphalt odd:bg-asphalt even:bg-[#101114]">
           <Container className="py-16 md:py-24">
             <div className="grid gap-6 lg:grid-cols-[16rem_1fr]">
               <div>
@@ -151,6 +159,7 @@ export default function ArchivePage() {
             )}
           </Container>
         </section>
+        </Fragment>
       ))}
 
       <section className="bg-carbon">

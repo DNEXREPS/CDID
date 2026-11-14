@@ -265,14 +265,14 @@
   },
   {
     "id": "src-roblox-place-v4",
-    "title": "'Car Driving Indonesia' (Beta) with the CDID V4 changelog — place 6267849935",
+    "title": "V4-labelled 'Car Driving Indonesia' (Beta) — place 6267849935 (NOT the original CDID)",
     "url": "https://www.roblox.com/games/6267849935/Car-Driving-Indonesia",
     "sourceType": "official",
     "publisher": "Roblox user xxblueknighgxx",
     "publicationDate": "2021-04-05",
     "accessDate": "2026-11-14",
     "reliability": "partial",
-    "notes": "Created 2021-01-19, last updated 2021-04-05, 216,610 visits. Description contains the 'CDID V4' changelog and refers players to the GrandMini Games Studio group. The account's relationship to the CDID team is not documented."
+    "notes": "Owner xxblueknighgxx (2309163393, account active). Created 2021-01-19, last updated 2021-04-05, still public. 216,610 visits, 414 favourites, 58 up / 278 down votes. Description carries a 'CDID V4' changelog and sends players to the GrandMini Games Studio group. Its icon is a 'CDID V4' version of the artwork the original place later used for 'CDID V4.5'. The site owner identifies it as 'Grandmini', the alleged duplicate. Roblox records do not show who made it or why, and it was not removed by Roblox."
   },
   {
     "id": "src-roblox-place-v33",
@@ -426,7 +426,7 @@
     "publicationDate": null,
     "accessDate": "2026-11-14",
     "reliability": "community",
-    "notes": "Links to place 5896294709, a Car Driving Indonesia place that is no longer available on Roblox."
+    "notes": "Links to place 5896294709, the original classic CDID place (now '(CLOSED) Car Driving Indonesia')."
   },
   {
     "id": "src-yt-ve-live",
@@ -437,7 +437,7 @@
     "publicationDate": null,
     "accessDate": "2026-11-14",
     "reliability": "community",
-    "notes": "Village Edition footage; links to place 5896294709."
+    "notes": "Village Edition footage; links to place 5896294709, the original classic CDID place."
   },
   {
     "id": "src-yt-motor",
@@ -448,7 +448,7 @@
     "publicationDate": null,
     "accessDate": "2026-11-14",
     "reliability": "unverified",
-    "notes": "The title mentions riding a motorbike, and the video links place 5896294709. We could not view the video to confirm what it shows."
+    "notes": "The title mentions riding a motorbike, and the video links place 5896294709 (the original classic CDID). We could not view the video to confirm what it shows."
   },
   {
     "id": "src-yt-dashcam",
@@ -537,5 +537,82 @@
     "accessDate": "2026-11-14",
     "reliability": "partial",
     "notes": "Screenshot supplied to the site on 14 Nov 2026: a zoomed video frame of a buy menu listing 'Vario' and 'PC-X' under 'MotorBike', below '2008 Toyota Vios Taxi'. The original video, upload date and game version are not documented. The URL points to the game, because the screenshot has no public source URL."
+  },
+  {
+    "id": "src-roblox-original-cdid",
+    "title": "'(CLOSED) Car Driving Indonesia' — place 5896294709 (universe 2110495097), Roblox Games API",
+    "url": "https://www.roblox.com/games/5896294709/Car-Driving-Indonesia",
+    "sourceType": "official",
+    "publisher": "Roblox Corporation (record of user pengemudiindo's place)",
+    "publicationDate": "2025-03-07",
+    "reliability": "official",
+    "notes": "Owner pengemudiindo (254673003). Created 2020-10-30. Last updated 2025-03-07 (Roblox does not say what changed). 5,534,986 visits, 24,195 favourites, 4,404 up / 1,005 down votes, max 27 players. Description: 'We're closing for a moment, Sorry!' A single-universe lookup returns '[TITLE UNAVAILABLE]', but a multi-universe lookup returns the full record reproducibly; raw response in research/raw/history. Eight promotional images and a 'CDID V4.5' icon are still served. Their asset IDs fall between place 6738228104 (created 28 Apr 2021) and the GrandMini places created on 17 May 2021, which dates the V4.5 media to that window.",
+    "accessDate": "2026-11-14"
+  },
+  {
+    "id": "src-roblox-account-states",
+    "title": "Roblox Thumbnails API — avatar status of accounts in the story",
+    "url": "https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds=2309163393,254673003,2584360064,2206427820&size=48x48&format=Png",
+    "sourceType": "official",
+    "publisher": "Roblox Corporation",
+    "publicationDate": null,
+    "reliability": "official",
+    "notes": "pengemudiindo (254673003) returns state 'Blocked', which Roblox uses for moderated accounts. It does not show when or why, or whether the account was terminated or deleted. xxblueknighgxx (2309163393), Pengemudiindonesiaa (2584360064) and Hariaall (2206427820) return normal avatars.",
+    "accessDate": "2026-11-14"
+  },
+  {
+    "id": "src-tiktok-beeforiel",
+    "title": "TikTok — @beeforiel video on the disappearance of CDID V4",
+    "url": "https://vt.tiktok.com/ZSp4FHdtQ/",
+    "sourceType": "community",
+    "publisher": "TikTok creator @beeforiel ('Beef')",
+    "publicationDate": null,
+    "reliability": "unverified",
+    "notes": "Supplied by the site owner on 14 Nov 2026 as the primary reference for the V4 disappearance and the reported duplication. NOT ACCESSED: TikTok is blocked in our research environment, so the video, caption, date and comments were not reviewed and nothing on this site is quoted from it. Search-engine listings show @beeforiel ('Beef') posts CDID and Indonesia Driver roleplay clips. The handle resembles names used by Roblox user Hariaall (e.g. 'Beforiest's Place Number: 80', 'Beef Roleplay Group'), but we have not confirmed they are the same person.",
+    "accessDate": "2026-11-14"
+  },
+  {
+    "id": "src-blog-farrel-2024",
+    "title": "'Sejarah evolusi cdid' — Farrelpee community blog (September 2024)",
+    "url": "https://farrelcdidpedia.blogspot.com/2024/09/sejarah-evolusi-cdid.html",
+    "sourceType": "community",
+    "publisher": "Farrelpee (community blog)",
+    "publicationDate": "2024-09-17",
+    "reliability": "community",
+    "notes": "Publication date 17 Sep 2024 per the site owner; the URL confirms September 2024. Read only through search-engine summaries (the blog host is blocked here). Claims: the project began in 2019 as 'Esofania' by a player called 'beforiest'; V3 was the 'Kampong edition'; V4 'suddenly disappeared' on 17 May; a CDID staff insider sold the files to someone called Lemon; Lemon's game was banned by Roblox; Shad then prepared CDID V5 with a larger map, an island and a ferry. The blog cites no evidence.",
+    "accessDate": "2026-11-14"
+  },
+  {
+    "id": "src-yt-lemon-copy",
+    "title": "YouTube — 'CDID DI COPY SI LEMON'",
+    "url": "https://www.youtube.com/watch?v=UfK2Bplqx_w",
+    "sourceType": "community",
+    "publisher": "YouTube creator (community)",
+    "publicationDate": null,
+    "reliability": "unverified",
+    "notes": "Period community video. Its description (via search listing) says 'CDID hari ini di copy sama Lemon' ('CDID was copied by Lemon today'). Upload date not verified; the video was not viewed.",
+    "accessDate": "2026-11-14"
+  },
+  {
+    "id": "src-yt-lemon-cancel",
+    "title": "YouTube — 'CDID and indonesia without lemon'",
+    "url": "https://www.youtube.com/watch?v=pVldxWhTwa4",
+    "sourceType": "community",
+    "publisher": "YouTube creator (community)",
+    "publicationDate": null,
+    "reliability": "unverified",
+    "notes": "Period community video calling for '#cancelLemon' and saying Lemon copied CDID. The description names a Roblox account as the copy's owner. That accusation is unverified and is deliberately not reproduced here. Not viewed.",
+    "accessDate": "2026-11-14"
+  },
+  {
+    "id": "src-owner-context",
+    "title": "Historical context supplied by the site owner (14 Nov 2026)",
+    "url": "https://vt.tiktok.com/ZSp4FHdtQ/",
+    "sourceType": "community",
+    "publisher": "Site owner",
+    "publicationDate": "2026-11-14",
+    "reliability": "unverified",
+    "notes": "The site owner reports that 'Grandmini' is the experience associated with the alleged Lemon duplication, not the original CDID V4. They also report that the account associated with the incident was deleted. Recorded as a lead and checked against Roblox records; see the V4 chapter for where the records agree and where they conflict.",
+    "accessDate": "2026-11-14"
   }
 ]

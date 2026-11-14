@@ -233,7 +233,7 @@ export interface GameInfo {
   sourceIds: string[];
 }
 
-export type HistoryVerification = "official" | "multiple" | "community" | "partial" | "unconfirmed";
+export type HistoryVerification = "official" | "multiple" | "community" | "partial" | "unconfirmed" | "disputed";
 
 export type ArchiveMedia =
   | { type: "image"; src: string; caption: string; credit: string }
@@ -266,4 +266,19 @@ export interface ArchiveData {
   }[];
   gaps: string[];
   places: { placeId: number; name: string; owner: string; created: string | null; status: string }[];
+  incident: IncidentChapter;
+}
+
+export type EvidenceLabel = "Verified" | "Community Report" | "Unverified" | "Disputed" | "Unknown";
+
+export interface IncidentChapter {
+  id: string;
+  title: string;
+  subtitle: string;
+  date: string;
+  intro: string;
+  sections: { id: string; n: string; heading: string; label: EvidenceLabel; body: string[]; media?: ArchiveMedia[]; sourceIds: string[] }[];
+  claims: { claim: string; label: EvidenceLabel; evidence: string; sourceIds: string[] }[];
+  records: { id: string; label: string; detail: string; status: EvidenceLabel }[];
+  tiktok: { url: string; creator: string; sourceId: string };
 }

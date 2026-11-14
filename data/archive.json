@@ -4,15 +4,15 @@
       "id": "before-cdid",
       "number": "01",
       "title": "Before CDID",
-      "period": "2020",
-      "summary": "Before the current game, its creator was building Indonesian driving places on a personal Roblox account and running a group that called itself the 'Car Driving Indonesia Official Group'. Much of that work has since been deleted, so this era is pieced together from Roblox's own records."
+      "period": "2019 – 2020",
+      "summary": "A 2024 community article traces the project to a 2019 hobby game. Roblox records show the creator's account 'pengemudiindo' building Indonesian driving places from April 2020, and the original 'Car Driving Indonesia' place opening on 30 October 2020."
     },
     {
       "id": "classic",
       "number": "02",
       "title": "Classic CDID",
-      "period": "Late 2020 – May 2021",
-      "summary": "The first numbered 'Car Driving Indonesia' builds: V1, V2.5, the Village Edition (V3.3), V3.5 and V4. Exact release dates were never recorded publicly, but places, thumbnails and changelog text from the period survive."
+      "period": "Oct 2020 – May 2021",
+      "summary": "The numbered classic builds (V1, V2.5, the V3.3 Village Edition, V3.5, V4 and V4.5) all ran on the original place, 5896294709. Exact release dates were never published, but the place record, its promotional images and community archives survive."
     },
     {
       "id": "revamp",
@@ -30,6 +30,28 @@
     }
   ],
   "entries": [
+    {
+      "id": "a-esofania",
+      "era": "before-cdid",
+      "date": null,
+      "dateLabel": "2019 · community claim",
+      "dateConfidence": "unknown",
+      "version": null,
+      "title": "'Esofania': the reported beginning",
+      "description": "A community article published in 2024 says the project began in 2019 as a hobby game called 'Esofania', made by a player known as 'beforiest', and later grew into Car Driving Indonesia. No 2019 Roblox record has been found to confirm this. The name resembles the 'ndesovania' label on the earliest surviving build (below), and a Roblox account in the CDID team owns a place called 'Beforiest's Place Number: 80'. We have not confirmed these refer to the same person.",
+      "media": [
+        {
+          "type": "unavailable",
+          "caption": "No 2019 media or Roblox record has been found."
+        }
+      ],
+      "verification": "community",
+      "sourceIds": [
+        "src-blog-farrel-2024",
+        "src-roblox-hariaall",
+        "src-roblox-oldest-cdid"
+      ]
+    },
     {
       "id": "a-css",
       "era": "before-cdid",
@@ -88,19 +110,21 @@
       "dateLabel": "25 July 2020",
       "dateConfidence": "exact",
       "version": null,
-      "title": "GrandMini Games Studio, the first CDID group",
-      "description": "The Roblox group GrandMini Games Studio, owned by 'pengemudiindo', still describes itself as the 'Car Driving Indonesia Official Group' whose game 'is still in development'. Its earliest place was created on 25 July 2020. Every place it owned is now deleted, so the title and contents of that first place cannot be confirmed. The current owner of CDID Studio uses the display name 'Pengemudiindo', which suggests the same creator. That link has not been officially stated.",
+      "title": "GrandMini Games Studio",
+      "description": "The Roblox group GrandMini Games Studio still describes itself as the 'Car Driving Indonesia Official Group'. It is owned by 'pengemudiindo', the same account that owns the original Car Driving Indonesia place (5896294709), and CDID developer Hariaall holds its Co-Owner role. Its earliest place was created on 25 July 2020, and all its places are now deleted. The site owner reports that 'Grandmini' is associated with the alleged duplication of V4. Roblox's ownership records point the other way, so that link is recorded as disputed. See the V4 chapter.",
       "media": [
         {
           "type": "unavailable",
           "caption": "The group's places were deleted; no thumbnails remain on Roblox."
         }
       ],
-      "verification": "partial",
+      "verification": "disputed",
       "sourceIds": [
         "src-roblox-grandmini-group",
         "src-roblox-grandmini-games",
-        "src-roblox-group"
+        "src-roblox-original-cdid",
+        "src-roblox-hariaall",
+        "src-owner-context"
       ]
     },
     {
@@ -177,6 +201,42 @@
       ]
     },
     {
+      "id": "a-original-place",
+      "era": "classic",
+      "date": "2020-10-30",
+      "dateLabel": "30 October 2020",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "The original Car Driving Indonesia place",
+      "description": "Place 5896294709 was created on 30 October 2020 by the account 'pengemudiindo'. It became the home of classic CDID, with 5.5 million visits and 24,195 favourites, far more than any other classic-era place. Videos from 2020–21 link to it as 'Car Driving Indonesia' and 'Update Car Driving Indonesia Village Edition'. Today it is titled '(CLOSED) Car Driving Indonesia', with the description 'We're closing for a moment, Sorry!'.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot5-6583977622.webp",
+          "caption": "'Gerbang CDID' toll gate, with trucks and cars.",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot7-6583979886.webp",
+          "caption": "'Jalan Tol': the classic toll road.",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot6-6583979051.webp",
+          "caption": "'PaintShop': a 'Paint Bodywork' garage.",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        }
+      ],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-original-cdid",
+        "src-yt-jalan-jalan",
+        "src-yt-ve-live"
+      ]
+    },
+    {
       "id": "a-v1",
       "era": "classic",
       "date": null,
@@ -235,7 +295,7 @@
       "dateConfidence": "approximate",
       "version": "V3.3",
       "title": "Village Edition (V3.3)",
-      "description": "'Car Driving Indonesia : Village Edition', branded 'CDID : VE', moved the action to village roads lined with fields and featured Indonesian staples such as the Avanza and Kijang Innova. The surviving place (5.8 million visits) was created on 28 January 2021. Period YouTube videos link to an earlier Village Edition place (5896294709) that Roblox no longer lists.",
+      "description": "'Car Driving Indonesia : Village Edition', branded 'CDID : VE', moved the action to village roads lined with fields and featured Indonesian staples such as the Avanza and Kijang Innova. The surviving place (5.8 million visits) was created on 28 January 2021. Period YouTube videos link to the Village Edition on the original CDID place (5896294709).",
       "media": [
         {
           "type": "image",
@@ -270,10 +330,11 @@
       ],
       "verification": "multiple",
       "sourceIds": [
+        "src-roblox-original-cdid",
         "src-roblox-place-v33",
-        "src-yt-ve-live",
+        "src-yt-evolution-2024",
         "src-yt-jalan-jalan",
-        "src-yt-evolution-2024"
+        "src-yt-ve-live"
       ]
     },
     {
@@ -301,17 +362,47 @@
       "id": "a-v4",
       "era": "classic",
       "date": "2021-04-05",
-      "dateLabel": "Early 2021 · changelog last edited 5 April 2021",
+      "dateLabel": "Early 2021 · V4.5 images uploaded 28 Apr – 17 May 2021",
       "dateConfidence": "approximate",
-      "version": "V4",
-      "title": "CDID V4",
-      "description": "The last classic build, with its changelog preserved on a 'Car Driving Indonesia (Beta)' place that sends players to the GrandMini Games Studio group. It reads: 'Added 4 New Cars and Trucks (Bus coming soon) · Reworked Map · Improved Graphics · New UI · New Police Jobs (Sound Coming Soon) · New Highway · Jakarta Reworked (more building Coming Soon)'. It also warned that mobile players would experience lag.",
+      "version": "V4 / V4.5",
+      "title": "CDID V4 and V4.5 on the original place",
+      "description": "V4 and V4.5 were the last classic builds on the original place (5896294709). Its surviving promotional images, branded 'CDID V4.5', announce a new CDID Mall with interior, New TipenLand, new and reworked cars, and a map expansion towards 'Desa Cigunung'. Earlier shots show a 'Gerbang CDID' toll gate, a paint shop and toll roads. The V4.5 images were uploaded between 28 April and 17 May 2021, so the game was still being updated weeks before it disappeared. The original V4 changelog text has not survived on this place. A V4 changelog (new cars and trucks, reworked map and Jakarta, new UI, police jobs, new highway) survives only on a separate V4-labelled place, 6267849935, which is not the original.",
       "media": [
         {
           "type": "image",
-          "src": "/images/archive/v4-icon.webp",
-          "caption": "The 'CDID V4' icon: a pickup on a rural road.",
-          "credit": "Roblox, place 6267849935"
+          "src": "/images/archive/original-cdid-v4-5-icon.webp",
+          "caption": "The 'CDID V4.5' icon of the original place.",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot0-6779625497.webp",
+          "caption": "'New CDID Mall With Interior' (V4.5 promotional image).",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot1-6779491535.webp",
+          "caption": "'New TipenLand' (V4.5 promotional image).",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot2-6779490975.webp",
+          "caption": "'New Cars' (V4.5 promotional image).",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot3-6779490590.webp",
+          "caption": "'Reworked Cars' (V4.5 promotional image).",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/original-cdid-shot4-6657643476.webp",
+          "caption": "'New Map Expansion': Desa Cigunung, 15 km.",
+          "credit": "Roblox, place 5896294709 (pengemudiindo)"
         },
         {
           "type": "youtube",
@@ -320,10 +411,10 @@
           "credit": "Community video on YouTube"
         }
       ],
-      "verification": "partial",
+      "verification": "official",
       "sourceIds": [
+        "src-roblox-original-cdid",
         "src-roblox-place-v4",
-        "src-roblox-grandmini-group",
         "src-yt-evolution-2022"
       ]
     },
@@ -335,7 +426,7 @@
       "dateConfidence": "unknown",
       "version": null,
       "title": "Motorcycles in classic CDID",
-      "description": "A contributed screenshot shows a classic-style buy menu with a 'MotorBike' category offering a 'Vario' and a 'PC-X' scooter, listed below cars named with real brands ('2008 Toyota Vios Taxi'). Today's CDID uses parody brand names, which fits a pre-revamp build. The screenshot's original source (video, upload date and game version) has not been documented, so it is community-reported evidence rather than confirmation. No changelog or developer post we could access mentions motorcycles, and the V4 changelog lists only cars, trucks and a planned bus. A community video titled about riding a racing motorbike to the mall links to the removed CDID place 5896294709. The current CDID catalogue contains no motorcycles.",
+      "description": "A contributed screenshot shows a classic-style buy menu with a 'MotorBike' category offering a 'Vario' and a 'PC-X' scooter, listed below cars named with real brands ('2008 Toyota Vios Taxi'). Today's CDID uses parody brand names, which fits a pre-revamp build. The screenshot's original source (video, upload date and game version) has not been documented, so it is community-reported evidence rather than confirmation. No changelog or developer post we could access mentions motorcycles, and the V4 changelog text (preserved only on a separate V4-labelled copy) lists only cars, trucks and a planned bus. A community video titled about riding a racing motorbike to the mall links to the original CDID place 5896294709. The current CDID catalogue contains no motorcycles.",
       "media": [
         {
           "type": "image",
@@ -359,28 +450,6 @@
       ]
     },
     {
-      "id": "a-shutdown",
-      "era": "revamp",
-      "date": "2021-05-17",
-      "dateLabel": "17 May 2021",
-      "dateConfidence": "exact",
-      "version": null,
-      "title": "The old places are taken down",
-      "description": "Roblox's records show that on 17 May 2021 the GrandMini group's original July 2020 place was last updated. Three new places were created and updated that same day, and all four are now deleted. The 'pengemudiindo' account's last active place was also updated that day. The reason was never published, but the timing matches a guide's statement that the new CDID was developed in May 2021.",
-      "media": [
-        {
-          "type": "unavailable",
-          "caption": "No media survives from the deleted group places."
-        }
-      ],
-      "verification": "official",
-      "sourceIds": [
-        "src-roblox-grandmini-games",
-        "src-roblox-pengemudiindo-games",
-        "src-guide-v06"
-      ]
-    },
-    {
       "id": "a-relaunch",
       "era": "revamp",
       "date": "2021-06-05",
@@ -388,7 +457,7 @@
       "dateConfidence": "exact",
       "version": "V0.x",
       "title": "'CDID is back'",
-      "description": "The current experience (place 6911148748) was created at 01:58 UTC on 5 June 2021 under the new, verified CDID Studio Official Group. The Luxury Car and Luxury House game passes followed about two hours later. Its description announces that 'Car Driving Indonesia (CDID) is back'. Version numbering started again, and the earliest logged revamp build is V0.3.",
+      "description": "The current experience (place 6911148748) was created at 01:58 UTC on 5 June 2021 under the new, verified CDID Studio Official Group. The Luxury Car and Luxury House game passes followed about two hours later. Its description announces that 'Car Driving Indonesia (CDID) is back'. Version numbering started again, and the earliest logged revamp build is V0.3. Community sources call this new game 'CDID V5' (see the V4 chapter).",
       "media": [
         {
           "type": "image",
@@ -616,11 +685,14 @@
   ],
   "gaps": [
     "No surviving source shows CDID existing in 2019. The earliest dated record is April 2020, on the creator's personal account.",
-    "Release dates for V1, V2.5, V3.3, V3.5 and V4 were never published, so only place creation and edit dates are known.",
     "Classic-era dealership locations, menus and vehicle lists are not documented in any source we could access.",
     "Motorcycles are supported only by a contributed screenshot of a classic buy menu (origin and version not documented). No changelog or developer post confirms when they were added or removed.",
     "Official Discord announcements from 2020–2021 could not be read, because channel access needs a Discord login.",
-    "The Internet Archive and direct YouTube pages could not be reached from our research environment. Videos are therefore identified from search-engine listings and embedded as community footage."
+    "The Internet Archive and direct YouTube pages could not be reached from our research environment. Videos are therefore identified from search-engine listings and embedded as community footage.",
+    "Release dates for V1, V2.5, V3.3, V3.5, V4 and V4.5 were never published. Only place creation dates and image-upload windows are known.",
+    "The exact date the original place closed is not in Roblox's public records. Its 'updated' timestamp (7 March 2025) reflects a later edit.",
+    "Who 'Lemon' was, the duplicate's name and ID, and whether Roblox removed it are unknown.",
+    "The TikTok reference by @beeforiel and the 2024 community blog could not be opened from our research environment. Only search-engine summaries were available."
   ],
   "places": [
     {
@@ -645,6 +717,13 @@
       "status": "Deleted"
     },
     {
+      "placeId": 5896294709,
+      "name": "(CLOSED) Car Driving Indonesia — the original classic CDID",
+      "owner": "pengemudiindo",
+      "created": "2020-10-30",
+      "status": "Closed"
+    },
+    {
       "placeId": 6000194700,
       "name": "old cdid",
       "owner": "pengemudiindo",
@@ -652,15 +731,8 @@
       "status": "Public"
     },
     {
-      "placeId": 5896294709,
-      "name": "Car Driving Indonesia (linked from 2020–21 videos)",
-      "owner": "Unknown",
-      "created": null,
-      "status": "Unavailable"
-    },
-    {
       "placeId": 6267849935,
-      "name": "Car Driving Indonesia (Beta), CDID V4",
+      "name": "Car Driving Indonesia (Beta) — V4-labelled copy, not the original",
       "owner": "xxblueknighgxx",
       "created": "2021-01-19",
       "status": "Public"
@@ -700,5 +772,367 @@
       "created": "2021-08-04",
       "status": "Public"
     }
-  ]
+  ],
+  "incident": {
+    "id": "v4-disappearance",
+    "title": "The Disappearance of CDID V4",
+    "subtitle": "May 2021",
+    "date": "2021-05-17",
+    "intro": "In May 2021 the classic Car Driving Indonesia stopped being playable. Three weeks later, CDID returned as a new game under a new studio group. Community accounts tie the break to an alleged duplication of the game by someone called 'Lemon'. This chapter separates what Roblox's own records prove from what the community remembers, and from what remains unknown.",
+    "sections": [
+      {
+        "id": "background",
+        "n": "01",
+        "heading": "Historical background of CDID V4",
+        "label": "Verified",
+        "body": [
+          "The original Car Driving Indonesia place (5896294709) was created on 30 October 2020 by the account 'pengemudiindo'. It grew to 5.5 million visits and 24,195 favourites through the Village Edition and the V4 updates.",
+          "Its last surviving promotional images, branded 'CDID V4.5', were uploaded between 28 April and 17 May 2021. They show a new mall, TipenLand, new and reworked cars and a map expansion, so the game was still in active development weeks before it disappeared."
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/images/archive/original-cdid-v4-5-icon.webp",
+            "caption": "'CDID V4.5' icon, original place.",
+            "credit": "Roblox, place 5896294709 (pengemudiindo)"
+          },
+          {
+            "type": "image",
+            "src": "/images/archive/original-cdid-shot0-6779625497.webp",
+            "caption": "'New CDID Mall With Interior'.",
+            "credit": "Roblox, place 5896294709 (pengemudiindo)"
+          }
+        ],
+        "sourceIds": [
+          "src-roblox-original-cdid"
+        ]
+      },
+      {
+        "id": "may17",
+        "n": "02",
+        "heading": "The reported disappearance on 17 May 2021",
+        "label": "Verified",
+        "body": [
+          "Community sources, including the 2024 Farrelpee blog and, per the site owner, the @beeforiel TikTok, say the game 'suddenly disappeared' on 17 May 2021.",
+          "Roblox's records independently show activity on exactly that date. The GrandMini Games Studio group's original place was last updated on 17 May 2021, three more group places were created and updated that day, and the last public place on the 'pengemudiindo' account was also updated on 17 May. All the group's places are now deleted.",
+          "The date is therefore corroborated by primary records. What happened on that day, and why, is not recorded."
+        ],
+        "sourceIds": [
+          "src-roblox-grandmini-games",
+          "src-roblox-pengemudiindo-games",
+          "src-blog-farrel-2024",
+          "src-tiktok-beeforiel"
+        ]
+      },
+      {
+        "id": "original-fate",
+        "n": "03",
+        "heading": "What happened to the original experience",
+        "label": "Verified",
+        "body": [
+          "The original place was not deleted. It still exists, owned by 'pengemudiindo', titled '(CLOSED) Car Driving Indonesia' with the message 'We're closing for a moment, Sorry!'. It has no active servers, and a direct lookup returns it as unavailable.",
+          "Whether it was closed by its owner or restricted by Roblox, and on which exact date, cannot be determined from public records. Its 'last updated' date (7 March 2025) reflects a later edit. Nothing suggests the closure was temporary: CDID continued in a different place instead."
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/images/archive/original-cdid-shot2-6779490975.webp",
+            "caption": "'New Cars' (V4.5).",
+            "credit": "Roblox, place 5896294709 (pengemudiindo)"
+          },
+          {
+            "type": "image",
+            "src": "/images/archive/original-cdid-shot4-6657643476.webp",
+            "caption": "'New Map Expansion': Desa Cigunung.",
+            "credit": "Roblox, place 5896294709 (pengemudiindo)"
+          }
+        ],
+        "sourceIds": [
+          "src-roblox-original-cdid"
+        ]
+      },
+      {
+        "id": "lemon",
+        "n": "04",
+        "heading": "The alleged Lemon duplication",
+        "label": "Community Report",
+        "body": [
+          "A community article published in 2024 claims that a member of the CDID staff passed the V4 game files to someone called 'Lemon', who republished the game, and that Roblox later banned Lemon's copy for stealing someone else's work.",
+          "Two community videos from the period make the same allegation in their descriptions: 'CDID was copied by Lemon today' and a call to '#cancelLemon'. One description names a Roblox account. That accusation is unverified and is not reproduced here.",
+          "No developer statement, Roblox record or archived page identifying Lemon, the duplicated game or its removal has been found. The alleged insider is not identified in any source, and this archive does not attribute responsibility to anyone."
+        ],
+        "sourceIds": [
+          "src-blog-farrel-2024",
+          "src-yt-lemon-copy",
+          "src-yt-lemon-cancel",
+          "src-tiktok-beeforiel"
+        ]
+      },
+      {
+        "id": "grandmini",
+        "n": "05",
+        "heading": "Grandmini and the V4-labelled copy — not the original",
+        "label": "Disputed",
+        "body": [
+          "Two different things have been called 'Grandmini' and need to be kept apart.",
+          "Place 6267849935 is a separate 'Car Driving Indonesia (Beta)' place, created on 19 January 2021 by the account xxblueknighgxx. It carries a 'CDID V4' changelog, uses a V4 version of the original's icon artwork, and tells players to report admins to the GrandMini group. It is not the original CDID V4: it has 216,610 visits against the original's 5.5 million, a heavily negative rating (58 up / 278 down), and a separate owner. The site owner identifies it as the alleged duplicate. Roblox records, however, show it was created months before 17 May, is still public and was never removed, while the blog says Lemon's copy was banned. Whether it is the 'Lemon' copy is therefore unverified.",
+          "The GrandMini Games Studio group is owned by 'pengemudiindo', the same account that owns the original game, and CDID developer Hariaall is its Co-Owner. Roblox's records therefore point to GrandMini being the original team's group, not the duplicate's. That conflicts with the site owner's context, and the disagreement is recorded rather than resolved."
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/images/archive/v4-icon.webp",
+            "caption": "Place 6267849935: 'CDID V4' icon (not the original).",
+            "credit": "Roblox, place 6267849935 (xxblueknighgxx)"
+          },
+          {
+            "type": "image",
+            "src": "/images/archive/original-cdid-v4-5-icon.webp",
+            "caption": "Original place 5896294709: 'CDID V4.5' icon.",
+            "credit": "Roblox, place 5896294709 (pengemudiindo)"
+          }
+        ],
+        "sourceIds": [
+          "src-roblox-place-v4",
+          "src-roblox-original-cdid",
+          "src-roblox-grandmini-group",
+          "src-roblox-hariaall",
+          "src-owner-context"
+        ]
+      },
+      {
+        "id": "account",
+        "n": "06",
+        "heading": "The reported deletion of an associated account",
+        "label": "Unverified",
+        "body": [
+          "The site owner reports that the account associated with the incident was deleted. Roblox's public data shows one account in this story in a moderated state: 'pengemudiindo', the owner of the original game and the GrandMini group, whose avatar Roblox returns as 'Blocked'. That status does not show when or why, and it does not mean the account was deleted.",
+          "The other accounts — xxblueknighgxx (owner of the V4-labelled copy), Pengemudiindonesiaa (today's CDID owner) and Hariaall — are active. Which account the report refers to cannot be established. A moderated or deleted account is not evidence of who was responsible for anything."
+        ],
+        "sourceIds": [
+          "src-roblox-account-states",
+          "src-owner-context"
+        ]
+      },
+      {
+        "id": "community",
+        "n": "07",
+        "heading": "Community reactions and surviving records",
+        "label": "Community Report",
+        "body": [
+          "Contemporary reactions survive mainly as short YouTube uploads accusing 'Lemon' of copying CDID. Later, the community kept the classic era alive. CDID developer Hariaall republished V2.5, V3.3 and V3.5 as playable archive places, and a creator posting as @beeforiel retold the story on TikTok (not accessible to us).",
+          "Original Discord announcements from May 2021, if any exist, could not be read."
+        ],
+        "sourceIds": [
+          "src-yt-lemon-copy",
+          "src-yt-lemon-cancel",
+          "src-roblox-place-v33",
+          "src-roblox-place-v25",
+          "src-roblox-place-v35",
+          "src-tiktok-beeforiel"
+        ]
+      },
+      {
+        "id": "v5",
+        "n": "08",
+        "heading": "The road to CDID V5",
+        "label": "Verified",
+        "body": [
+          "Development did continue. On 5 June 2021, 19 days after 17 May, a new Car Driving Indonesia was created under the new, verified CDID Studio Official Group. Its owner's display name is 'Pengemudiindo', and Hariaall, who also holds a co-owner role in the old GrandMini group, holds the Developer role in the new one. Its first description announced that 'Car Driving Indonesia (CDID) is back'.",
+          "Community sources call this new game 'CDID V5' and say it brought a larger map, an island and a ferry. The developers themselves use the name: the official V2.6.5 changelog (2026) introduced a 'V5 Nostalgia 2026 Map & Event' with twenty '[V5 Nostalgic Edition]' cars.",
+          "That V5 was planned as a response to the V4 disappearance, rather than simply following it, is a community account and has not been confirmed by the developers."
+        ],
+        "media": [
+          {
+            "type": "image",
+            "src": "/images/media/game-icon.webp",
+            "caption": "Today's CDID, in the place created on 5 June 2021.",
+            "credit": "Roblox, place 6911148748"
+          }
+        ],
+        "sourceIds": [
+          "src-roblox-api-stats",
+          "src-roblox-group",
+          "src-roblox-hariaall",
+          "src-search-roblox-snapshots",
+          "src-wiki-limited",
+          "src-blog-farrel-2024"
+        ]
+      },
+      {
+        "id": "unknown",
+        "n": "09",
+        "heading": "What remains unverified or unknown",
+        "label": "Unknown",
+        "body": [
+          "Who 'Lemon' was, and whether the name refers to a person, an account or a group.",
+          "The name, Roblox ID and creation date of the alleged duplicate, and whether Roblox removed it.",
+          "Whether any CDID staff member was involved. No source names one, and none is implied here.",
+          "Why and exactly when the original place closed, and whether by its owner or by Roblox.",
+          "Which account the 'deleted account' report refers to.",
+          "The contents of the @beeforiel TikTok and of any May 2021 developer announcements."
+        ],
+        "sourceIds": []
+      }
+    ],
+    "claims": [
+      {
+        "claim": "The original classic CDID was place 5896294709, owned by 'pengemudiindo'",
+        "label": "Verified",
+        "evidence": "Roblox Games API record, favourites and votes, and links from 2020–21 videos",
+        "sourceIds": [
+          "src-roblox-original-cdid",
+          "src-yt-jalan-jalan"
+        ]
+      },
+      {
+        "claim": "Place 6267849935 is not the original CDID V4",
+        "label": "Verified",
+        "evidence": "Different owner and creation date, 4% of the original's visits, and a V4 version of the original's icon artwork",
+        "sourceIds": [
+          "src-roblox-place-v4",
+          "src-roblox-original-cdid"
+        ]
+      },
+      {
+        "claim": "The original team's places changed on 17 May 2021",
+        "label": "Verified",
+        "evidence": "Roblox 'created' and 'updated' timestamps for the GrandMini group and the pengemudiindo account",
+        "sourceIds": [
+          "src-roblox-grandmini-games",
+          "src-roblox-pengemudiindo-games"
+        ]
+      },
+      {
+        "claim": "CDID V4 disappeared on 17 May 2021",
+        "label": "Community Report",
+        "evidence": "Stated by the 2024 blog and, per the site owner, the @beeforiel TikTok. Consistent with the Roblox timestamps, but the original place's closure date is not public",
+        "sourceIds": [
+          "src-blog-farrel-2024",
+          "src-tiktok-beeforiel"
+        ]
+      },
+      {
+        "claim": "The original place was deleted",
+        "label": "Disputed",
+        "evidence": "The place still exists as '(CLOSED) Car Driving Indonesia'; it is closed, not deleted",
+        "sourceIds": [
+          "src-roblox-original-cdid"
+        ]
+      },
+      {
+        "claim": "Someone called 'Lemon' duplicated CDID V4 using leaked files",
+        "label": "Community Report",
+        "evidence": "2024 blog and two period YouTube descriptions; no primary evidence",
+        "sourceIds": [
+          "src-blog-farrel-2024",
+          "src-yt-lemon-copy",
+          "src-yt-lemon-cancel"
+        ]
+      },
+      {
+        "claim": "A CDID staff member leaked the files",
+        "label": "Unverified",
+        "evidence": "Only the 2024 blog; no person is identified",
+        "sourceIds": [
+          "src-blog-farrel-2024"
+        ]
+      },
+      {
+        "claim": "Roblox banned Lemon's copy",
+        "label": "Unverified",
+        "evidence": "Only the 2024 blog; no Roblox record found",
+        "sourceIds": [
+          "src-blog-farrel-2024"
+        ]
+      },
+      {
+        "claim": "'Grandmini' is the Lemon duplicate",
+        "label": "Disputed",
+        "evidence": "Site owner's context supports it; Roblox ownership records point the other way (see section 05)",
+        "sourceIds": [
+          "src-owner-context",
+          "src-roblox-grandmini-group",
+          "src-roblox-original-cdid"
+        ]
+      },
+      {
+        "claim": "The associated account was deleted",
+        "label": "Unverified",
+        "evidence": "One related account (pengemudiindo) shows a moderated status; which account is meant is unknown",
+        "sourceIds": [
+          "src-roblox-account-states",
+          "src-owner-context"
+        ]
+      },
+      {
+        "claim": "Identity of 'Lemon'",
+        "label": "Unknown",
+        "evidence": "No reliable source",
+        "sourceIds": []
+      },
+      {
+        "claim": "CDID development continued in a new game on 5 June 2021",
+        "label": "Verified",
+        "evidence": "Roblox records of the current place, owner and developer roles",
+        "sourceIds": [
+          "src-roblox-api-stats",
+          "src-roblox-hariaall"
+        ]
+      },
+      {
+        "claim": "The new game is what the community calls 'CDID V5'",
+        "label": "Community Report",
+        "evidence": "2024 blog. Developers use 'V5' as an era name in the official 'V5 Nostalgia 2026' event",
+        "sourceIds": [
+          "src-blog-farrel-2024",
+          "src-search-roblox-snapshots",
+          "src-wiki-limited"
+        ]
+      }
+    ],
+    "records": [
+      {
+        "id": "r-original",
+        "label": "Original CDID V4",
+        "detail": "Place 5896294709 · pengemudiindo · created 30 Oct 2020 · now '(CLOSED)'",
+        "status": "Verified"
+      },
+      {
+        "id": "r-copy",
+        "label": "V4-labelled copy ('Grandmini' per site owner)",
+        "detail": "Place 6267849935 · xxblueknighgxx · created 19 Jan 2021 · still public",
+        "status": "Disputed"
+      },
+      {
+        "id": "r-group",
+        "label": "GrandMini Games Studio (group)",
+        "detail": "Group 7069915 · owned by pengemudiindo · places last updated 17 May 2021, now deleted",
+        "status": "Verified"
+      },
+      {
+        "id": "r-lemon",
+        "label": "'Lemon'",
+        "detail": "Identity, account and game unknown",
+        "status": "Unknown"
+      },
+      {
+        "id": "r-account",
+        "label": "Reported account deletion",
+        "detail": "pengemudiindo shows a moderated status; the report's subject is unconfirmed",
+        "status": "Unverified"
+      },
+      {
+        "id": "r-v5",
+        "label": "CDID V5 / the relaunch",
+        "detail": "Place 6911148748 · CDID Studio Official Group · 5 Jun 2021",
+        "status": "Verified"
+      }
+    ],
+    "tiktok": {
+      "url": "https://vt.tiktok.com/ZSp4FHdtQ/",
+      "creator": "@beeforiel",
+      "sourceId": "src-tiktok-beeforiel"
+    }
+  }
 }
