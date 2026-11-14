@@ -526,5 +526,16 @@
     "accessDate": "2026-11-14",
     "reliability": "community",
     "notes": "Community dealership tour. Contents not transcribed here."
+  },
+  {
+    "id": "src-contrib-motorbike-menu",
+    "title": "Contributed screenshot — classic CDID buy menu with a 'MotorBike' category",
+    "url": "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia",
+    "sourceType": "community",
+    "publisher": "Site owner (contributed screenshot)",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "partial",
+    "notes": "Screenshot supplied to the site on 14 Nov 2026: a zoomed video frame of a buy menu listing 'Vario' and 'PC-X' under 'MotorBike', below '2008 Toyota Vios Taxi'. The original video, upload date and game version are not documented. The URL points to the game, because the screenshot has no public source URL."
   }
 ]

@@ -141,7 +141,7 @@ Re-run `python3 scripts/build_data.py` to regenerate the vehicle datasets.
 | Earliest build: "oldest cdid i could ever find in my folder" ("indonesia death road/ ndesovania"), uploaded 28 Apr 2021 | Roblox Games API and thumbnails | Community-reported |
 | Revamp: old places taken down 17 May 2021; new experience created 5 Jun 2021 01:58 UTC under CDID Studio Official Group; first passes the same day; versions restart at V0.x | Roblox APIs; wiki limited log | Officially confirmed |
 | V0.6 (≈ Jun–Jul 2022): Jawa Tengah phase 1, 114 vehicles, new menu, modification system, Rare Imports pass (created 28 Jun 2022) | Guides plus the official pass creation date | Multiple independent sources |
-| Motorcycles in 2020–2021 | Only a video title linking to removed place 5896294709; no changelog or developer source; none in the current catalogue | Unconfirmed |
+| Motorcycles in classic CDID | A screenshot contributed by the site owner (14 Nov 2026) shows a classic buy menu with a 'MotorBike' category (Vario, PC-X) below real-brand cars ('2008 Toyota Vios Taxi'). Its origin and version are not documented. A video title also links to the removed place 5896294709. No changelog or developer source mentions motorcycles, and there are none in the current catalogue | Community-reported |
 
 ### Not found
 - Any 2019 activity.

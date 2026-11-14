@@ -334,9 +334,15 @@
       "dateLabel": "Not verified",
       "dateConfidence": "unknown",
       "version": null,
-      "title": "Motorcycles: not verified",
-      "description": "We found no changelog, developer post or archived place that confirms motorcycles in classic CDID. The V4 changelog lists only cars, trucks and a planned bus. One community video, titled about riding a racing motorbike to the mall, links to the removed place 5896294709, but we could not view it to confirm what it shows. The current CDID catalogue contains no motorcycles.",
+      "title": "Motorcycles in classic CDID",
+      "description": "A contributed screenshot shows a classic-style buy menu with a 'MotorBike' category offering a 'Vario' and a 'PC-X' scooter, listed below cars named with real brands ('2008 Toyota Vios Taxi'). Today's CDID uses parody brand names, which fits a pre-revamp build. The screenshot's original source (video, upload date and game version) has not been documented, so it is community-reported evidence rather than confirmation. No changelog or developer post we could access mentions motorcycles, and the V4 changelog lists only cars, trucks and a planned bus. A community video titled about riding a racing motorbike to the mall links to the removed CDID place 5896294709. The current CDID catalogue contains no motorcycles.",
       "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/classic-motorbike-buy-menu.webp",
+          "caption": "'MotorBike' section of a classic buy menu: Vario and PC-X scooters, below a '2008 Toyota Vios Taxi'. Zoomed frame from footage; the original source and version are not documented.",
+          "credit": "Contributed screenshot · origin not documented"
+        },
         {
           "type": "youtube",
           "videoId": "CV13xMg7gDA",
@@ -344,8 +350,9 @@
           "credit": "Community video on YouTube (unverified)"
         }
       ],
-      "verification": "unconfirmed",
+      "verification": "community",
       "sourceIds": [
+        "src-contrib-motorbike-menu",
         "src-yt-motor",
         "src-roblox-place-v4",
         "src-cdidrepo"
@@ -611,7 +618,7 @@
     "No surviving source shows CDID existing in 2019. The earliest dated record is April 2020, on the creator's personal account.",
     "Release dates for V1, V2.5, V3.3, V3.5 and V4 were never published, so only place creation and edit dates are known.",
     "Classic-era dealership locations, menus and vehicle lists are not documented in any source we could access.",
-    "No source we could access confirms motorcycles in CDID at any point.",
+    "Motorcycles are supported only by a contributed screenshot of a classic buy menu (origin and version not documented). No changelog or developer post confirms when they were added or removed.",
     "Official Discord announcements from 2020–2021 could not be read, because channel access needs a Discord login.",
     "The Internet Archive and direct YouTube pages could not be reached from our research environment. Videos are therefore identified from search-engine listings and embedded as community footage."
   ],
