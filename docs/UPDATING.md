@@ -76,4 +76,4 @@ npm run build   # validates data, then builds every page statically
 git add -A && git commit -m "content: V2.9 update" && git push
 ```
 
-Vercel redeploys automatically on every push to the production branch.
+Netlify rebuilds and redeploys automatically on every push to the connected branch.

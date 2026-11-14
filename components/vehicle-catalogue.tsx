@@ -36,7 +36,7 @@ export function VehicleCatalogue({ initial, total, facets }: { initial: VehicleI
 
   const load = useCallback(() => {
     setError(null);
-    fetch("/api/vehicles")
+    fetch("/api/vehicles.json")
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`);
         return r.json();

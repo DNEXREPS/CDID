@@ -21,7 +21,7 @@ An independent, research-backed website for **Car Driving Indonesia**, the Roblo
 
 ## Tech stack
 
-- **Next.js 16** (App Router, static generation of about 2,850 pages) with **React 19** and **TypeScript**
+- **Next.js 16** (App Router) with **React 19** and **TypeScript**, built as a **static export**: about 2,850 pre-rendered pages written to `out/` and served from a CDN with no server functions
 - **Tailwind CSS 4** with design tokens in `app/globals.css`
 - **Lucide** icons; Archivo (expanded display) and Inter (text) self-hosted through Fontsource
 - No database is required: content is JSON in `/data` behind a small data-access layer, ready to move to Supabase or Postgres (see `docs/DATABASE.md`)
@@ -29,7 +29,7 @@ An independent, research-backed website for **Car Driving Indonesia**, the Roblo
 ## Project structure
 
 ```
-app/                 routes (pages, /api/vehicles static JSON, sitemap, robots, 404, error, loading)
+app/                 routes (pages, /api/vehicles.json static data file, sitemap, robots, 404, error, loading)
 components/          UI: header, footer, catalogue, locator, update feed, cards, badges, sources
 lib/                 types.ts (entities), data.ts (data access), catalogue.ts (filter/sort), format.ts
 data/                all site content as JSON (vehicles, dealerships, updates, sources, …)
@@ -46,8 +46,8 @@ Requires Node.js 20.9 or later.
 ```bash
 npm install
 npm run dev          # http://localhost:3000
-npm run build        # validates /data, then builds everything statically
-npm start            # serve the production build
+npm run build        # validates /data, then exports the static site to out/
+npx serve out        # preview the exported site (any static file server works)
 npm run lint         # TypeScript type-check
 npm run validate:data
 ```
@@ -56,20 +56,33 @@ Regenerating the vehicle dataset from the research snapshots needs Python 3: `py
 
 ## Environment variables
 
-None are required. Optional:
+**None are required.** The site has no API keys, secrets or database credentials.
 
-| Variable | Purpose |
+| Variable | Required? | Purpose |
+|---|---|---|
+| `NEXT_PUBLIC_SITE_URL` | Optional | Canonical URL used in metadata, `sitemap.xml` and `robots.txt`, e.g. a custom domain. If it isn't set, the site uses `URL`. |
+| `URL` | Set automatically by Netlify | Your site's main Netlify address. Do not add it yourself. |
+
+## Deploy to Netlify (free plan)
+
+The project is configured in `netlify.toml`:
+
+| Setting | Value |
 |---|---|
-| `NEXT_PUBLIC_SITE_URL` | Canonical URL for metadata and the sitemap, e.g. `https://cdid.example.com`. On Vercel the production URL is detected automatically. |
+| Build command | `npm run build` |
+| Publish directory | `out` |
+| Node version | 22 (set in `netlify.toml`) |
+| Functions | None: the site is entirely static |
 
-## Deploy to Vercel
+Netlify detects Next.js and runs its official Next.js runtime (`@netlify/plugin-nextjs`), which supports static exports and publishes `out/` as-is. No serverless or edge functions are created, so the site stays well within Netlify Free.
 
-The repository is ready to deploy with zero configuration (`vercel.json` included).
+Dashboard steps:
+1. On app.netlify.com, choose **Add new project → Import an existing project → GitHub**.
+2. Select `dnexreps/cdid` and the branch `claude/dreamy-fermi-zae3cd`.
+3. Check that the build command is `npm run build` and the publish directory is `out` (both are pre-filled from `netlify.toml`).
+4. Click **Deploy**.
 
-1. Go to **vercel.com → Add New… → Project** and import the GitHub repository `dnexreps/cdid`.
-2. Leave the defaults. The framework is detected as Next.js, the build command is `npm run build`, and the output is automatic.
-3. Click **Deploy**. Vercel gives you a public URL such as `https://cdid-xxxx.vercel.app`.
-4. Optional: set **Settings → Git → Production Branch** to the branch you want live, and add a custom domain.
+`vercel.json` is left over from an earlier Vercel setup. Netlify ignores it.
 
 ## Research & accuracy
 
