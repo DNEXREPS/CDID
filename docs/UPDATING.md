@@ -77,3 +77,18 @@ git add -A && git commit -m "content: V2.9 update" && git push
 ```
 
 Netlify rebuilds and redeploys automatically on every push to the connected branch.
+
+## 7. Historical archive
+
+Exhibits are in `data/archive.json`:
+- `eras`: the four eras.
+- `entries`: each has a date or label, a date confidence, a version, a description, `media` and `sourceIds`.
+- `verification`: one of `official`, `multiple`, `community`, `partial` or `unconfirmed`.
+- `media` items are `image` (a file in `public/images/archive/`), `youtube` (`videoId`) or `unavailable` (a caption explaining what is missing). Never add a recreated or AI-generated image.
+- `comparisons` drive the before/after sliders. `gaps` lists what remains unverified.
+
+The validator checks that every image file exists and every source ID resolves.
+
+## 8. CDID Live
+
+There is no content to maintain: figures come live from Roblox. If CDID publishes another map sub-place ID, you can sample that map instead by changing `MAP_PLACE` in `netlify/lib/live-core.mjs`.

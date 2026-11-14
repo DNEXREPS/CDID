@@ -43,7 +43,7 @@ export default function UpdatesPage() {
     .sort((a, b) => versionKey(b.version) - versionKey(a.version))
     .map((u) => ({
       ...u,
-      documented: u.officialText.length > 0,
+      documented: u.officialText.length > 0 || Object.values(u.changelog).some((l) => Array.isArray(l) && l.length > 0),
       limitedVehicles: (log.get(u.version.replace(/\.0$/, ""))?.vehicles ?? []).map((v) => ({
         name: v.name,
         availability: v.availability,

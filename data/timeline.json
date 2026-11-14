@@ -1,15 +1,227 @@
 [
-  {"id": "t-2021-launch", "date": "2021-06-05", "dateLabel": "5 June 2021", "dateConfidence": "exact", "version": null, "title": "Car Driving Indonesia goes live", "description": "The CDID Studio Official Group creates the Car Driving Indonesia experience on Roblox. The verified group is owned by Pengemudiindonesiaa ('shad'), whom the community wiki credits as the game's creator.", "image": "/images/media/game-icon.webp", "sourceIds": ["src-roblox-api-stats", "src-roblox-group", "src-wiki-home"]},
-  {"id": "t-early-versions", "date": null, "dateLabel": "2021–2022 · exact dates not verified", "dateConfidence": "unknown", "version": "V0.3 – V1.2", "title": "The early builds", "description": "The community's limited-car log goes back to V0.3, so CDID shipped many small versions before it reached V1. Changelog texts for these builds could not be recovered.", "image": null, "sourceIds": ["src-wiki-limited"]},
-  {"id": "t-jawa-tengah", "date": null, "dateLabel": "Date not verified", "dateConfidence": "unknown", "version": null, "title": "Into Central Java", "description": "A Jawa Tengah map runs as a sub-place of the main CDID experience and covers the north-coast route from Palimanan to Semarang. Creators at the time called it the game's biggest update.", "image": null, "sourceIds": ["src-roblox-subplace", "src-wiki-map"]},
-  {"id": "t-v125", "date": "2023-08-17", "dateLabel": "≈ August 2023", "dateConfidence": "approximate", "version": "V1.2.5", "title": "HUT RI 78", "description": "Added 30 new cars and 3 special cars, an event for Indonesia's 78th Independence Day, and new modification options for lights, horn and reset.", "image": null, "sourceIds": ["src-reupload-v125"]},
-  {"id": "t-v19", "date": null, "dateLabel": "Halloween season · year not confirmed", "dateConfidence": "unknown", "version": "V1.9", "title": "Modification arrives", "description": "Added 102 new and reworked cars, a Halloween event and a new modification feature.", "image": null, "sourceIds": ["src-search-roblox-snapshots"]},
-  {"id": "t-v20", "date": "2025-03-15", "dateLabel": "≈ Ramadan 2025 (inferred)", "dateConfidence": "approximate", "version": "V2.0", "title": "Version 2 and the Bali map", "description": "Added the Bali map, a private-server panel, a redesigned modification and speedometer UI, 76 new and reworked cars, and a Ramadhan quest.", "image": null, "sourceIds": ["src-search-roblox-snapshots", "src-wiki-map"]},
-  {"id": "t-v22", "date": "2025-08-17", "dateLabel": "≈ August 2025", "dateConfidence": "approximate", "version": "V2.2.0", "title": "Jawa Timur unlocked", "description": "Opened East Java (Ngawi, Kediri, Surabaya, Sidoarjo, Malang). Also introduced the Weekly Car Drop, a new mobile UI and a reworked minimap.", "image": null, "sourceIds": ["src-wiki-updates"]},
-  {"id": "t-v23", "date": "2025-10-31", "dateLabel": "≈ October 2025", "dateConfidence": "approximate", "version": "V2.3", "title": "Exclusive cars", "description": "Introduced Exclusive cars, sold in limited unit counts, plus tyre modification, automatic headlamps and self-cancelling turn signals.", "image": null, "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]},
-  {"id": "t-v24", "date": "2025-12-20", "dateLabel": "≈ December 2025", "dateConfidence": "approximate", "version": "V2.4", "title": "Phone and toll systems rebuilt", "description": "The Christmas update reworked the in-game phone and toll systems and added a limited-time map.", "image": null, "sourceIds": ["src-search-roblox-snapshots"]},
-  {"id": "t-v26", "date": "2026-06-20", "dateLabel": "≈ mid 2026", "dateConfidence": "approximate", "version": "V2.5.5 – V2.6.5", "title": "The seasonal-map era", "description": "Ramadhan 2026, Eid al-Adha 2026 and V5 Nostalgia 2026 brought seasonal maps and points-based reward cars, alongside more advanced AI traffic.", "image": null, "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]},
-  {"id": "t-v27", "date": "2026-08-17", "dateLabel": "≈ August 2026", "dateConfidence": "approximate", "version": "V2.7", "title": "Bandung rebuilt", "description": "Bandung became a reworked standalone map, launched with a myBCA event and an Independence Day celebration.", "image": null, "sourceIds": ["src-search-roblox-snapshots"]},
-  {"id": "t-v28", "date": "2026-11-13", "dateLabel": "November 2026 · current", "dateConfidence": "approximate", "version": "V2.8", "title": "Bali Phase 1 & the Gacha System", "description": "The current version: 92 new and reworked cars, Halloween 2026, a reworked Office Job, the Bali Phase 1 refresh and a new gacha system.", "image": "/images/media/shot-75212879644756.webp", "sourceIds": ["src-roblox-game"]},
-  {"id": "t-milestone", "date": "2026-11-14", "dateLabel": "14 November 2026 · snapshot", "dateConfidence": "exact", "version": null, "title": "Over 555 million visits", "description": "CDID has passed 555 million visits and 436,000 favourites. The developer group has 453,000 members and the official Discord about 330,000.", "image": null, "sourceIds": ["src-roblox-api-stats", "src-roblox-group", "src-discord-invite"]}
+  {
+    "id": "t-2020-predecessors",
+    "date": "2020-04-23",
+    "dateLabel": "April – November 2020",
+    "dateConfidence": "exact",
+    "version": null,
+    "title": "Before CDID",
+    "description": "The creator's personal account 'pengemudiindo' publishes Indonesian driving places such as City of Snow Shoreside (April 2020) and Bolivia Death Road ('the next Indonesian Death Road', June 2020). It also runs GrandMini Games Studio, a group that calls itself the 'Car Driving Indonesia Official Group'. A place named 'old cdid' follows in November 2020.",
+    "image": "/images/archive/oldest-cdid-4.webp",
+    "sourceIds": [
+      "src-roblox-pengemudiindo-games",
+      "src-roblox-grandmini-group",
+      "src-roblox-grandmini-games"
+    ]
+  },
+  {
+    "id": "t-classic",
+    "date": "2021-01-28",
+    "dateLabel": "Late 2020 – early 2021",
+    "dateConfidence": "approximate",
+    "version": "V1 – V4",
+    "title": "Classic CDID",
+    "description": "The first numbered builds: V1, V2.5, the Village Edition (V3.3), V3.5 and V4. V4 brought new cars and trucks, a reworked map and Jakarta, a new UI, police jobs and a new highway. Exact release dates were never published.",
+    "image": "/images/archive/v3-3-village-edition-icon.webp",
+    "sourceIds": [
+      "src-roblox-place-v33",
+      "src-roblox-place-v4",
+      "src-roblox-place-v25",
+      "src-yt-evolution-2024"
+    ]
+  },
+  {
+    "id": "t-shutdown",
+    "date": "2021-05-17",
+    "dateLabel": "17 May 2021",
+    "dateConfidence": "exact",
+    "version": null,
+    "title": "The old places come down",
+    "description": "Roblox records show the original group's places last updated on 17 May 2021; all are now deleted. The reason was never published.",
+    "image": null,
+    "sourceIds": [
+      "src-roblox-grandmini-games"
+    ]
+  },
+  {
+    "id": "t-2021-launch",
+    "date": "2021-06-05",
+    "dateLabel": "5 June 2021",
+    "dateConfidence": "exact",
+    "version": "V0.x",
+    "title": "CDID is back",
+    "description": "The current experience opens under the verified CDID Studio Official Group. The group is owned by Pengemudiindonesiaa (display name 'Pengemudiindo'), whom the community wiki credits as the creator. The first game passes are created the same day, and version numbers start again from V0.x.",
+    "image": "/images/media/game-icon.webp",
+    "sourceIds": [
+      "src-roblox-api-stats",
+      "src-roblox-group",
+      "src-roblox-gamepasses",
+      "src-wiki-home"
+    ]
+  },
+  {
+    "id": "t-archive",
+    "date": "2021-08-04",
+    "dateLabel": "4 August 2021",
+    "dateConfidence": "exact",
+    "version": null,
+    "title": "Classic builds preserved",
+    "description": "CDID developer Hariaall republishes V2.5 and V3.5 as archive places alongside the Village Edition, so the classic era stays playable.",
+    "image": "/images/archive/v2-5-icon.webp",
+    "sourceIds": [
+      "src-roblox-place-v25",
+      "src-roblox-place-v35",
+      "src-roblox-hariaall"
+    ]
+  },
+  {
+    "id": "t-v06",
+    "date": "2022-06-28",
+    "dateLabel": "≈ June–July 2022",
+    "dateConfidence": "approximate",
+    "version": "V0.6",
+    "title": "Into Central Java",
+    "description": "The Jawa Tengah map (phase 1) arrives with 114 new vehicles, a new main menu, the car modification system and the Rare Imports pass, created 28 June 2022.",
+    "image": null,
+    "sourceIds": [
+      "src-guide-v06",
+      "src-roblox-gamepasses",
+      "src-yt-jateng-review"
+    ]
+  },
+  {
+    "id": "t-v125",
+    "date": "2023-08-17",
+    "dateLabel": "≈ August 2023",
+    "dateConfidence": "approximate",
+    "version": "V1.2.5",
+    "title": "HUT RI 78",
+    "description": "Added 30 new cars and 3 special cars, an event for Indonesia's 78th Independence Day, and new modification options for lights, horn and reset.",
+    "image": null,
+    "sourceIds": [
+      "src-reupload-v125"
+    ]
+  },
+  {
+    "id": "t-v19",
+    "date": null,
+    "dateLabel": "Halloween season · year not confirmed",
+    "dateConfidence": "unknown",
+    "version": "V1.9",
+    "title": "Modification arrives",
+    "description": "Added 102 new and reworked cars, a Halloween event and a new modification feature.",
+    "image": null,
+    "sourceIds": [
+      "src-search-roblox-snapshots"
+    ]
+  },
+  {
+    "id": "t-v20",
+    "date": "2025-03-15",
+    "dateLabel": "≈ Ramadan 2025 (inferred)",
+    "dateConfidence": "approximate",
+    "version": "V2.0",
+    "title": "Version 2 and the Bali map",
+    "description": "Added the Bali map, a private-server panel, a redesigned modification and speedometer UI, 76 new and reworked cars, and a Ramadhan quest.",
+    "image": null,
+    "sourceIds": [
+      "src-search-roblox-snapshots",
+      "src-wiki-map"
+    ]
+  },
+  {
+    "id": "t-v22",
+    "date": "2025-08-17",
+    "dateLabel": "≈ August 2025",
+    "dateConfidence": "approximate",
+    "version": "V2.2.0",
+    "title": "Jawa Timur unlocked",
+    "description": "Opened East Java (Ngawi, Kediri, Surabaya, Sidoarjo, Malang). Also introduced the Weekly Car Drop, a new mobile UI and a reworked minimap.",
+    "image": null,
+    "sourceIds": [
+      "src-wiki-updates"
+    ]
+  },
+  {
+    "id": "t-v23",
+    "date": "2025-10-31",
+    "dateLabel": "≈ October 2025",
+    "dateConfidence": "approximate",
+    "version": "V2.3",
+    "title": "Exclusive cars",
+    "description": "Introduced Exclusive cars, sold in limited unit counts, plus tyre modification, automatic headlamps and self-cancelling turn signals.",
+    "image": null,
+    "sourceIds": [
+      "src-search-roblox-snapshots",
+      "src-wiki-limited"
+    ]
+  },
+  {
+    "id": "t-v24",
+    "date": "2025-12-20",
+    "dateLabel": "≈ December 2025",
+    "dateConfidence": "approximate",
+    "version": "V2.4",
+    "title": "Phone and toll systems rebuilt",
+    "description": "The Christmas update reworked the in-game phone and toll systems and added a limited-time map.",
+    "image": null,
+    "sourceIds": [
+      "src-search-roblox-snapshots"
+    ]
+  },
+  {
+    "id": "t-v26",
+    "date": "2026-06-20",
+    "dateLabel": "≈ mid 2026",
+    "dateConfidence": "approximate",
+    "version": "V2.5.5 – V2.6.5",
+    "title": "The seasonal-map era",
+    "description": "Ramadhan 2026, Eid al-Adha 2026 and V5 Nostalgia 2026 brought seasonal maps and points-based reward cars, alongside more advanced AI traffic.",
+    "image": null,
+    "sourceIds": [
+      "src-search-roblox-snapshots",
+      "src-wiki-limited"
+    ]
+  },
+  {
+    "id": "t-v27",
+    "date": "2026-08-17",
+    "dateLabel": "≈ August 2026",
+    "dateConfidence": "approximate",
+    "version": "V2.7",
+    "title": "Bandung rebuilt",
+    "description": "Bandung became a reworked standalone map, launched with a myBCA event and an Independence Day celebration.",
+    "image": null,
+    "sourceIds": [
+      "src-search-roblox-snapshots"
+    ]
+  },
+  {
+    "id": "t-v28",
+    "date": "2026-11-13",
+    "dateLabel": "November 2026 · current",
+    "dateConfidence": "approximate",
+    "version": "V2.8",
+    "title": "Bali Phase 1 & the Gacha System",
+    "description": "The current version: 92 new and reworked cars, Halloween 2026, a reworked Office Job, the Bali Phase 1 refresh and a new gacha system.",
+    "image": "/images/media/shot-75212879644756.webp",
+    "sourceIds": [
+      "src-roblox-game"
+    ]
+  },
+  {
+    "id": "t-milestone",
+    "date": "2026-11-14",
+    "dateLabel": "14 November 2026 · snapshot",
+    "dateConfidence": "exact",
+    "version": null,
+    "title": "Over 555 million visits",
+    "description": "CDID has passed 555 million visits and 436,000 favourites. The developer group has 453,000 members and the official Discord about 330,000.",
+    "image": null,
+    "sourceIds": [
+      "src-roblox-api-stats",
+      "src-roblox-group",
+      "src-discord-invite"
+    ]
+  }
 ]

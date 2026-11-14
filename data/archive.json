@@ -1,0 +1,697 @@
+{
+  "eras": [
+    {
+      "id": "before-cdid",
+      "number": "01",
+      "title": "Before CDID",
+      "period": "2020",
+      "summary": "Before the current game, its creator was building Indonesian driving places on a personal Roblox account and running a group that called itself the 'Car Driving Indonesia Official Group'. Much of that work has since been deleted, so this era is pieced together from Roblox's own records."
+    },
+    {
+      "id": "classic",
+      "number": "02",
+      "title": "Classic CDID",
+      "period": "Late 2020 – May 2021",
+      "summary": "The first numbered 'Car Driving Indonesia' builds: V1, V2.5, the Village Edition (V3.3), V3.5 and V4. Exact release dates were never recorded publicly, but places, thumbnails and changelog text from the period survive."
+    },
+    {
+      "id": "revamp",
+      "number": "03",
+      "title": "The Revamp",
+      "period": "May – August 2021",
+      "summary": "The old group's places were removed in May 2021. On 5 June 2021 a new experience opened under CDID Studio Official Group, and version numbers started again from V0.x."
+    },
+    {
+      "id": "modern",
+      "number": "04",
+      "title": "Modern CDID",
+      "period": "2021 – today",
+      "summary": "Continuous updates added Central Java, East Java, Bali, a modification system, game passes, seasonal events and thousands of cars, reaching V2.8 in November 2026."
+    }
+  ],
+  "entries": [
+    {
+      "id": "a-css",
+      "era": "before-cdid",
+      "date": "2020-04-23",
+      "dateLabel": "23 April 2020",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "City of Snow Shoreside",
+      "description": "The earliest public place on the account 'pengemudiindo', which later owned the original CDID group. It is a 'slot' driving game: 'buy your slots to the owner to feel how you drive in the snow.' It is not CDID, but it is the earliest surviving driving project from the same account.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/city-of-snow-shoreside-icon.webp",
+          "caption": "City of Snow Shoreside, official place icon.",
+          "credit": "Roblox, place 4934370051"
+        }
+      ],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-pengemudiindo-games"
+      ]
+    },
+    {
+      "id": "a-death-road",
+      "era": "before-cdid",
+      "date": "2020-06-14",
+      "dateLabel": "14 June 2020",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "The 'Death Road' projects",
+      "description": "On 14 June 2020 the same account created 'Bolivia Death Road (Coming Soon.)', described as 'The next Indonesian Death Road.' That wording implies an earlier 'Indonesian Death Road' project existed, but no place by that name from 2020 survives. In April 2021 the CDID developer Hariaall published 'Indonesia Death Road (REMASTERED)' (ver 1.7, over 3.4 million visits).",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/indonesia-death-road-remastered-taxi.webp",
+          "caption": "Indonesia Death Road (REMASTERED), 2021: a blue taxi MPV on a jungle road.",
+          "credit": "Roblox, place 6729857588 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/indonesia-death-road-remastered-night.webp",
+          "caption": "Indonesia Death Road (REMASTERED): night driving with traffic and a box truck.",
+          "credit": "Roblox, place 6729857588 (Hariaall)"
+        }
+      ],
+      "verification": "partial",
+      "sourceIds": [
+        "src-roblox-pengemudiindo-games",
+        "src-roblox-idr"
+      ]
+    },
+    {
+      "id": "a-grandmini",
+      "era": "before-cdid",
+      "date": "2020-07-25",
+      "dateLabel": "25 July 2020",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "GrandMini Games Studio, the first CDID group",
+      "description": "The Roblox group GrandMini Games Studio, owned by 'pengemudiindo', still describes itself as the 'Car Driving Indonesia Official Group' whose game 'is still in development'. Its earliest place was created on 25 July 2020. Every place it owned is now deleted, so the title and contents of that first place cannot be confirmed. The current owner of CDID Studio uses the display name 'Pengemudiindo', which suggests the same creator. That link has not been officially stated.",
+      "media": [
+        {
+          "type": "unavailable",
+          "caption": "The group's places were deleted; no thumbnails remain on Roblox."
+        }
+      ],
+      "verification": "partial",
+      "sourceIds": [
+        "src-roblox-grandmini-group",
+        "src-roblox-grandmini-games",
+        "src-roblox-group"
+      ]
+    },
+    {
+      "id": "a-oldest",
+      "era": "before-cdid",
+      "date": null,
+      "dateLabel": "Undated · uploaded to Roblox 28 April 2021",
+      "dateConfidence": "unknown",
+      "version": "Earliest build",
+      "title": "'The oldest CDID I could ever find'",
+      "description": "In April 2021, CDID developer Hariaall uploaded a build titled 'oldest cdid i could ever find in my folder', described only as 'indonesia death road/ ndesovania'. Its screenshots show an early map with a fuel station, two-lane highway, village houses, Indonesian 'B' plates and a basic on-screen HUD. When the build was originally made is not stated.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/oldest-cdid-1.webp",
+          "caption": "Hatchback on an early two-lane road, with hills in the background.",
+          "credit": "Roblox, place 6738228104 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/oldest-cdid-4.webp",
+          "caption": "A fuel station from the earliest surviving build.",
+          "credit": "Roblox, place 6738228104 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/oldest-cdid-5.webp",
+          "caption": "Truck traffic past village houses.",
+          "credit": "Roblox, place 6738228104 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/oldest-cdid-3.webp",
+          "caption": "The early in-game HUD and a crashed car.",
+          "credit": "Roblox, place 6738228104 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/oldest-cdid-2.webp",
+          "caption": "Hatchback showcase render with plate 'B5EVF3'.",
+          "credit": "Roblox, place 6738228104 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/oldest-cdid-icon.webp",
+          "caption": "Saloon showcase render with an Indonesian 'B' plate.",
+          "credit": "Roblox, place 6738228104 (Hariaall)"
+        }
+      ],
+      "verification": "community",
+      "sourceIds": [
+        "src-roblox-oldest-cdid",
+        "src-roblox-hariaall"
+      ]
+    },
+    {
+      "id": "a-old-cdid",
+      "era": "before-cdid",
+      "date": "2020-11-25",
+      "dateLabel": "25 November 2020",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "'old cdid'",
+      "description": "A place named 'old cdid', created on the 'pengemudiindo' account on 25 November 2020 and last updated in July 2021. It has no description and Roblox no longer serves its images, but the name shows that by late 2020 'CDID' was already the game's identity.",
+      "media": [
+        {
+          "type": "unavailable",
+          "caption": "Roblox no longer serves this place's thumbnail."
+        }
+      ],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-pengemudiindo-games"
+      ]
+    },
+    {
+      "id": "a-v1",
+      "era": "classic",
+      "date": null,
+      "dateLabel": "2020 · exact date not verified",
+      "dateConfidence": "unknown",
+      "version": "V1",
+      "title": "Car Driving Indonesia V1",
+      "description": "Community 'Evolution of CDID' compilations begin with a V1 build. No V1 changelog or place survives in a source we could open.",
+      "media": [
+        {
+          "type": "youtube",
+          "videoId": "UrUhN099fsE",
+          "title": "(NEW) Evolution of Car Driving Indonesia 2020 - 2024",
+          "credit": "Community video on YouTube"
+        }
+      ],
+      "verification": "community",
+      "sourceIds": [
+        "src-yt-evolution-2024"
+      ]
+    },
+    {
+      "id": "a-v25",
+      "era": "classic",
+      "date": null,
+      "dateLabel": "Original date not verified · archived 4 August 2021",
+      "dateConfidence": "unknown",
+      "version": "V2.5",
+      "title": "V2.5: highways and toll gates",
+      "description": "V2.5 survives as an archive place republished by CDID developer Hariaall. Its images show a multi-lane toll highway with heavy traffic, concrete barriers and buses queuing at a toll gate. Those toll roads are still central to the game today.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/v2-5-icon.webp",
+          "caption": "V2.5: a traffic jam on the toll highway.",
+          "credit": "Roblox, place 7200180453 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/v2-5-toll-gate.webp",
+          "caption": "V2.5: buses at a toll gate.",
+          "credit": "Roblox, place 7200180453 (Hariaall)"
+        }
+      ],
+      "verification": "multiple",
+      "sourceIds": [
+        "src-roblox-place-v25",
+        "src-yt-evolution-2024"
+      ]
+    },
+    {
+      "id": "a-v33",
+      "era": "classic",
+      "date": "2021-01-28",
+      "dateLabel": "Place created 28 January 2021",
+      "dateConfidence": "approximate",
+      "version": "V3.3",
+      "title": "Village Edition (V3.3)",
+      "description": "'Car Driving Indonesia : Village Edition', branded 'CDID : VE', moved the action to village roads lined with fields and featured Indonesian staples such as the Avanza and Kijang Innova. The surviving place (5.8 million visits) was created on 28 January 2021. Period YouTube videos link to an earlier Village Edition place (5896294709) that Roblox no longer lists.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/v3-3-village-edition-icon.webp",
+          "caption": "'CDID : VE', the Village Edition icon.",
+          "credit": "Roblox, place 6310028031 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/v3-3-village-edition-new-car.webp",
+          "caption": "'NEW CAR': a white Avanza-style MPV promoted in the Village Edition.",
+          "credit": "Roblox, place 6310028031 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/v3-3-village-edition-1.webp",
+          "caption": "MPVs on a village road.",
+          "credit": "Roblox, place 6310028031 (Hariaall)"
+        },
+        {
+          "type": "image",
+          "src": "/images/archive/v3-3-village-edition-2.webp",
+          "caption": "Cars at a zebra crossing, with a taxi.",
+          "credit": "Roblox, place 6310028031 (Hariaall)"
+        },
+        {
+          "type": "youtube",
+          "videoId": "3FxZS1y6Suk",
+          "title": "Roblox Car Driving Indonesia: Village Edition Live",
+          "credit": "Community video on YouTube"
+        }
+      ],
+      "verification": "multiple",
+      "sourceIds": [
+        "src-roblox-place-v33",
+        "src-yt-ve-live",
+        "src-yt-jalan-jalan",
+        "src-yt-evolution-2024"
+      ]
+    },
+    {
+      "id": "a-v35",
+      "era": "classic",
+      "date": null,
+      "dateLabel": "Original date not verified · archived 4 August 2021",
+      "dateConfidence": "unknown",
+      "version": "V3.5",
+      "title": "V3.5",
+      "description": "V3.5 survives as an archive place republished by CDID developer Hariaall with the note 'Here's the another version you want to discover.' No V3.5 changelog was found, and Roblox no longer serves the place's screenshots.",
+      "media": [
+        {
+          "type": "unavailable",
+          "caption": "V3.5 screenshots are no longer served by Roblox. No verified V3.5 footage was found."
+        }
+      ],
+      "verification": "multiple",
+      "sourceIds": [
+        "src-roblox-place-v35",
+        "src-yt-evolution-2024"
+      ]
+    },
+    {
+      "id": "a-v4",
+      "era": "classic",
+      "date": "2021-04-05",
+      "dateLabel": "Early 2021 · changelog last edited 5 April 2021",
+      "dateConfidence": "approximate",
+      "version": "V4",
+      "title": "CDID V4",
+      "description": "The last classic build, with its changelog preserved on a 'Car Driving Indonesia (Beta)' place that sends players to the GrandMini Games Studio group. It reads: 'Added 4 New Cars and Trucks (Bus coming soon) · Reworked Map · Improved Graphics · New UI · New Police Jobs (Sound Coming Soon) · New Highway · Jakarta Reworked (more building Coming Soon)'. It also warned that mobile players would experience lag.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/archive/v4-icon.webp",
+          "caption": "The 'CDID V4' icon: a pickup on a rural road.",
+          "credit": "Roblox, place 6267849935"
+        },
+        {
+          "type": "youtube",
+          "videoId": "tqrFRdupWzQ",
+          "title": "Evolution Of Car Driving Indonesia 2020 - 2022",
+          "credit": "Community video on YouTube"
+        }
+      ],
+      "verification": "partial",
+      "sourceIds": [
+        "src-roblox-place-v4",
+        "src-roblox-grandmini-group",
+        "src-yt-evolution-2022"
+      ]
+    },
+    {
+      "id": "a-motorcycles",
+      "era": "classic",
+      "date": null,
+      "dateLabel": "Not verified",
+      "dateConfidence": "unknown",
+      "version": null,
+      "title": "Motorcycles: not verified",
+      "description": "We found no changelog, developer post or archived place that confirms motorcycles in classic CDID. The V4 changelog lists only cars, trucks and a planned bus. One community video, titled about riding a racing motorbike to the mall, links to the removed place 5896294709, but we could not view it to confirm what it shows. The current CDID catalogue contains no motorcycles.",
+      "media": [
+        {
+          "type": "youtube",
+          "videoId": "CV13xMg7gDA",
+          "title": "Aku Ke MALL Naik Motor Racing - Roblox Indonesia",
+          "credit": "Community video on YouTube (unverified)"
+        }
+      ],
+      "verification": "unconfirmed",
+      "sourceIds": [
+        "src-yt-motor",
+        "src-roblox-place-v4",
+        "src-cdidrepo"
+      ]
+    },
+    {
+      "id": "a-shutdown",
+      "era": "revamp",
+      "date": "2021-05-17",
+      "dateLabel": "17 May 2021",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "The old places are taken down",
+      "description": "Roblox's records show that on 17 May 2021 the GrandMini group's original July 2020 place was last updated. Three new places were created and updated that same day, and all four are now deleted. The 'pengemudiindo' account's last active place was also updated that day. The reason was never published, but the timing matches a guide's statement that the new CDID was developed in May 2021.",
+      "media": [
+        {
+          "type": "unavailable",
+          "caption": "No media survives from the deleted group places."
+        }
+      ],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-grandmini-games",
+        "src-roblox-pengemudiindo-games",
+        "src-guide-v06"
+      ]
+    },
+    {
+      "id": "a-relaunch",
+      "era": "revamp",
+      "date": "2021-06-05",
+      "dateLabel": "5 June 2021",
+      "dateConfidence": "exact",
+      "version": "V0.x",
+      "title": "'CDID is back'",
+      "description": "The current experience (place 6911148748) was created at 01:58 UTC on 5 June 2021 under the new, verified CDID Studio Official Group. The Luxury Car and Luxury House game passes followed about two hours later. Its description announces that 'Car Driving Indonesia (CDID) is back'. Version numbering started again, and the earliest logged revamp build is V0.3.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/media/game-icon.webp",
+          "caption": "The current CDID icon (V2.8, Halloween 2026 edition).",
+          "credit": "Roblox, place 6911148748"
+        },
+        {
+          "type": "youtube",
+          "videoId": "y3jYcaXrSCA",
+          "title": "[REVAMP I] Car Driving Indonesia",
+          "credit": "Community video on YouTube"
+        }
+      ],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-game",
+        "src-roblox-api-stats",
+        "src-roblox-gamepasses",
+        "src-roblox-group",
+        "src-wiki-limited",
+        "src-yt-revamp"
+      ]
+    },
+    {
+      "id": "a-early-passes",
+      "era": "revamp",
+      "date": "2021-07-30",
+      "dateLabel": "July – December 2021",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "Early revamp game passes",
+      "description": "Game-pass creation dates trace the early revamp: Emergency Vehicle (30 July 2021), Custom Radio Access (8 August 2021), then Additional Ownable Car, Custom Color and Custom Plate (22 December 2021).",
+      "media": [],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-gamepasses"
+      ]
+    },
+    {
+      "id": "a-preservation",
+      "era": "revamp",
+      "date": "2021-08-04",
+      "dateLabel": "4 August 2021",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "The classic builds are preserved",
+      "description": "Two months after the relaunch, CDID developer Hariaall republished V2.5 and V3.5 as archive places, cross-linked with the Village Edition (V3.3). Together these places have over 7 million visits, which is why classic CDID can still be played.",
+      "media": [],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-place-v25",
+        "src-roblox-place-v35",
+        "src-roblox-place-v33",
+        "src-roblox-hariaall"
+      ]
+    },
+    {
+      "id": "a-retro-economy",
+      "era": "modern",
+      "date": "2022-03-30",
+      "dateLabel": "30 March 2022",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "Retro cars and the jobs economy",
+      "description": "The Retro Car, 2x Paycheck and +50% Job Earning passes were created on the same day. This marks retro cars as a dedicated category and the start of paid boosts for job income.",
+      "media": [],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-gamepasses"
+      ]
+    },
+    {
+      "id": "a-v06",
+      "era": "modern",
+      "date": "2022-06-28",
+      "dateLabel": "≈ June–July 2022",
+      "dateConfidence": "approximate",
+      "version": "V0.6",
+      "title": "Into Central Java",
+      "description": "V0.6 added the Jawa Tengah map (phase 1: Palimanan, Cirebon, Tegal, Pekalongan), 114 new vehicles, a new main menu and UI, the car modification system, reworked Sentul and Villa roads, more car slots and the Rare Imports pass. The pass was created on 28 June 2022, and V0.6.5 brought Independence Day (August) limited cars.",
+      "media": [
+        {
+          "type": "youtube",
+          "videoId": "ZaHPesqhs5A",
+          "title": "REVIEW LENGKAP Update Besar Jawa Tengah di CDID",
+          "credit": "Community video on YouTube"
+        }
+      ],
+      "verification": "multiple",
+      "sourceIds": [
+        "src-guide-v06",
+        "src-roblox-gamepasses",
+        "src-wiki-limited",
+        "src-yt-jateng-review",
+        "src-yt-jateng-preview"
+      ]
+    },
+    {
+      "id": "a-v125",
+      "era": "modern",
+      "date": "2023-08-17",
+      "dateLabel": "≈ August 2023",
+      "dateConfidence": "approximate",
+      "version": "V1.2.5",
+      "title": "HUT RI 78",
+      "description": "Added 30 new cars and 3 special cars, an event for Indonesia's 78th Independence Day, and new modification options (lights, horn and reset).",
+      "media": [],
+      "verification": "partial",
+      "sourceIds": [
+        "src-reupload-v125"
+      ]
+    },
+    {
+      "id": "a-remastered",
+      "era": "modern",
+      "date": "2023-11-30",
+      "dateLabel": "30 November 2023",
+      "dateConfidence": "exact",
+      "version": null,
+      "title": "CDID REMASTERED (BETA)",
+      "description": "The CDID Studio owner's account created a separate 'CDID REMASTERED (BETA)' place, alongside earlier experiments such as 'Cipularang' (2021) and 'CDID-Project Traffic Racer (BETA)' (2022). These places received few visits, and none replaced the main game.",
+      "media": [],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-cdidstudio-places"
+      ]
+    },
+    {
+      "id": "a-v20",
+      "era": "modern",
+      "date": "2025-03-15",
+      "dateLabel": "≈ March 2025",
+      "dateConfidence": "approximate",
+      "version": "V2.0",
+      "title": "Version 2 and the Bali map",
+      "description": "Added the Bali map, a new modification and speedometer UI, a private-server panel, 76 new and reworked cars and a Ramadhan quest. The Advanced Modification pass was created on 28 March 2025, which fits that timing.",
+      "media": [],
+      "verification": "multiple",
+      "sourceIds": [
+        "src-search-roblox-snapshots",
+        "src-roblox-gamepasses",
+        "src-wiki-map"
+      ]
+    },
+    {
+      "id": "a-v22",
+      "era": "modern",
+      "date": "2025-08-17",
+      "dateLabel": "≈ August 2025",
+      "dateConfidence": "approximate",
+      "version": "V2.2.0",
+      "title": "Jawa Timur unlocked",
+      "description": "Opened East Java (Ngawi, Kediri, Surabaya, Sidoarjo, Malang) and introduced the Weekly Car Drop.",
+      "media": [],
+      "verification": "community",
+      "sourceIds": [
+        "src-wiki-updates"
+      ]
+    },
+    {
+      "id": "a-v28",
+      "era": "modern",
+      "date": "2026-11-13",
+      "dateLabel": "November 2026 · current",
+      "dateConfidence": "approximate",
+      "version": "V2.8",
+      "title": "Bali Phase 1 and the gacha system",
+      "description": "The current version: 92 new and reworked cars, Halloween 2026, a reworked Office Job, the Bali Phase 1 refresh and a new gacha system.",
+      "media": [
+        {
+          "type": "image",
+          "src": "/images/media/shot-75212879644756.webp",
+          "caption": "Halloween 2026 key art.",
+          "credit": "Roblox, place 6911148748"
+        }
+      ],
+      "verification": "official",
+      "sourceIds": [
+        "src-roblox-game"
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "c-toll",
+      "title": "The toll gate",
+      "before": {
+        "src": "/images/archive/v2-5-toll-gate.webp",
+        "label": "Classic · V2.5",
+        "caption": "Buses queue at a toll gate.",
+        "credit": "Roblox, place 7200180453"
+      },
+      "after": {
+        "src": "/images/media/shot-12846486104.webp",
+        "label": "Modern · V2.x",
+        "caption": "Gerbang Tol Cikampek Utama, with separate lanes for small vehicles.",
+        "credit": "Roblox, place 6911148748"
+      },
+      "sourceIds": [
+        "src-roblox-place-v25",
+        "src-roblox-media"
+      ]
+    },
+    {
+      "id": "c-traffic",
+      "title": "Highway traffic",
+      "before": {
+        "src": "/images/archive/v2-5-icon.webp",
+        "label": "Classic · V2.5",
+        "caption": "A traffic jam on the classic toll highway.",
+        "credit": "Roblox, place 7200180453"
+      },
+      "after": {
+        "src": "/images/media/shot-12846484501.webp",
+        "label": "Modern · V2.x",
+        "caption": "Headlights in heavy traffic on the modern map.",
+        "credit": "Roblox, place 6911148748"
+      },
+      "sourceIds": [
+        "src-roblox-place-v25",
+        "src-roblox-media"
+      ]
+    }
+  ],
+  "gaps": [
+    "No surviving source shows CDID existing in 2019. The earliest dated record is April 2020, on the creator's personal account.",
+    "Release dates for V1, V2.5, V3.3, V3.5 and V4 were never published, so only place creation and edit dates are known.",
+    "Classic-era dealership locations, menus and vehicle lists are not documented in any source we could access.",
+    "No source we could access confirms motorcycles in CDID at any point.",
+    "Official Discord announcements from 2020–2021 could not be read, because channel access needs a Discord login.",
+    "The Internet Archive and direct YouTube pages could not be reached from our research environment. Videos are therefore identified from search-engine listings and embedded as community footage."
+  ],
+  "places": [
+    {
+      "placeId": 4934370051,
+      "name": "City of Snow Shoreside (CSS)",
+      "owner": "pengemudiindo",
+      "created": "2020-04-23",
+      "status": "Public"
+    },
+    {
+      "placeId": 5179340575,
+      "name": "Bolivia Death Road (Coming Soon.)",
+      "owner": "pengemudiindo",
+      "created": "2020-06-14",
+      "status": "Public"
+    },
+    {
+      "placeId": 5427458291,
+      "name": "[Content Deleted]",
+      "owner": "GrandMini Games Studio (group)",
+      "created": "2020-07-25",
+      "status": "Deleted"
+    },
+    {
+      "placeId": 6000194700,
+      "name": "old cdid",
+      "owner": "pengemudiindo",
+      "created": "2020-11-25",
+      "status": "Public"
+    },
+    {
+      "placeId": 5896294709,
+      "name": "Car Driving Indonesia (linked from 2020–21 videos)",
+      "owner": "Unknown",
+      "created": null,
+      "status": "Unavailable"
+    },
+    {
+      "placeId": 6267849935,
+      "name": "Car Driving Indonesia (Beta), CDID V4",
+      "owner": "xxblueknighgxx",
+      "created": "2021-01-19",
+      "status": "Public"
+    },
+    {
+      "placeId": 6310028031,
+      "name": "Car Driving Indonesia : Village Edition (V3.3)",
+      "owner": "Hariaall",
+      "created": "2021-01-28",
+      "status": "Public"
+    },
+    {
+      "placeId": 6738228104,
+      "name": "oldest cdid i could ever find in my folder",
+      "owner": "Hariaall",
+      "created": "2021-04-28",
+      "status": "Public"
+    },
+    {
+      "placeId": 6911148748,
+      "name": "Car Driving Indonesia (current)",
+      "owner": "CDID Studio Official Group",
+      "created": "2021-06-05",
+      "status": "Public"
+    },
+    {
+      "placeId": 7200180453,
+      "name": "Car Driving Indonesia (V2.5)",
+      "owner": "Hariaall",
+      "created": "2021-08-04",
+      "status": "Public"
+    },
+    {
+      "placeId": 7200306515,
+      "name": "Car Driving Indonesia (V3.5)",
+      "owner": "Hariaall",
+      "created": "2021-08-04",
+      "status": "Public"
+    }
+  ]
+}

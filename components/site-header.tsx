@@ -10,11 +10,13 @@ import { RobloxIcon } from "./icons";
 export const NAV = [
   { href: "/", label: "Home" },
   { href: "/about", label: "About" },
+  { href: "/archive", label: "Archive" },
   { href: "/vehicles", label: "Vehicles" },
   { href: "/dealerships", label: "Dealerships" },
   { href: "/updates", label: "Updates" },
   { href: "/guides", label: "Guides" },
   { href: "/community", label: "Community" },
+  { href: "/live", label: "Live" },
 ];
 
 const PLAY_URL = "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia";
@@ -64,12 +66,12 @@ export function SiteHeader() {
                   href={n.href}
                   aria-current={isActive(n.href) ? "page" : undefined}
                   className={cx(
-                    "relative px-3 py-2 font-display text-[0.78rem] font-semibold tracking-[0.12em] uppercase transition-colors [font-stretch:112%]",
+                    "relative px-2 py-2 font-display text-[0.72rem] font-semibold tracking-[0.1em] uppercase transition-colors xl:px-3 xl:text-[0.78rem] xl:tracking-[0.12em] [font-stretch:112%]",
                     isActive(n.href) ? "text-paper" : "text-silver hover:text-paper",
                   )}
                 >
                   {n.label}
-                  <span className={cx("absolute inset-x-3 -bottom-0.5 h-0.5 bg-merah transition-transform duration-300 origin-left", isActive(n.href) ? "scale-x-100" : "scale-x-0")} />
+                  <span className={cx("absolute inset-x-2 -bottom-0.5 xl:inset-x-3 h-0.5 bg-merah transition-transform duration-300 origin-left", isActive(n.href) ? "scale-x-100" : "scale-x-0")} />
                 </Link>
               </li>
             ))}

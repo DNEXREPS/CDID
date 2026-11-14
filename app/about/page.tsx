@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { game, getTimeline } from "@/lib/data";
 import { formatDate, formatNumber } from "@/lib/format";
-import { Container, PageHero, Plate, SectionHeading } from "@/components/ui";
+import { ArrowRight } from "lucide-react";
+import { Button, Container, PageHero, Plate, SectionHeading } from "@/components/ui";
 import { SourceList } from "@/components/source-list";
 
 export const metadata: Metadata = {
@@ -19,7 +20,7 @@ export default function AboutPage() {
         eyebrow="About CDID"
         title={<>Built on<br />Indonesian roads</>}
         image="/images/media/shot-14006205781.webp"
-        intro="Car Driving Indonesia started in June 2021 with a simple promise: the everyday experience of driving in Indonesia, on Roblox. It has since passed half a billion visits."
+        intro="Car Driving Indonesia began as a 2020 project, whose classic V1–V4 builds were tied to the GrandMini Games Studio group, and was relaunched on 5 June 2021 as today's CDID. Its promise is the everyday experience of driving in Indonesia, on Roblox, and it has since passed half a billion visits."
       />
 
       <section className="bg-paper text-ink">
@@ -72,7 +73,8 @@ export default function AboutPage() {
           <SectionHeading
             eyebrow="Timeline"
             title="Milestones"
-            intro="Every milestone below links to its sources. Dates we couldn't confirm are marked approximate or unverified. The community wiki's original history page was lost to vandalism, so early years are sparse."
+            intro="Every milestone below links to its sources. Dates we couldn't confirm are marked approximate or unverified. For screenshots, period footage and the full 2020–2021 story, visit the archive."
+            action={<Button href="/archive" variant="ghost" icon={<ArrowRight className="size-4" />}>Open the archive</Button>}
           />
           <nav aria-label="Jump to year" className="sticky top-16 z-10 -mx-4 mt-10 flex gap-1 overflow-x-auto border-y border-white/10 bg-asphalt/95 px-4 py-2 backdrop-blur md:top-[4.5rem] sm:mx-0 sm:px-0">
             {years.map((y) => (

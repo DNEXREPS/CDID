@@ -8,7 +8,7 @@ export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date("2026-11-14");
-  const pages = ["", "/about", "/vehicles", "/dealerships", "/updates", "/guides", "/community", "/sources"];
+  const pages = ["", "/about", "/vehicles", "/dealerships", "/updates", "/guides", "/community", "/sources", "/archive", "/live"];
   return [
     ...pages.map((p) => ({ url: `${base}${p}`, lastModified: now, priority: p === "" ? 1 : 0.8 })),
     ...getDealerships().map((d) => ({ url: `${base}/dealerships/${d.id}`, lastModified: now, priority: 0.6 })),

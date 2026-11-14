@@ -6,15 +6,48 @@
     "introducedVersion": null,
     "summary": "The capital, and the map most players start in. Dense towers, a busy central boulevard, and brand showrooms along the main streets.",
     "areas": [
-      {"name": "Central Jakarta", "landmarks": ["Monas (National Monument)", "Merdeka Square", "Bundaran HI", "Gambir Station"]},
-      {"name": "Senayan", "landmarks": ["Gelora Bung Karno (GBK)"]},
-      {"name": "South Jakarta", "landmarks": ["Blok M", "Melawai"]}
+      {
+        "name": "Central Jakarta",
+        "landmarks": [
+          "Monas (National Monument)",
+          "Merdeka Square",
+          "Bundaran HI",
+          "Gambir Station"
+        ]
+      },
+      {
+        "name": "Senayan",
+        "landmarks": [
+          "Gelora Bung Karno (GBK)"
+        ]
+      },
+      {
+        "name": "South Jakarta",
+        "landmarks": [
+          "Blok M",
+          "Melawai"
+        ]
+      }
     ],
-    "facilities": ["Brand dealerships", "Modification garage", "Car wash", "Barista job (reworked V2.7.5)", "Mandarin Heritage Hotel taxi stand", "Halte Stasiun Gambir (Travel job)"],
+    "facilities": [
+      "Brand dealerships",
+      "Modification garage",
+      "Car wash",
+      "Barista job (reworked V2.7.5)",
+      "Mandarin Heritage Hotel taxi stand",
+      "Halte Stasiun Gambir (Travel job)"
+    ],
     "image": "/images/media/shot-14006205781.webp",
     "imageCaption": "Monas rises over Jakarta's central boulevard.",
     "verificationStatus": "community",
-    "sourceIds": ["src-wiki-map", "src-wiki-jobs", "src-wiki-building", "src-roblox-media"]
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-jobs",
+      "src-wiki-building",
+      "src-roblox-media"
+    ],
+    "dealershipNote": null,
+    "communityTours": []
   },
   {
     "id": "jawa-barat",
@@ -23,37 +56,127 @@
     "introducedVersion": null,
     "summary": "West Java: commuter cities, the Sentul circuit, mountain roads to Puncak, and Bandung. Bandung was rebuilt as a standalone map in V2.7, and West Java's lighting was improved in V2.6.",
     "areas": [
-      {"name": "Bekasi", "landmarks": ["Summarecon Bekasi", "Upside Down Pyramid", "Tokoma Factory", "Drag strip & drift spot", "SMA School CDID"]},
-      {"name": "BSD", "landmarks": ["AEON Mall", "Teraskota BSD", "Summarecon Mall Serpong", "Edutown Drift Arena", "Pagedangan off-road track", "Cara Hospitals", "The Summit Apartment", "Tipen Land"]},
-      {"name": "Sentul", "landmarks": ["Sentul circuit (multiple layouts)", "Modification garage", "PT. TrueBird Indonesia Tbk"]},
-      {"name": "Ciawi", "landmarks": ["Jagorawi toll road terminus"]},
-      {"name": "Puncak", "landmarks": ["Mountain pass", "Luxury villa"]},
-      {"name": "Bandung", "landmarks": ["Gedung Sate", "Jembatan Pasupati", "Dago"]}
+      {
+        "name": "Bekasi",
+        "landmarks": [
+          "Summarecon Bekasi",
+          "Upside Down Pyramid",
+          "Tokoma Factory",
+          "Drag strip & drift spot",
+          "SMA School CDID"
+        ]
+      },
+      {
+        "name": "BSD",
+        "landmarks": [
+          "AEON Mall",
+          "Teraskota BSD",
+          "Summarecon Mall Serpong",
+          "Edutown Drift Arena",
+          "Pagedangan off-road track",
+          "Cara Hospitals",
+          "The Summit Apartment",
+          "Tipen Land"
+        ]
+      },
+      {
+        "name": "Sentul",
+        "landmarks": [
+          "Sentul circuit (multiple layouts)",
+          "Modification garage",
+          "PT. TrueBird Indonesia Tbk"
+        ]
+      },
+      {
+        "name": "Ciawi",
+        "landmarks": [
+          "Jagorawi toll road terminus"
+        ]
+      },
+      {
+        "name": "Puncak",
+        "landmarks": [
+          "Mountain pass",
+          "Luxury villa"
+        ]
+      },
+      {
+        "name": "Bandung",
+        "landmarks": [
+          "Gedung Sate",
+          "Jembatan Pasupati",
+          "Dago"
+        ]
+      }
     ],
-    "facilities": ["Used, commercial and brand dealerships", "Circuit racing", "Drift arena", "Off-road track", "Emergency Service hospital (BSD)"],
+    "facilities": [
+      "Used, commercial and brand dealerships",
+      "Circuit racing",
+      "Drift arena",
+      "Off-road track",
+      "Emergency Service hospital (BSD)"
+    ],
     "image": "/images/media/shot-12846486104.webp",
     "imageCaption": "Gerbang Tol Cikampek Utama, the gateway east out of Jakarta.",
     "verificationStatus": "community",
-    "sourceIds": ["src-wiki-map", "src-wiki-jobs", "src-search-roblox-snapshots", "src-roblox-media"]
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-jobs",
+      "src-search-roblox-snapshots",
+      "src-roblox-media"
+    ],
+    "dealershipNote": null,
+    "communityTours": []
   },
   {
     "id": "jawa-tengah",
     "name": "Jawa Tengah",
     "order": 3,
-    "introducedVersion": null,
-    "summary": "Central Java's north-coast route, from Palimanan and Cirebon through Tegal and Pekalongan to Semarang. It runs as a sub-place of the main CDID experience.",
+    "introducedVersion": "V0.6",
+    "summary": "Central Java's north-coast route, from Palimanan and Cirebon through Tegal and Pekalongan to Semarang. Phase 1 arrived in V0.6 (2022), and the map runs as its own sub-place (9508940498) inside the main experience.",
     "areas": [
-      {"name": "Palimanan", "landmarks": []},
-      {"name": "Cirebon", "landmarks": []},
-      {"name": "Tegal", "landmarks": ["Rumah Sakit Tegal"]},
-      {"name": "Pekalongan", "landmarks": []},
-      {"name": "Semarang", "landmarks": []}
+      {
+        "name": "Palimanan",
+        "landmarks": []
+      },
+      {
+        "name": "Cirebon",
+        "landmarks": []
+      },
+      {
+        "name": "Tegal",
+        "landmarks": [
+          "Rumah Sakit Tegal"
+        ]
+      },
+      {
+        "name": "Pekalongan",
+        "landmarks": []
+      },
+      {
+        "name": "Semarang",
+        "landmarks": []
+      }
     ],
-    "facilities": ["Emergency Service hospital (Tegal)", "Travel job stop (Tegal)"],
+    "facilities": [
+      "Emergency Service hospital (Tegal)",
+      "Travel job stop (Tegal)"
+    ],
     "image": null,
     "imageCaption": null,
     "verificationStatus": "community",
-    "sourceIds": ["src-wiki-map", "src-wiki-jobs", "src-roblox-subplace"]
+    "sourceIds": [
+      "src-guide-v06",
+      "src-roblox-subplace",
+      "src-wiki-jobs",
+      "src-wiki-map"
+    ],
+    "dealershipNote": "No dealership location in this region could be verified. The community wiki and guides list only the cities, and no official or written source names a showroom here. The community video tours below may show dealerships, but we could not watch them to confirm.",
+    "communityTours": [
+      "src-yt-dealers-v17",
+      "src-yt-dealers",
+      "src-yt-dealers-p1"
+    ]
   },
   {
     "id": "jawa-timur",
@@ -62,17 +185,40 @@
     "introducedVersion": "V2.2.0",
     "summary": "East Java, opened in V2.2.0 and covering Ngawi, Kediri, Surabaya, Sidoarjo and Malang.",
     "areas": [
-      {"name": "Ngawi", "landmarks": []},
-      {"name": "Kediri", "landmarks": []},
-      {"name": "Surabaya", "landmarks": []},
-      {"name": "Sidoarjo", "landmarks": []},
-      {"name": "Malang", "landmarks": []}
+      {
+        "name": "Ngawi",
+        "landmarks": []
+      },
+      {
+        "name": "Kediri",
+        "landmarks": []
+      },
+      {
+        "name": "Surabaya",
+        "landmarks": []
+      },
+      {
+        "name": "Sidoarjo",
+        "landmarks": []
+      },
+      {
+        "name": "Malang",
+        "landmarks": []
+      }
     ],
     "facilities": [],
     "image": null,
     "imageCaption": null,
     "verificationStatus": "community",
-    "sourceIds": ["src-wiki-updates"]
+    "sourceIds": [
+      "src-wiki-updates"
+    ],
+    "dealershipNote": "No dealership location in this region could be verified. The community wiki and guides list only the cities, and no official or written source names a showroom here. The community video tours below may show dealerships, but we could not watch them to confirm.",
+    "communityTours": [
+      "src-yt-dealers-v17",
+      "src-yt-dealers",
+      "src-yt-dealers-p1"
+    ]
   },
   {
     "id": "bali",
@@ -81,10 +227,19 @@
     "introducedVersion": "V2.0",
     "summary": "The island map, added in V2.0. Its Phase 1 refresh shipped in V2.8.",
     "areas": [],
-    "facilities": ["Car wash"],
+    "facilities": [
+      "Car wash"
+    ],
     "image": null,
     "imageCaption": null,
     "verificationStatus": "official",
-    "sourceIds": ["src-roblox-game", "src-search-roblox-snapshots", "src-wiki-map", "src-wiki-building"]
+    "sourceIds": [
+      "src-roblox-game",
+      "src-search-roblox-snapshots",
+      "src-wiki-map",
+      "src-wiki-building"
+    ],
+    "dealershipNote": null,
+    "communityTours": []
   }
 ]

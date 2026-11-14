@@ -160,6 +160,8 @@ export interface Region {
   imageCaption: string | null;
   verificationStatus: Verification;
   sourceIds: string[];
+  dealershipNote?: string | null;
+  communityTours?: string[];
 }
 
 export interface TimelineEntry {
@@ -229,4 +231,39 @@ export interface GameInfo {
     playingAtSnapshot: number;
   };
   sourceIds: string[];
+}
+
+export type HistoryVerification = "official" | "multiple" | "community" | "partial" | "unconfirmed";
+
+export type ArchiveMedia =
+  | { type: "image"; src: string; caption: string; credit: string }
+  | { type: "youtube"; videoId: string; title: string; credit: string }
+  | { type: "unavailable"; caption: string };
+
+export interface ArchiveEntry {
+  id: string;
+  era: string;
+  date: string | null;
+  dateLabel: string;
+  dateConfidence: "exact" | "approximate" | "unknown";
+  version: string | null;
+  title: string;
+  description: string;
+  media: ArchiveMedia[];
+  verification: HistoryVerification;
+  sourceIds: string[];
+}
+
+export interface ArchiveData {
+  eras: { id: string; number: string; title: string; period: string; summary: string }[];
+  entries: ArchiveEntry[];
+  comparisons: {
+    id: string;
+    title: string;
+    before: { src: string; label: string; caption: string; credit: string };
+    after: { src: string; label: string; caption: string; credit: string };
+    sourceIds: string[];
+  }[];
+  gaps: string[];
+  places: { placeId: number; name: string; owner: string; created: string | null; status: string }[];
 }

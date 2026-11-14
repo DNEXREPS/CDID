@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getDealershipCounts, getDealerships, getRegions, getSeasonalMaps, getVehicles } from "@/lib/data";
+import { getDealershipCounts, getDealerships, getRegions, getSeasonalMaps, getSourcesByIds, getVehicles } from "@/lib/data";
 import { Container, PageHero, Plate, SectionHeading, VerificationBadge } from "@/components/ui";
 import { DealershipLocator, type LocatorDealer } from "@/components/dealership-locator";
 import { SourceList } from "@/components/source-list";
@@ -80,6 +80,39 @@ export default function DealershipsPage() {
                       ))}
                     </dl>
                   )}
+                  {(() => {
+                    const here = dealers.filter((d) => d.regionIds.includes(r.id));
+                    return (
+                      <div className="mt-6 border border-white/10 bg-white/[0.02] p-4">
+                        <p className="eyebrow text-steel">Dealerships in {r.name}</p>
+                        {here.length ? (
+                          <ul className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+                            {here.map((d) => (
+                              <li key={d.id}>
+                                <a href={`/dealerships/${d.id}`} className="text-paper underline-offset-4 hover:underline">{d.name}</a>
+                                <span className="text-steel"> · {d.city}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        ) : (
+                          <p className="mt-2 text-sm text-silver">None verified yet.</p>
+                        )}
+                        {r.dealershipNote && <p className="mt-3 text-[0.8rem] leading-relaxed text-steel">{r.dealershipNote}</p>}
+                        {r.communityTours && r.communityTours.length > 0 && (
+                          <ul className="mt-3 space-y-1 text-[0.8rem]">
+                            {getSourcesByIds(r.communityTours).map((t) => (
+                              <li key={t.id}>
+                                <a href={t.url} target="_blank" rel="noopener noreferrer" className="text-silver underline-offset-4 hover:text-paper hover:underline">
+                                  {t.title.replace(/^YouTube — /, "")}
+                                </a>{" "}
+                                <span className="text-steel">· community video, not transcribed</span>
+                              </li>
+                            ))}
+                          </ul>
+                        )}
+                      </div>
+                    );
+                  })()}
                   <SourceList ids={r.sourceIds} dark className="mt-6" />
                 </div>
                 {r.image ? (

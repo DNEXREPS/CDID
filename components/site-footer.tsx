@@ -12,6 +12,8 @@ const COLUMNS = [
       { href: "/dealerships", label: "Dealership locator" },
       { href: "/updates", label: "Updates & patch notes" },
       { href: "/about", label: "The story of CDID" },
+      { href: "/archive", label: "Historical archive" },
+      { href: "/live", label: "CDID Live statistics" },
     ],
   },
   {

@@ -16,8 +16,9 @@ import timelineJson from "@/data/timeline.json";
 import guidesJson from "@/data/guides.json";
 import brandsJson from "@/data/brands.json";
 import gameJson from "@/data/game.json";
+import archiveJson from "@/data/archive.json";
 import type {
-  Brand, Dealership, GameInfo, GameUpdate, Gamepass, Guide, LimitedLogEntry, Region, SocialLink, Source,
+  ArchiveData, Brand, Dealership, GameInfo, GameUpdate, Gamepass, Guide, LimitedLogEntry, Region, SocialLink, Source,
   TimelineEntry, Vehicle, VehicleIndexRow,
 } from "./types";
 
@@ -123,4 +124,8 @@ export function getFeaturedVehicles(): Vehicle[] {
   const picked = FEATURED_NAMES.map((n) => byName.get(n.toLowerCase())).filter((v): v is Vehicle => Boolean(v?.image));
   if (picked.length >= 4) return picked;
   return vehicles.filter((v) => v.image && v.availability === "dealership").slice(0, 8);
+}
+
+export function getArchive(): ArchiveData {
+  return archiveJson as ArchiveData;
 }

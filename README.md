@@ -18,6 +18,8 @@ An independent, research-backed website for **Car Driving Indonesia**, the Roblo
 | Guides | `/guides`, `/guides/[id]` | 11 guides with search and category filter |
 | Community | `/community` | Verified official channels kept separate from community resources |
 | Sources | `/sources` | Full source register, verification labels and known limitations |
+| Archive | `/archive` | Digital museum from the 2020 predecessors through classic V2.5–V4, the 2021 revamp and modern CDID: authentic Roblox screenshots, period footage, before/after sliders, five-level verification |
+| CDID Live | `/live` (+ homepage) | Real-time Roblox statistics: players, visits, favourites, likes/dislikes, a server sample, game status, 24-hour trend; auto-refresh, stale and error states |
 
 ## Tech stack
 
@@ -56,7 +58,7 @@ Regenerating the vehicle dataset from the research snapshots needs Python 3: `py
 
 ## Environment variables
 
-**None are required.** The site has no API keys, secrets or database credentials.
+**None are required** (CDID Live uses only public Roblox endpoints). The site has no API keys, secrets or database credentials.
 
 | Variable | Required? | Purpose |
 |---|---|---|
@@ -72,9 +74,9 @@ The project is configured in `netlify.toml`:
 | Build command | `npm run build` |
 | Publish directory | `out` |
 | Node version | 22 (set in `netlify.toml`) |
-| Functions | None: the site is entirely static |
+| Functions | One: `netlify/functions/live.mjs`, served at `/api/live` (CDID Live statistics) |
 
-Netlify detects Next.js and runs its official Next.js runtime (`@netlify/plugin-nextjs`), which supports static exports and publishes `out/` as-is. No serverless or edge functions are created, so the site stays well within Netlify Free.
+Netlify detects Next.js and runs its official Next.js runtime (`@netlify/plugin-nextjs`), which supports static exports and publishes `out/` as-is. All pages are static. The only server code is the `/api/live` function, whose response is cached on Netlify's CDN for 60 seconds, so it runs about once a minute at most regardless of traffic. Its snapshots use Netlify Blobs. Both are included in Netlify Free and need no configuration or keys.
 
 Dashboard steps:
 1. On app.netlify.com, choose **Add new project → Import an existing project → GitHub**.
@@ -96,3 +98,10 @@ Read `research/RESEARCH_REPORT.md` for what was verified, how, and what wasn't. 
 ## Updating content
 
 See `docs/UPDATING.md` for adding an update, refreshing vehicles, verifying a dealership location, or adding a guide.
+
+## CDID Live: how it works
+
+- `netlify/functions/live.mjs` (the handler) and `netlify/lib/live-core.mjs` (testable logic) call the public Roblox APIs server-side. Browsers can't call Roblox directly because of CORS.
+- `Netlify-CDN-Cache-Control: public, durable, s-maxage=60, stale-while-revalidate=300` means all visitors share one Roblox request per minute.
+- `components/live-stats.tsx` polls `/api/live` every 60 seconds, pauses while the tab is hidden, and keeps the last good data with a "stale" label when a refresh fails. With no data at all it shows "Unable to retrieve live data. Please try again later." It never shows placeholder numbers.
+- `/api/live` only exists on Netlify. Under `npm run dev` or a plain static server, the panel shows its error state, which is expected.

@@ -109,6 +109,7 @@ export function UpdateFeed({ items }: { items: FeedItem[] }) {
                       <div className="flex flex-wrap items-center gap-2">
                         <span className="border border-emerald-300/30 px-2 py-0.5 text-[0.65rem] font-semibold tracking-[0.12em] text-emerald-300 uppercase">{u.status}</span>
                         {!u.documented && <span className="text-[0.72rem] text-steel">Changelog not recovered</span>}
+                        {u.documented && u.officialText.length === 0 && <span className="text-[0.72rem] text-steel">Summarised from community guides</span>}
                       </div>
                       <h2 className="display mt-3 text-2xl md:text-3xl">{u.title}</h2>
                       <p className="mt-3 max-w-2xl text-silver">{u.summary}</p>

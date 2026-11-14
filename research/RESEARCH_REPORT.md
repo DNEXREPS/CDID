@@ -119,3 +119,62 @@ No upcoming, announced or rumoured update could be verified, so the Updates page
 - `wiki/*.txt`
 
 Re-run `python3 scripts/build_data.py` to regenerate the vehicle datasets.
+
+---
+
+# Addendum — 14 November 2026: history, dealerships, live statistics
+
+## A. Historical archive (`/archive`, `data/archive.json`)
+
+### Method
+- **Official records:** Roblox APIs were queried for every account, group and place connected to CDID: places owned by group 7069915 and by users 254673003, 2206427820, 2584360064 and 2309163393; group descriptions and roles; universe records; and thumbnails. Raw responses are in `research/raw/history/`.
+- **Period footage:** found through search-engine listings of YouTube videos. Video IDs and titles come from those listings. The videos are embedded click-to-play as clearly labelled community footage, and we did not view them ourselves.
+- **Not reachable:** the Internet Archive (Wayback Machine), YouTube pages, and Discord channels. The research environment's network policy could not be extended (the change was rejected), and Discord channels need a login.
+
+### Key findings
+| Finding | Evidence | Level |
+|---|---|---|
+| Account `pengemudiindo` (254673003) published Indonesian driving places from 23 Apr 2020 (City of Snow Shoreside), plus Bolivia Death Road (14 Jun 2020, "The next Indonesian Death Road") and "old cdid" (25 Nov 2020) | Roblox Games API | Officially confirmed |
+| GrandMini Games Studio (group 7069915, owner `pengemudiindo`) describes itself as the "Car Driving Indonesia Official Group". Its first place was created 25 Jul 2020; all its places are now deleted, last updated 17 May 2021 | Roblox Groups and Games APIs | Officially confirmed (records). The contents of the deleted places are unknown |
+| "CDID V4" changelog (new cars and trucks, reworked map, new UI, police jobs, new highway, Jakarta rework) is preserved on place 6267849935 (created 19 Jan 2021, last edited 5 Apr 2021). It refers players to the GrandMini group | Roblox Games API | Partially verified (the uploader account's link to the team is undocumented) |
+| Classic builds V2.5, V3.3 (Village Edition) and V3.5 survive as places published by Hariaall, who holds the Developer role in CDID Studio Official Group and is Co-Owner of GrandMini | Roblox APIs; community "Evolution of CDID" videos list V1, V2.5, V3.3, V3.5, V4, then Revamp | Multiple independent sources |
+| Earliest build: "oldest cdid i could ever find in my folder" ("indonesia death road/ ndesovania"), uploaded 28 Apr 2021 | Roblox Games API and thumbnails | Community-reported |
+| Revamp: old places taken down 17 May 2021; new experience created 5 Jun 2021 01:58 UTC under CDID Studio Official Group; first passes the same day; versions restart at V0.x | Roblox APIs; wiki limited log | Officially confirmed |
+| V0.6 (≈ Jun–Jul 2022): Jawa Tengah phase 1, 114 vehicles, new menu, modification system, Rare Imports pass (created 28 Jun 2022) | Guides plus the official pass creation date | Multiple independent sources |
+| Motorcycles in 2020–2021 | Only a video title linking to removed place 5896294709; no changelog or developer source; none in the current catalogue | Unconfirmed |
+
+### Not found
+- Any 2019 activity.
+- Exact release dates for V1–V4.
+- Classic-era dealership locations, menus and vehicle lists.
+- V3.5 media: Roblox no longer serves its thumbnails, so the site shows a placeholder.
+
+### Media
+The 17 images in `public/images/archive/` were downloaded from Roblox's thumbnail service for the places above. They are shown with their place ID and uploader. No image was created or edited.
+
+## B. Dealerships: Jawa Tengah, Jawa Timur and other regions
+- **Checked:** the wiki's Map, Cars and Jobs pages and all 1,052 car articles (searched for every Central and East Java city name); cardrivingindonesia.wiki; and Indonesian- and English-language web searches.
+- **Result:** no written or official source names a dealership in **Jawa Tengah, Jawa Timur or Bali**.
+  - "Tegal Tuning Systems" is a tuned-car trim name, not a location.
+  - "Komersialcdid" is a fan roleplay Instagram account, not an in-game showroom.
+  - Three community video tours exist (V1.7-era and later) but could not be viewed. They are linked as "not transcribed".
+- **Outcome:** no records were invented. Each region now shows its verified dealerships, or "None verified yet" with the explanation and the video links.
+- **Other regions:** reviewed and unchanged. Bandung entries still carry the warning that they predate the V2.7 rebuild.
+
+## C. CDID Live (`/live`, homepage section)
+- **Endpoints (all public, no credentials):**
+  - `apis.roblox.com/universes/v1/places/6911148748/universe`, which resolves the universe ID 2640407187 (it differs from the place ID)
+  - `games.roblox.com/v1/games?universeIds=…`: players online, visits, favourites, last update, description (current version is parsed from it)
+  - `games.roblox.com/v1/games/votes?universeIds=…`: thumbs-up and thumbs-down counts, both public, so the positive percentage is derived
+  - `games.roblox.com/v1/games/9508940498/servers/Public`: the Jawa Tengah map's servers (50 players each)
+- **Root place servers:** the root place 6911148748 only lists single-player menu servers (Roblox reports maxPlayers 1). Other map sub-place IDs are not public, so the site shows a labelled one-map sample rather than a game-wide server count.
+- **Rate limits:** the servers endpoint returned HTTP 429 after a few rapid calls. The function therefore calls each endpoint at most once per cache period.
+- **Architecture:** Netlify Function `/api/live` with a 60-second durable CDN cache, plus Netlify Blobs snapshots at most every 10 minutes (kept for 7 days). Both are included in Netlify Free, and no secrets are needed.
+- **Tested:**
+  - with real Roblox data
+  - with a simulated total outage (error message, no numbers)
+  - with partial 429 failures (affected panels marked unavailable)
+  - with a failure after successful loads (stale label and last good data)
+  - snapshot storage against the official `@netlify/blobs` local server
+  - Netlify build bundling (route `/api/live`, Node 22, blobs included)
+- **Not tested here:** `netlify dev` could not run because it needs `dl.deno.land`, which is blocked here.

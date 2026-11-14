@@ -83,6 +83,27 @@ unique(timeline, "timeline");
 refs(timeline, "timeline entry");
 unique(gamepasses, "gamepasses");
 
+// Archive: sources, verification levels and that every referenced media file exists
+import { existsSync } from "node:fs";
+const archive = load("archive.json");
+const eraIds = new Set(archive.eras.map((e) => e.id));
+unique(archive.entries, "archive");
+refs(archive.entries, "archive entry");
+for (const e of archive.entries) {
+  if (!eraIds.has(e.era)) err(`archive "${e.id}": unknown era "${e.era}"`);
+  if (!["official", "multiple", "community", "partial", "unconfirmed"].includes(e.verification)) err(`archive "${e.id}": bad verification`);
+  if (e.date && !isoDate.test(e.date)) err(`archive "${e.id}": bad date`);
+  for (const m of e.media) {
+    if (m.type === "image" && !existsSync(new URL(`../public${m.src}`, import.meta.url))) err(`archive "${e.id}": missing image ${m.src}`);
+    if (m.type === "youtube" && !/^[\w-]{11}$/.test(m.videoId)) err(`archive "${e.id}": bad YouTube id`);
+  }
+}
+for (const c of archive.comparisons) {
+  for (const side of [c.before, c.after]) if (!existsSync(new URL(`../public${side.src}`, import.meta.url))) err(`comparison "${c.id}": missing image ${side.src}`);
+  for (const sid of c.sourceIds) if (!sourceIds.has(sid)) err(`comparison "${c.id}": unknown source ${sid}`);
+}
+for (const r of regions) for (const sid of r.communityTours ?? []) if (!sourceIds.has(sid)) err(`region "${r.id}": unknown tour source ${sid}`);
+
 const index = load("vehicle-index.json");
 if (index.rows.length !== vehicles.length) err(`vehicle-index.json is stale (${index.rows.length} rows vs ${vehicles.length} vehicles). Re-run scripts/build_data.py`);
 

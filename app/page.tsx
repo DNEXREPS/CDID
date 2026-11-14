@@ -8,6 +8,7 @@ import { formatCompact, formatDate, formatNumber } from "@/lib/format";
 import { Button, Container, Plate, SectionHeading, VerificationBadge, Wordmark } from "@/components/ui";
 import { VehicleCard } from "@/components/vehicle-card";
 import { DiscordIcon, PlatformIcon, RobloxIcon } from "@/components/icons";
+import { LiveStats } from "@/components/live-stats";
 
 const FEATURED_DEALERS = ["tokoma", "premium", "sumber-jaya", "otnas-esprit-works", "retro", "komercial"];
 
@@ -67,10 +68,10 @@ export default function HomePage() {
 
           <dl className="mt-16 grid grid-cols-2 border-t border-white/15 md:grid-cols-4">
             {[
-              ["Visits", formatCompact(s.visits)],
-              ["Favourites", formatCompact(s.favorites)],
-              ["Discord members", formatCompact(s.discordMembers)],
               ["On the road since", "2021"],
+              ["Map regions", "5 + seasonal"],
+              ["Vehicles catalogued", "2,500+"],
+              ["Current version", game.currentVersion],
             ].map(([k, v], i) => (
               <div key={k} className={`py-5 pr-4 ${i % 2 ? "pl-4 md:pl-6" : ""} ${i > 1 ? "border-t border-white/15 md:border-t-0" : ""} ${i ? "md:border-l md:border-white/15 md:pl-6" : ""}`}>
                 <dt className="eyebrow text-steel">{k}</dt>
@@ -78,7 +79,22 @@ export default function HomePage() {
               </div>
             ))}
           </dl>
-          <p className="mt-2 text-[0.7rem] text-steel">Roblox and Discord figures as of {formatDate(s.asOf)}.</p>
+        </Container>
+      </section>
+
+      {/* ---------------------------------------------------------------- CDID LIVE */}
+      <section id="live" className="border-t border-white/10 bg-asphalt">
+        <Container className="py-14 md:py-20">
+          <div className="mb-8 flex flex-wrap items-end justify-between gap-4">
+            <div>
+              <p className="eyebrow flex items-center gap-3 text-steel">
+                <span className="h-px w-8 bg-merah" aria-hidden /> Real-time · Roblox
+              </p>
+              <h2 className="display mt-4 text-[clamp(2rem,5vw,3.5rem)]">CDID Live</h2>
+            </div>
+            <p className="max-w-md text-sm text-silver">Players, visits, favourites and rating, straight from Roblox&apos;s public API and refreshed every minute.</p>
+          </div>
+          <LiveStats variant="compact" baseline={{ asOf: s.asOf, visits: s.visits, favorites: s.favorites }} />
         </Container>
       </section>
 
@@ -247,7 +263,7 @@ export default function HomePage() {
               ["First published", formatDate(game.created)],
               ["Current version", `${game.currentVersion} · updated ${formatDate(game.lastUpdated)}`],
               ["Price", "Free to play · optional game passes"],
-              ["Rating", `${Math.round((s.upVotes / (s.upVotes + s.downVotes)) * 100)}% positive (${formatCompact(s.upVotes + s.downVotes)} votes)`],
+              ["Rating", `${Math.round((s.upVotes / (s.upVotes + s.downVotes)) * 100)}% positive on ${formatDate(s.asOf)} · live figure above`],
               ["Game passes", `${passes.length} on sale, R$${Math.min(...passes.map((p) => p.price!))}–R$${Math.max(...passes.map((p) => p.price!))}`],
             ].map(([k, v]) => (
               <div key={k} className="border-b border-white/10 py-5 sm:odd:pr-6 sm:even:border-l sm:even:pl-6">
