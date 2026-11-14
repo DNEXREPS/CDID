@@ -1,0 +1,30 @@
+{
+  "name": "Car Driving Indonesia",
+  "shortName": "CDID",
+  "listingTitle": "(👻) Car Driving Indonesia",
+  "tagline": "Drive the ever-evolving map of Indonesia.",
+  "officialDescription": "Car Driving Indonesia (CDID) is back to give you the experience of driving, meet new friends, and roleplaying together through the ever-evolving map of Indonesia.",
+  "placeId": 6911148748,
+  "universeId": 2640407187,
+  "robloxUrl": "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia",
+  "groupUrl": "https://www.roblox.com/communities/10884667",
+  "discordUrl": "https://discord.gg/cdid",
+  "developer": "CDID Studio Official Group",
+  "groupOwner": "Pengemudiindonesiaa",
+  "created": "2021-06-05",
+  "lastUpdated": "2026-11-13",
+  "currentVersion": "V2.8",
+  "genre": "Simulation · Vehicle Sim (Town and City)",
+  "maxServerNote": "Shutdown means Server Fix / Update",
+  "stats": {
+    "asOf": "2026-11-14",
+    "visits": 555457763,
+    "favorites": 436351,
+    "upVotes": 169296,
+    "downVotes": 26519,
+    "groupMembers": 453300,
+    "discordMembers": 330592,
+    "playingAtSnapshot": 8935
+  },
+  "sourceIds": ["src-roblox-game", "src-roblox-api-stats", "src-roblox-group", "src-discord-invite"]
+}

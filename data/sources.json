@@ -1,0 +1,222 @@
+[
+  {
+    "id": "src-roblox-game",
+    "title": "Car Driving Indonesia — official Roblox experience page",
+    "url": "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia",
+    "sourceType": "official",
+    "publisher": "CDID Studio Official Group (via Roblox)",
+    "publicationDate": "2026-11-13",
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Game description and V2.8 changelog. Read through the public Roblox Games API (games.roblox.com/v1/games?universeIds=2640407187). 'Updated' timestamp 2026-11-13T20:29:35Z; created 2021-06-05T01:58:08Z."
+  },
+  {
+    "id": "src-roblox-api-stats",
+    "title": "Roblox Games API — universe 2640407187 (visits, favourites, votes, genre)",
+    "url": "https://games.roblox.com/v1/games?universeIds=2640407187",
+    "sourceType": "official",
+    "publisher": "Roblox Corporation",
+    "publicationDate": "2026-11-14",
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Live statistics change constantly; values on this site are a snapshot from the access date."
+  },
+  {
+    "id": "src-roblox-gamepasses",
+    "title": "Roblox Game Passes API — CDID game passes and prices",
+    "url": "https://apis.roblox.com/game-passes/v1/universes/2640407187/game-passes?passView=Full",
+    "sourceType": "official",
+    "publisher": "Roblox Corporation",
+    "publicationDate": "2026-08-05",
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Names, descriptions, Robux prices and on-sale status. Most passes were last edited between 2026-08-05 and 2026-08-08."
+  },
+  {
+    "id": "src-roblox-media",
+    "title": "Roblox Thumbnails API — official experience screenshots and icon",
+    "url": "https://games.roblox.com/v2/games/2640407187/media",
+    "sourceType": "official",
+    "publisher": "CDID Studio Official Group (via Roblox)",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Seven approved screenshots (768×432) and the 512×512 experience icon. Used as the site's photography."
+  },
+  {
+    "id": "src-roblox-group",
+    "title": "CDID Studio Official Group — Roblox community",
+    "url": "https://www.roblox.com/communities/10884667",
+    "sourceType": "official",
+    "publisher": "Roblox Corporation",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Verified group. Owner: Pengemudiindonesiaa (display name 'Pengemudiindo'). 453,300 members at access date."
+  },
+  {
+    "id": "src-roblox-subplace",
+    "title": "Roblox Universes API — place 9508940498 belongs to the CDID universe",
+    "url": "https://apis.roblox.com/universes/v1/places/9508940498/universe",
+    "sourceType": "official",
+    "publisher": "Roblox Corporation",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Confirms that the separately indexed 'Jawa Tengah' place is a sub-place of the main CDID experience."
+  },
+  {
+    "id": "src-discord-invite",
+    "title": "CDID Official Server — Discord invite (discord.gg/cdid)",
+    "url": "https://discord.com/invite/cdid",
+    "sourceType": "official",
+    "publisher": "Discord",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "official",
+    "notes": "Resolved with Discord's public invite API. Guild 'CDID Official Server', vanity code 'cdid', description 'Official Roblox Car Driving Indonesia Discord server.', ≈330,592 members at access date. Channel content requires a logged-in account and was NOT accessed."
+  },
+  {
+    "id": "src-search-roblox-snapshots",
+    "title": "Search-engine snapshots of the official Roblox description (older changelogs)",
+    "url": "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia",
+    "sourceType": "official-archived",
+    "publisher": "CDID Studio Official Group (indexed copies)",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "partial",
+    "notes": "Previous changelog texts (V1.9, V2.0, V2.3, V2.4, V2.5.5, V2.6, V2.6.5, V2.7, V2.7.5) quoted from search-engine copies of the Roblox page. The wording is official, but snapshot dates are approximate and the full text could not be re-read on Roblox."
+  },
+  {
+    "id": "src-reupload-v125",
+    "title": "Unofficial re-upload preserving the V1.2.5 description (place 10495064072)",
+    "url": "https://www.roblox.com/games/10495064072/Car-Driving-Indonesia",
+    "sourceType": "community",
+    "publisher": "Roblox user MickyNoLimit (not affiliated with CDID Studio)",
+    "publicationDate": "2025-07-19",
+    "accessDate": "2026-11-14",
+    "reliability": "partial",
+    "notes": "A copy of the game by an unrelated account. Its description reproduces the official '[CDID UPDATE LOG V1.2.5]' text. Used only as evidence of that changelog; this place is NOT the official game."
+  },
+  {
+    "id": "src-wiki-cars",
+    "title": "CDID Wiki (Fandom) — Cars page and individual car articles",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Cars",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2026-11-03",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Brand naming (in-game brand ↔ real-life counterpart), dealership grouping, body style, transmission, drivetrain and real-life counterpart for ≈1,036 car articles. Last edit of the Cars page: 2026-11-03."
+  },
+  {
+    "id": "src-wiki-limited",
+    "title": "CDID Wiki (Fandom) — Limited Cars log by update version",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Limited_Cars",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2026-11-06",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Limited, event, points-reward and minigame-box vehicles listed per update from V0.3 to V2.8."
+  },
+  {
+    "id": "src-wiki-map",
+    "title": "CDID Wiki (Fandom) — Map",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Map",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2025-07-21",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Regions, cities, landmarks and which dealerships appear in each city. Last edited 2025-07-21, so it predates the V2.2 Jawa Timur map and the V2.7 Bandung rework."
+  },
+  {
+    "id": "src-wiki-jobs",
+    "title": "CDID Wiki (Fandom) — Jobs and job articles",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Jobs",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2026-09-28",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Job list plus the Burung Biru Driver, Emergency Service and Travel Driver articles (start locations, approximate pay)."
+  },
+  {
+    "id": "src-wiki-passes",
+    "title": "CDID Wiki (Fandom) — Passes",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Passes",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2025-04-02",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Details on what the Luxury House pass unlocks and on the Advanced Modification upgrade discount."
+  },
+  {
+    "id": "src-wiki-updates",
+    "title": "CDID Wiki (Fandom) — Updates (V2.2.0 changelog)",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Updates",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2025-09-05",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Full V2.2.0 changelog including the Jawa Timur map and Independence Day 2025 redeem codes."
+  },
+  {
+    "id": "src-wiki-home",
+    "title": "CDID Wiki (Fandom) — Main page",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/CDID_Wiki",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2025-08-17",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "Describes CDID as created by Pengemudiindonesiaa ('shad'). Notes that the wiki's History page was lost to vandalism."
+  },
+  {
+    "id": "src-wiki-building",
+    "title": "CDID Wiki (Fandom) — Building and Commands",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/Building",
+    "sourceType": "community",
+    "publisher": "CDID Wiki contributors",
+    "publicationDate": "2026-08-30",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "CDID Trans, car wash and modification garage buildings, plus private-server commands."
+  },
+  {
+    "id": "src-cdidrepo",
+    "title": "The CDID Database (Unofficial) — cdidrepo.vercel.app",
+    "url": "https://cdidrepo.vercel.app/car",
+    "sourceType": "community",
+    "publisher": "aoderu (community project, not affiliated with CDID)",
+    "publicationDate": "2026-11-13",
+    "accessDate": "2026-11-14",
+    "reliability": "community",
+    "notes": "2,796 vehicle records: in-game name, price (Rp), engine, dealership key, gamepass, limited status, removed/event/minigame flags, and the in-game thumbnail. Site version v0.8.5a, last updated 13 Nov 2026."
+  },
+  {
+    "id": "src-instagram",
+    "title": "Instagram — @cdidstudios",
+    "url": "https://www.instagram.com/cdidstudios/",
+    "sourceType": "official",
+    "publisher": "CDID Studio",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "partial",
+    "notes": "Self-described as the official CDID Instagram in search-indexed profile text. Not linked from a source we could open directly."
+  },
+  {
+    "id": "src-tiktok",
+    "title": "TikTok — @cdidstudiodevelopment",
+    "url": "https://www.tiktok.com/@cdidstudiodevelopment",
+    "sourceType": "official",
+    "publisher": "CDID Studio",
+    "publicationDate": null,
+    "accessDate": "2026-11-14",
+    "reliability": "partial",
+    "notes": "Profile titled 'CDID Studio' and self-described as official in search-indexed text. Not linked from a source we could open directly."
+  }
+]

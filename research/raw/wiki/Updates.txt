@@ -1,0 +1,30 @@
+Note that this page currently only shows the latest update. Details of older updates will added eventually over time.
+
+
+== V2.2.0 ==
+
+'''[ CAR CHANGES ]'''
+* + 96 New and Reworked Cars
+* + (Weekly Car Drop)
+
+'''[ UNLOCK NEW MAP ]'''
+* Jawa Timur [Ngawi, Kediri, Surabaya, Sidoarjo, Malang]
+
+'''[ NEW FEATURES ]'''
+* New Independence Day Event (Ended)
+* New UI for Mobile USer
+* New Tire Modification
+* New Emote menu
+* New Disable vehicle prompt settings
+
+'''[ REWORKED FEATURES ]'''
+* Reworked Minimap
+
+'''[ REDEEM CODE ]'''
+* 17AGUSTUS2025
+* INDONESIARAYA
+* HIDUPROBLOX
+
+'''[ NOTES ]'''
+* Bug fixes
+* Updated System settings and UI

@@ -1,0 +1,72 @@
+{{Job
+|title=Burung Biru Driver
+|image=burung_biru_driver.png
+|caption=
+|task=Drive passengers to their destinations all over the map
+|location='''Jakarta:''' Mandarin Heritage Hotel, Jakarta<br>'''West Java:''' PT. TrueBird Indonesia Tbk, Sentul
+|required=Taxi (available at spawn)
+|salary=Approx. RP. 3-10,000,000 per passenger (depending on distance travelled)
+}}
+'''Burung Biru''' (English: '''BlueBird''') is a job featured in [[CDID Wiki|CDID]]. The player assumes the role of a taxi driver and must drive passengers to destinations marked all across the map.
+
+== Guide ==
+* First, view '''Job Selection''' at the spawn point of the map you're in and select '''Burung Biru Driver'''. Your character will appear dressed in a taxi driver outfit.
+* Then, drive to the spawn point. location will depend on what map you're in (see '''Spawn Points''' below).
+* Upon arriving at the spawn point, initiate the job through '''Start Job Here'''. A waypoint will be set, as well as a blue arrow above your character wll appear, pointing directly towards a passenger's pick-up point.
+* Spawn a taxi from one of the spawn bays in the designated area.
+* Drive the taxi over to the waypoint.
+* Once you reach the waypoint, pull up beside the passenger to pick them up - once you pick them up, drive over to their specified location.
+* After you successfully drop off a passenger, you will be directed to your next passenger's pick-up point and so on.
+
+
+== Spawn Points ==
+There are currently two spawn points featured in [[CDID Wiki|CDID]]. Note that, despite the '''Burung Biru Driver''' job being avaliable in the '''Job Selection''' menu in the [[Central Java]] map, there is no specific location to start the job at.
+{| class="wikitable sortable" width=70%
+!Name
+!Location
+!Map
+!Image
+|-
+!Mandarin Heritage Hotel
+|N/A
+|Jakarta
+|[[File:Mandarin heritage hotel jakarta.png|450px|center|thumb]]
+|-
+!PT. TrueBird Indonesia Tbk
+|Sentul
+|West Java
+|[[File:Pt truebird indonesia tbk sentul.png|425px|center|thumb]]
+|}
+
+
+== Taxis ==
+The '''Burung Biru Driver''' job features only one special taxi based on the [[2014 Tokoma Vios]]. The taxi comes with unlimited fuel.
+{| class="wikitable sortable" width=70%
+!Name
+!In-game counterpart
+!Front
+!Rear
+|-
+!2014 Tokoma Vios E Taxi
+|[[2014 Tokoma Vios|2014 Tokoma Vios Taxi]]
+|[[File:2014 tokoma vios taxi front.png|220px|center|thumb]]
+|[[File:2014 tokoma vios taxi rear.png|220px|center|thumb]]
+|}
+
+
+== Trivia ==
+* '''Burung Biru''' literally translates to "Blue Bird" in English; Blue Bird (or Blue Bird Group) is an Indonesian transportation company based in Jakarta, and is one of the largest and most popular taxi service companies in the country, offering a wide variety of services and fleet vehicles.
+** The transportation company '''TrueBird''' featured on the side of the taxi is a parody of Blue Bird.
+* Despite the '''Burung Biru''' job being avaliable in the '''Job Selection''' menu in the [[Central Java]] map, there is no specific location to start the job at. The waypoint simply points towards an inaccessible location outside the map, and is therefore either a glitch or a developer oversight.
+* The '''Burung Biru''' Taxi features the same license plate (B 1740 OVQ) as the '''Tokoma Hiace Ambulans''' featured in the [[Emergency Service]] job.
+
+== Gallery ==
+<gallery>
+mandarin_heritage_hotel_jakarta.png|Mandarin Heritage Hotel
+pt_truebird_indonesia_tbk_sentul.png|PT. TrueBird Indonesia Tbk
+2014_tokoma_vios_taxi_front.png
+2014_tokoma_vios_taxi_rear.png
+</gallery>
+
+
+[[Category:Jobs]]

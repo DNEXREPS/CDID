@@ -1,0 +1,4001 @@
+[
+ {
+  "version": "V2.8",
+  "vehicles": [
+   {
+    "name": "1998 Tokoma Cresta Roulant G 'Oboro'",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1998 Tokoma Chaser Tourer V 'Oboro'",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1998 Tokoma Mark II Tourer V 'Oboro'",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma C+pod",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 Honade Super-ONE",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Shehua D9 Premier Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 SVX Clubsport Strecke",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Buffermacht R Frech NightRunner",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2015 Buffermacht R Frech GTS",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2007 Tokoma Dyna Camroad",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2007 Hina Dutro Fire Truck",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Kronenvik Valkrja",
+    "availability": "5 Minutes - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2015 Tokoma Hilux Alto",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2014 Densu Ayla V6",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2015 SUZI ELF Kopdus",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Mestibis Canter Kopdus",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1984 Corroded Densu Hijet Halloween",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.7.5",
+  "vehicles": [
+   {
+    "name": "2017 Pagagini Huayra Roadster",
+    "availability": "18 Minutes",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Honade Civic FB 2.0 Street Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Honade Civic FE Track Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Agya Rally Group F3",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Atruse A6 2.0T Avant",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2008 Tokoma Land Cruiser ALTO",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Prius PHV S GR Sport",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2021 Murceso-Venz AMG GT Black Series",
+    "availability": "30 Minutes - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Murceso-Venz E63S Coupe (Custom)",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Busch Rocket 800 (W213)",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Aston Hill Cygnet V8",
+    "availability": "1 HOUR - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2021 McSena 765LT",
+    "availability": "2 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma iQ Yaris Junior",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Tokoma Land Cruiser Land Rocket",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2026 Tokoma Fortuner J300 Faceswap",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2026 Mestibis Destinator Tuend",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.7",
+  "vehicles": [
+   {
+    "name": "1998 Nusad Maleo",
+    "availability": "1000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Tokoma Kijang Pickup HUT RI Special",
+    "availability": "2000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2003 Sanziky Karimun ChopTop",
+    "availability": "3000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 Nusad MV81 Komando",
+    "availability": "6000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 Nusad MV81 Garuda",
+    "availability": "10000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1995 Lahkokgini Vesper VT",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1995 Lahkokgini Vesper SL",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Suzi D-Max Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 Buffermacht Meister 60 Touring",
+    "availability": "1.5 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1997 Buffermacht Manover 25 Ute Drift",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1997 Buffermacht Manover Drag",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1997 Buffermacht Manover 28 Touring StaticStyle",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2026 Busch Regent 700",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1997 Walden W46 Coupe 3.2",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2026 Lahkokgini Titano",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 SLM Semeru Laras Bank Car",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.6.5",
+  "vehicles": [
+   {
+    "name": "2005 Mestibis Lancer Cedia [V5 Nostalgic Edition]",
+    "availability": "500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1992 Mestibis Galant Eterna [V5 Nostalgic Edition]",
+    "availability": "500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2000 Sanziky karimun [V5 Nostalgic Edition]",
+    "availability": "1,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Tokoma Crown [V5 Nostalgic Edition]",
+    "availability": "1,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Avanza [V5 Nostalgic Edition]",
+    "availability": "1,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Honade BR-V [V5 Nostalgic Edition]",
+    "availability": "1,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Mestibis Xpander [V5 Nostalgic Edition]",
+    "availability": "2,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Honade City [V5 Nostalgic Edition]",
+    "availability": "2,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner [V5 Nostalgic Edition]",
+    "availability": "2,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Raize GR [V5 Nostalgic Edition]",
+    "availability": "2,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Mestibis Pajero [V5 Nostalgic Edition]",
+    "availability": "3,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Innova [V5 Nostalgic Edition]",
+    "availability": "3,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Hyunson Ioniq [V5 Nostalgic Edition]",
+    "availability": "4,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Tokoma Fortuner Legender [V5 Nostalgic Edition]",
+    "availability": "4,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Liaxe LS600hL [V5 Nostalgic Edition]",
+    "availability": "5,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Tokoma GR Yaris [V5 Nostalgic Edition]",
+    "availability": "5,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Honade Type R [V5 Nostalgic Edition]",
+    "availability": "6,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Crown Nostalgic [V5 Nostalgic Edition]",
+    "availability": "6,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Supra [V5 Nostalgic Edition]",
+    "availability": "7,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Naisen GT-R [V5 Nostalgic Edition]",
+    "availability": "7,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 KingsMann Maestro Busch",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 KingsMann Maestro Manserio",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Mestibis Triton Ultimate Fullspec",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Naisen March Bolero",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Sanziky S-Presso Jimny Custom",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 Mestibis Triton Offroad",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Mizada 6 Estate Police",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Suzi D-Max Police Car",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2007 Tokoma Land Cruiser Bundera Ambulance",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.6",
+  "vehicles": [
+   {
+    "name": "2023 Densu Luxio SVX Supervan",
+    "availability": "12 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner 2.7 Tuned",
+    "availability": "12 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Naisen Serena High Roof (VNC24)",
+    "availability": "12 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Sanziky Carry Eid Al Adha Edition",
+    "availability": "3,500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Densu GranMax Eid Al Adha Edition",
+    "availability": "7,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Suzi Traga Eid Al Adha Edition",
+    "availability": "15,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Mestibis Canter Eid Al Adha Edition",
+    "availability": "30,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Mestibis Canter Duonic Automatic Eid Al Adha Edition",
+    "availability": "60,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2004 Neutron Arena Evo III Swapped",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner 3.0 Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2008 Tokoma Fortuner 2.5 4x4 Rally Spec",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2024 KingsMann Maestro Noir Premium",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1993 Tokoma Corolla GT Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1997 Walden W46 Sedan",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2011 Suzi Phanter Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.5.5",
+  "vehicles": [
+   {
+    "name": "2023 Densu Gran Max Travel Ramadhan",
+    "availability": "500 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Densu Luxio X Travel Ramadhan",
+    "availability": "1,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2000 Tokoma Kijang Krista Ramadhan",
+    "availability": "2,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2006 Suzi Panther Grand Touring Ramadhan",
+    "availability": "4,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Tokoma Rushnova Ramadhan",
+    "availability": "10,000 Points",
+    "kind": "event-points",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Hilux Overland",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Hilux Faceswap GR-S",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 Honade EN:1",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 DIR Atto 1 Drag",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1995 Denzu Feroza Retro Drag",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1991 Honade Civic Nuova Drag Car",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2009 Mizada RX-8 R3 Project",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2004 Mizada RX-8 Project Bridgeported",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2012 Mizada RX-8 Spirit R",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1989 Murcezo-Venz 190E 2.5-16 Evo I",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2002 Tokoma Soluna Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2013 SVX GT Cup",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Otnas Tamtam Julmann Ute",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1994 McSena F1 LM",
+    "availability": "5 Minutes + Restock 5 Minutes - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2012 Murcezo-Venz S600 Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2016 Murcezo-Venz S400 Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Murcezo-Venz S450 Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Murcezo-Venz S500 Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1997 Murcezo-Venz S600 Guard Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2002 Murcezo-Venz S600 Guard Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2012 Murcezo-Venz S600 Guard Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2019 Murcezo-Venz S600 Guard Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Murcezo-Venz S680 Guard Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1990 Murcezo-Venz 190E 2.5-16 Evo II",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1990 Murcezo-Venz 2.5-16 AMG Powerpack",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2002 Naisen Serena Highway Star 25X (JDM Model)",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2003 CIA Rio Wagon Danur Exclusive",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.5",
+  "vehicles": [
+   {
+    "name": "2025 Tokoma Hilux Rangga Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 BMR M140i S65 Swapped",
+    "availability": "4 HOURS (removed)",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": true
+   },
+   {
+    "name": "2015 Suzi Phanter Police",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Lahkokgini Revolution Twin Turbo",
+    "availability": "1 HOUR - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 Haekoo J8 Rally",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1995 McSena F1",
+    "availability": "5 Minutes - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2011 Naisen March Turbo Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1993 Mizada Vantrend Wagon Rotary",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Mestibis Xpander Sport Tuned",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1963 Murcezo Venz L 319 Danur Exclusive",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.4.0.5",
+  "vehicles": [
+   {
+    "name": "2026 Mestibis Lancer Evo VI Lunar New Year Special",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.4",
+  "vehicles": [
+   {
+    "name": "2022 Palmera Battista",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2008 Murcezo-Venz SLR McSena",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Staru BRZ Drift Spec",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Altezza D1GP",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Murcezo-Venz AMG One",
+    "availability": "5 Minutes",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 Rinaldi Zoro LMH",
+    "availability": "5 Minutes - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2026 BMR M3 CS Touring",
+    "availability": "4 HOURS - Weekly Drop (removed)",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": true
+   },
+   {
+    "name": "2025 BMR M4 CS",
+    "availability": "4 HOURS - Weekly Drop (removed)",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": true
+   },
+   {
+    "name": "2025 Hyunson Palisade Caligraphy Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2011 Mullbach 62 Laundalet",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Mizada CX-30 ALTO",
+    "availability": "2 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner SVX Drag",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Avanza SVX",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 YinYang U9",
+    "availability": "2 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2008 Murcezo-Venz SLR McSena 722 Edition",
+    "availability": "30 Minutes - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1991 Tokoma Corolla Twincam GTi Tegal Tuning System Aemj's",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2013 Honade CR-Z Mugen RZ",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2026 BMR M2 CS",
+    "availability": "4 HOURS - Weekly Drop (removed)",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": true
+   },
+   {
+    "name": "1991 Tokoma Sprinter Cielo GT",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Edison Model S Plaid P100D",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1993 Mizada M 1400 \"Vantrend\" Pickup",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Tokoma Hilux Rangga Christmas Edition",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.3",
+  "vehicles": [
+   {
+    "name": "2003 Murcezo-Venz E260 Harbour Runner",
+    "availability": "3 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2003 Tokoma Crown Athlete V Harbour Runner",
+    "availability": "3 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2026 Naisen XTrail Nismo",
+    "availability": "3 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Busch Rocket 900",
+    "availability": "3 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Busch 850",
+    "availability": "3 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Lukic Air Grand Touring",
+    "availability": "EXCLUSIVE 500 UNIT + Restock 1 Minute",
+    "kind": "exclusive",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Naisen XTrail Baja Rally",
+    "availability": "EXCLUSIVE 500 UNIT + Restock 1 Minute",
+    "kind": "exclusive",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Buffermacht eMeister 60 Protection [EXCLUSIVE 2]",
+    "availability": "EXCLUSIVE 500 UNIT + Restock 2 Minute",
+    "kind": "exclusive",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1989 Weltwagen Golf Rallye",
+    "availability": "EXCLUSIVE 500 UNIT + Restock 10 Minutes",
+    "kind": "exclusive",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Naisen XTrail Autech",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1959 Pacific 356A 1600S",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma GR86 GT300",
+    "availability": "2 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2021 Staru BRZ GT300",
+    "availability": "2 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2021 Atruse R8 Twin Turbo",
+    "availability": "1 HOUR - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2012 Naisen GTR Tegal Tuning Systems",
+    "availability": "1 HOUR - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 Halloween Event Car",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.2",
+  "vehicles": [
+   {
+    "name": "2014 Naisen Fairlady Z Nismo",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Naisen Fairlady Z Nismo",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Naisen Fairlady Z LBWK",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 DVC Sierra AT 4X ALTO",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Renee Koleos Strobo",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Weltwagen ID Buzz VIP",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1995 NUF CTR-2",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1995 NUF Turbo R",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2004 Honade Integra Type R DC5 TTS",
+    "availability": "10 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Lahkokgini Alpa LS1 Restomod",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Naisen Terra Tuned",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Naisen Navara Tuned",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2011 Suzi Panther Fullspec",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2005 Suzi Panther Tuned",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2018 Flores Everest Tuned",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2016 Flores Ranger Tuned",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2025 DIR Seal Ute",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1971 WeltWagen SuperBeetle OEW",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2011 Gumball Boxster GTR 500",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2024 Citrus J6 IWD Phantom Edition",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2010 Catera Escalade ESV Diplomatic Vehicle",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2024 Holland Wrangler Rubicon Diplomatic Vehicle",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2010 Chevrion Suburban Diplomatic Vehicle",
+    "availability": "3 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Tokoma Mark X 350 G's",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2017 Suzi MUX Thai Spec",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "1969 Goath Charger SVX",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2024 Tokoma Vellfire Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2020 Naisen Patrol Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Land Cruiser GR-S Strobo",
+    "availability": "4 HOURS - Weekly Drop",
+    "kind": "timed",
+    "weeklyDrop": true,
+    "removed": false
+   },
+   {
+    "name": "2015 BMR X5 xDrive40e",
+    "availability": "Minigames Box (removed)",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": true
+   },
+   {
+    "name": "2023 DVC Sierra Denali Ultimate",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Skola Superb PHEV",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1966 WeltWagen Karmann Ghia RI80",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1995 Densu Feroza Ajik",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.1",
+  "vehicles": [
+   {
+    "name": "1991 Tokoma Crown Project",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Sanziky Karimun GS 50th",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2001 WeltWagen Golf GTI 25th Anniversary",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Mizada RX-7 LBWK Empiregarage",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Gumball GT MCL",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2006 Mestibis Lancer Evolution IX Varis Empiregarage",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2005 Renee Clio V6 Phase 2",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Mestibis Pajero Evo 55W",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Henri Boma EV",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V2.0",
+  "vehicles": [
+   {
+    "name": "2011 Tokoma Camry SVX",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Yaris Cross SVX",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 BMR M4 xDrive Nightrunner",
+    "availability": "4 HOURS (removed)",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": true
+   },
+   {
+    "name": "1999 Naisen Skyline GT-R Concorde",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Goath Viper ACR Extreme",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 GWS Lavah H5 Camper",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2008 Honade Odyssey RB2 City Cruiser AWD",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 Suzi Elf Ramadhan Edition",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.9.8",
+  "vehicles": [
+   {
+    "name": "2021 Tokoma Innova Beforiest Street Absolute SVX",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2001 Tokoma Harrier Beforiest Extreme Absolute SVX",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1963 Aston Hill DB5",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1994 Tokoma Supra TRD 3000GT",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1986 Flores Laser TX3 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Naisen X-Trail XE 2.0 dCI",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2025 GWS TANK 500 PHEV CNY Edition",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.9.5",
+  "vehicles": [
+   {
+    "name": "2007 Weltwagen Golf GTI Nightrunner",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner South Cruiser",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1986 Tokoma Starlet Tegal Tuning Systems",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1986 Tokoma Starlet 1.3 Si",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Naisen X-Trail Beforiest Rallye Absolute SVX",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Staru Impreza WRX STI Harbour Runner",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Buffermacht R Frech CS",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Aleps A110R",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Avanza Veloz GR Sport Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Rush GR Sport Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Henry-Rolls Cullinan Strobo",
+    "availability": "4 HOURS (removed)",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": true
+   },
+   {
+    "name": "2006 Mestibis Lancer Evolution Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Hyunson Santa Fe Calligraphy Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Naisen Stagea R34 Face Swap",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Metsibis Fuso Fighter FN Bass System",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Staru XV Snowtracks",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.9",
+  "vehicles": [
+   {
+    "name": "2011 Julmann JH1 CSL",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Honade Jazz Empiregarage",
+    "availability": "30 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner Empiregarage",
+    "availability": "30 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Staru WRX STI Empiregarage Spec",
+    "availability": "30 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Tokoma Raize OEW 3-door",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Hyunson Ioniq EV Police",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson Ioniq 5 EV Polisi Militer",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Hyunson Santa Fe Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1994 Naisen Silvia 270R",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1994 Naisen Silvia S14 Bos",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1985 Otnas Cat Esprit W4 Rallycar",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1995 Otnas Cat Esprit W4-II Rallycar",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2007 Otnas Korat Imperial Long Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Otnas Korat Imperial Zen Long Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Suzi MU-X Thai",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Wuliuz Cloud EV OEW",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 BMR M550d Hearse (Halloween 2024)",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2008 Tokoma HiMedic",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Raize Julmann",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Buffermacht R Souveran CS Hearse",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.8",
+  "vehicles": [
+   {
+    "name": "2010 Murceso-Venz E63 Bippu",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1998 Murceso-Venz C36 Otnas",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2005 Honade NSX GT",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1986 Lahkokgini LM002",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Lahkokgini Celestaurus SVJ RoadSter",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Lahkokgini Celestaurus SL RoadSter",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1968 Fresco Daytona",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Henry Rolls Spectre Manserio",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Flores Mustang Mach 1",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Flores Mustang Bullett",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Pagagini Huayra Roadster Kurota Copper",
+    "availability": "10 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Murcezo-Venz GLS Busch Rocket 800",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Naisen X-Trail Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 OverRanger Autobiography Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Over Lander Defender 110 P300 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Valkon XC90 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 BMR X5 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Tokoma Innova 2.4 V Tegal Tuning System Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Murceso-Venz G55 Paspampres",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.7",
+  "vehicles": [
+   {
+    "name": "2012 Flores Ranger Project",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Sanziky Swift Sport Tegal Tuning System Tuned",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Sanziky SX4 Turbo Beforiest-spec",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Mestibis Delica Roadest Tuned",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Lahkokgini Minotaurus LD570-4 Super Light",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Lahkokgini Minotaurus LD570-4 Trophy Squadront",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Tokoma Premio Tuned",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1989 Pacific 959",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1978 Pacific 911 Carrera Turbo 3.3 RWB",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Tokoma Rangga Foodtruck 2.7",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Hiace Thai",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Mestibis Delica G-Power 4WD",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Skunia R580 Car Carrier",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Valkon B12M JB3+ Towing",
+    "availability": "Minigames Box",
+    "kind": "minigame-box",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Mestibis Xpander AP4",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Chevrion Spin Resndev.id",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Naisen X-Trail 2.5 Turbo",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Weltwagen Scirocco R PIK Specials",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 BMR 330i F30 PIK Specials",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Venturer PIK Specials",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.6",
+  "vehicles": [
+   {
+    "name": "2018 Pacific 911 GT3 Cup",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1993 Pacific 911 Carrera GT2 (993)",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1974 Pacific 911 Carrera RS 2.7",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Pacific Carrera Dakar",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Honade Brio Drag",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Honade Civic Mugen RR",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2015 Tokoma Land Cruiser VX ALTO",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Naisen Juke R 1.0",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Busch 820",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Busch G800",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Busch G800 XLP",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Busch G800 XLP 6x6",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2003 BMR M3 CSL (E46)",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1996 BMR 323i \"Noir\" Julmann Turbo",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1996 BMR 323i Drift-spec",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1983 Valkon 242 Turbo Evolution Diesel (Suddenly Special)",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1995 Valkon 850R (Suddenly Special)",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Valkon V60 (Suddenly Special)",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2024 Sanziky Carry Ramadhan Event",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.5",
+  "vehicles": [
+   {
+    "name": "1986 Tokoma Kijang Sporty",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1986 Tokoma Kijang Perkasa Shelby",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1998 Romit S516i LE DrivePro",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2002 Athena B10 4.8",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2006 Mizada RX-7 Fortune Kit",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2000 Mizada RX-7 Project",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Suzi D-Max Tuned",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 OEW Pegasus",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Lahkokgini Celestaurus SL",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Lahkokgini Celestaurus SL 50th",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Lahkokgini Celestaurus SVJ",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Lahkokgini Tempestra Sterrato",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Henry-Rolls Cullinan Manserio",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1972 Morrison Tiny 1000 Bean Edition",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1969 Tokoma 2000GT",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2001 BMR M5 Camera Car",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson Stargazer Strobo",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson Staria Strobo",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Honade Brio RS Glans Edition",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Tokoma Sienta Q Glans Edition",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Naisen X-Trail Glans Edition",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Naisen Skyline GT-R Border II",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2003 Tokoma Aristo V300 Shinkansen",
+    "availability": "Merchandise",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tetrachi M8 Hybrid Bippu",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.4",
+  "vehicles": [
+   {
+    "name": "1994 Tokoma Supra California Runner",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Busch Rocket 800",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Innova Zenix Runner",
+    "availability": "4HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1989 Murcezo-Venz 560 SEC AMG",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1989 Murcezo-Venz AMG Hammer Sedan",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1968 Venus Cosmo 110S 3 Rotor Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Naisen Silvia PS15 Project Car",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Murcezo-Venz S65 Otnas Bippu",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1989 Naisen Skyline GT-R R32 CRF GR. A",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Buffermacht R Souveran CS",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1966 Weltwagen Bus 993 Christmas",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.3",
+  "vehicles": [
+   {
+    "name": "2012 BMR 335i Julmann Turbo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Buffermacht Manover 20 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Honade CR-V Turbo Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Mestibis Lancer GLXi Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1993 Mestibis Lancer GTi Turbo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Naisen Serena ALTO",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Murcezo-Venz C250 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Honade Jazz Supercharged (HR-V Face Swap)",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2008 Tokoma Limo Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1980 Tokoma Corolla 7AG (KE70)",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Fortuner Legender GR Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2003 Tokoma Altis Tuned (2ZZ)",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Tokoma Yaris G Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1966 Weltwagen Beetle OEW",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2006 Alfira 8C Competizione",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Buffermacht R Manover CS",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Buffermacht R Manover CS Touring",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Hyunson Elantra TCR",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Naisen Skyline GT-R CRS",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1997 Naisen Skyline GT-R 400R",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Murcezo-Venz C63S AMG Estate ED1",
+    "availability": "380 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Murceso-Venz SL65 Black Series",
+    "availability": "350 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Murceso-Venz SLS AMG Coupe Black Series",
+    "availability": "350 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Innova V Luxury 2.0 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner TRD Sportivo Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Innova Venturer 2.4 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Innova Zenix Q Hybrid Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Liaxe RX350 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Crown 2.5 Hybrid Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Liaxe LX570 Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Vellfire Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Liaxe LX600 VIP Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Murceso-Venz G63 AMG Strobo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1991 Tokoma Starlet Soecipto (Halloween Special)",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.2.5",
+  "vehicles": [
+   {
+    "name": "1990 BMR M3 E30 Wagon",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 BMR 530i M Sport Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Honade Ferio K24 Swapped",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1984 Honade Civic Wonder Si Turbo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Mestibis Pajero Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Tokoma Avanza Veloz V8",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Tokoma Sienta OEW Powerpack",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Calya G Turbo",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Vios TRD Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Sienta Q Bippu",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Tokoma Land Cruiser VX (Diesel) ALTO",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Tokoma Raize GR Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Hilux Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Tokoma Land Cruiser GR-S All-Terrain Offroad",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Tokoma Fortuner VRZ 4x4 ALTO",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Hyunson Ioniq 5 Signature Batik",
+    "availability": "EVENT BOX",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Hyunson Stargazer Batik",
+    "availability": "EVENT BOX",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Murcezo-Venz S600 Pullman Limousine M/T RI-78",
+    "availability": "EVENT BOX",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.2",
+  "vehicles": [
+   {
+    "name": "2010 Liaxe LFA Nürburgring Package",
+    "availability": "15 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Liaxe LFA",
+    "availability": "15 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Tokoma Yaris TRD Ver.2",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Murcezo-Venz GLB200 50th Edition",
+    "availability": "50 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2006 Tokoma Yaris SuperShad",
+    "availability": "50 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Densu Luxio X 110th Edition",
+    "availability": "110 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Innova CRF OMR Spec",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1994 Tokoma Starlet OEW",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2006 Mestibis Lancer Evolution IX FQ-360",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2004 Mestibis Lancer Evolution VIII FQ-400",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Mestibis Outlander Evolution PHEV",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Pacific 911 Carrera GTS (Sally)",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 BMR M4 CSL",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 BMR M3 CS",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 BMR M3 GTS E92",
+    "availability": "1 HOUR",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Tokoma Hiace Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Alphard CBU Bippu",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Tokoma Mark X Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson Palisade AWD Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "Naisen 180SX Ichigo Ver.",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Naisen Skyline GT-R Florida Runner",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Motorsaurus Blackbird",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Honade HRV RS Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Mizada 3 Hatchback Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Sanziky XL7 Alpha Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.1",
+  "vehicles": [
+   {
+    "name": "2003 Tokoma Aristo V300 Harbour Runner",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Mestibis Grandis Evolution",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2007 Honade Jazz Sports Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Wuliuz Air EV Long Range Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Murcezo-Venz C200 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2008 Tokoma Yaris J TRD Ver.1",
+    "availability": "10 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Mestibis L300 Bedug (Ramadhan Special)",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V1.0",
+  "vehicles": [
+   {
+    "name": "1988 BMR M5 3.4 Coconut",
+    "availability": "25± UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Innova Venturer Biturbo Fullspec",
+    "availability": "±15 MINUTES",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson Stargazer Prime Limited",
+    "availability": "100± UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Naisen Skyline GT-R R34 Z-Tune",
+    "availability": "19± UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1999 Naisen Skyline GT-R R34 S-Tune",
+    "availability": "25± UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Tokoma Camry G Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tiny Cooper 3-Door Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Weltwagen Scirocco R Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Weltwagen Golf TSI Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Weltwagen Polo TSI Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Murcezo Venz E250 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Murcezo Venz E250 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Murcezo Venz CLA200 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Murcezo Venz C200 Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 BMR 320i Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 BMR 535i M Sport Tuned",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 BMR 330i LCI Camera Car",
+    "availability": "4 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Mestibis Triton Tuned Front Exhaust",
+    "availability": "BOX",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Hilux-Fortuner Biturbo",
+    "availability": "BOX",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Hyunson Ioniq 5 UTE",
+    "availability": "BOX",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.9.5",
+  "vehicles": [
+   {
+    "name": "2022 Gyunson G90 LWB Bippu",
+    "availability": "1000 UNIT±",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson G80 Electrified LWB",
+    "availability": "500 UNIT±",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Liaxe LS500 Bippu",
+    "availability": "1000 UNIT±",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Mizada MX-5 RD",
+    "availability": "45 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1986 Tokoma Sprinter Trueno Black Limited",
+    "availability": "FORGOT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2023 Tokoma Innova Zenix OEW",
+    "availability": "1000 UNIT±",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1998 Staru 22B STI",
+    "availability": "333 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1991 Naisen Cefiro Face Swap R32",
+    "availability": "1000 UNIT±",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Hyunson Santa Fe D 2.2 Signature Christmas Reward",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.8",
+  "vehicles": [
+   {
+    "name": "2008 Alfira Brera 3.2 Q4 Supercharged",
+    "availability": "250 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2001 BMR M5 Supercharged",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 BMR M535d Julmann Turbo",
+    "availability": "540 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1988 Puzyo 405 T16 4x4",
+    "availability": "1000 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2011 Staru Forester 2.0XT Powerpack",
+    "availability": "1000 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2010 Neutron Satria Neo R3 Chapman",
+    "availability": "25 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Sanziky Ertiga Sport FF",
+    "availability": "125 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Honade Jazz RS Tuned",
+    "availability": "750 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Sanziky Baleno Tuned",
+    "availability": "750 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Innova G 2.0 Tuned",
+    "availability": "750 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Honade Civic HB Tuned",
+    "availability": "750 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Yaris GR Tuned",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Tokoma Avanza Veloz 1.5 Turbo",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Honade City HB Tuned",
+    "availability": "750 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Sanziky Scross Tuned",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Honade HR-V Tuned",
+    "availability": "750 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2020 Tokoma Agya GR Tuned",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Honade Brio E Swap L15 Tuned",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2013 Jazz RS Tuned",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Honade Brio Tuned",
+    "availability": "500 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2005 Tokoma Prius Brian",
+    "availability": "400 UNIT + 1x Restock",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1983 Valkon 244 LS9 Brutus",
+    "availability": "EVENT note: Restock because server crash",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.7",
+  "vehicles": [
+   {
+    "name": "2011 Sanziky SX4 Kansai Turbo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1998 Murcezo-Venz C180 Julmann Turbo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Fortuner TRD Biturbo",
+    "availability": "1000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Kijang Innova Biturbo",
+    "availability": "1000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Fortuner GR Biturbo",
+    "availability": "1000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Venturer Biturbo",
+    "availability": "1000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Mestibis Pajero Tuned",
+    "availability": "1000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Mestibis Pajero Tuned",
+    "availability": "1000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Chapman Evora GTE",
+    "availability": "25 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 OverLander Vogue Autobiography V6 Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2015 OverLander Autobiography V8 Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Murcezo-Venz GLE 450 Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Alphard Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Prado Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Liaxe LM 350 Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Liaxe LX 570 Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2018 Tokoma Land Cruiser VX-R Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Honade CR-V Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Land Cruiser VX-R Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Granvia Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Hyunson Palisade Signature Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Murcezo-Venz GLS 450 Strobo",
+    "availability": "500 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.6.5",
+  "vehicles": [
+   {
+    "name": "2022 Creta Prime Hari Kemerdekaan Special",
+    "availability": "77 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Innova Venturer Diesel Hari Kemerdekaan Special",
+    "availability": "77 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.6",
+  "vehicles": [
+   {
+    "name": "2003 Mestibis Kuda R-Limited – 400 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Otnas Esprit Works Manx Competizione – 1000 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Otnas Esprit Works Manx Stradale – 8000 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma GR Yaris (ATPM) – 126 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Sanziky XL7 Alpha FF – 300 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Tokoma Voxy GR Sport – 2500 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2019 Naisen Serena Nismo – 2500 UNIT",
+    "availability": null,
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.5",
+  "vehicles": [
+   {
+    "name": "2017 Tokoma Camry Mobdin",
+    "availability": "2000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Fortuner 2.8 GR 4x2 Strobo",
+    "availability": "2000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Corolla 1.8 HV Mobdin",
+    "availability": "2000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Kijang Innova 2.4V Mobdin",
+    "availability": "2000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Mestibis Pajero Dakar 4x2 Mobdin",
+    "availability": "2000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Kijang Innova 50th Anniversary",
+    "availability": "50 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Tokoma Camry Hybrid Mobdin",
+    "availability": "2000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2021 Edison Model 3 Long Range Polisi",
+    "availability": "100 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Tokoma GT86 2JZ",
+    "availability": "3000 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2016 Honade HRV Mugen 1.5 E",
+    "availability": "300 UNIT",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2001 Sanziky Carry Tahu Bulat (Ramadhan Special)",
+    "availability": "EVENT",
+    "kind": "event",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.4",
+  "vehicles": [
+   {
+    "name": "2001 Athena B12 6.0",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2000 Mestibis Lancer Evolution 6 TME RS-II",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2014 Murcezo-Venz C63 AMG Black Series",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2022 Tokoma Century",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "1989 Murcezo-Venz AMG Hammer",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ },
+ {
+  "version": "V0.3",
+  "vehicles": [
+   {
+    "name": "2010 Fresco 599 GTO Two Tone",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Atruse A6 Avant",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2012 Tokoma Vellfire 3.5Q",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   },
+   {
+    "name": "2017 Staru WRX STI GVB",
+    "availability": "2 HOURS",
+    "kind": "timed",
+    "weeklyDrop": false,
+    "removed": false
+   }
+  ]
+ }
+]

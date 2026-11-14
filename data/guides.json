@@ -1,0 +1,192 @@
+[
+  {
+    "id": "getting-started",
+    "title": "Getting Started",
+    "category": "Basics",
+    "summary": "Join a server, pick a map, choose a job and get on the road.",
+    "verification": "community",
+    "sourceIds": ["src-roblox-game", "src-wiki-jobs", "src-wiki-building"],
+    "blocks": [
+      {"type": "p", "text": "Car Driving Indonesia is a town-and-city driving and roleplay experience set on an ever-growing map of Indonesia. It is free to play on Roblox, and game passes are optional."},
+      {"type": "steps", "items": [
+        "Open the official experience on Roblox (place 6911148748, published by the verified CDID Studio Official Group) and press Play.",
+        "Pick a map. Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur and Bali are all part of the same experience, and seasonal maps appear during events.",
+        "Open Job Selection at your map's spawn point to choose a job. Each job gives you its uniform and a work vehicle at the start location.",
+        "Earn rupiah (Rp) from jobs, then visit a dealership to buy a car of your own.",
+        "Use CDID Trans buildings to fast-travel between places. The wiki lists the fee as Rp 1,000,000 per teleport."
+      ]},
+      {"type": "note", "text": "If a server shuts down, the developers say it means a server fix or an update is being applied."}
+    ]
+  },
+  {
+    "id": "jobs",
+    "title": "Jobs & Earning Money",
+    "category": "Economy",
+    "summary": "Every job documented by the community, where it starts and what it pays.",
+    "verification": "community",
+    "sourceIds": ["src-wiki-jobs", "src-roblox-game", "src-search-roblox-snapshots", "src-roblox-gamepasses"],
+    "blocks": [
+      {"type": "p", "text": "Jobs are the main source of in-game money. Pay figures below come from community articles and are approximate."},
+      {"type": "table", "columns": ["Job", "What you do", "Where it starts", "Approx. pay"], "rows": [
+        ["Burung Biru Driver", "Taxi driver: pick up passengers and drive them to marked destinations.", "Mandarin Heritage Hotel (Jakarta) · PT. TrueBird Indonesia Tbk, Sentul (West Java)", "≈ Rp 3–10 million per passenger, by distance"],
+        ["Emergency Service", "Ambulance driver: reach patients and treat them with a medkit from the ambulance.", "Cara Hospitals, BSD (West Java) · Rumah Sakit Tegal (Central Java). Not available in Jakarta.", "≈ Rp 10 million per patient"],
+        ["Travel Driver", "Bus or minibus driver: carry passengers between stops.", "Halte Stasiun Gambir (Jakarta) and stops in West and Central Java", "Not documented"],
+        ["Gowes Driver", "Ride-hailing and delivery services in the city.", "Not documented", "Not documented"],
+        ["Silambat Courier", "Package delivery across the map.", "Not documented", "Not documented"],
+        ["Truck Driver", "Haul cargo between locations in heavy vehicles.", "Not documented", "Not documented"],
+        ["Barista", "Prepare and serve coffee orders. Reworked in V2.7.5; the rework is in Jakarta.", "Jakarta", "Not documented"],
+        ["Office Worker", "Complete office tasks; no driving needed. Reworked in V2.8.", "Not documented", "Not documented"]
+      ]},
+      {"type": "p", "text": "Two official game passes boost earnings: +50% Job Earning (R$399) and 2x Paycheck (R$399)."}
+    ]
+  },
+  {
+    "id": "buying-vehicles",
+    "title": "Buying Vehicles",
+    "category": "Vehicles",
+    "summary": "How CDID's showrooms, brand names, game passes and garage slots work.",
+    "verification": "community",
+    "sourceIds": ["src-wiki-cars", "src-cdidrepo", "src-roblox-gamepasses"],
+    "blocks": [
+      {"type": "p", "text": "Cars are bought with in-game rupiah at dealerships around the map. Brands use in-game names modelled on real manufacturers; the community wiki lists Tokoma for Toyota, Honade for Honda, Densu for Daihatsu and Mestibis for Mitsubishi, among others."},
+      {"type": "list", "items": [
+        "Brand dealerships (Tokoma, Honade, Hyunson, Densu and more) sell that brand's current line-up.",
+        "Sumber Jaya Used Cars sells second-hand models from many brands and eras.",
+        "The Premium Dealership and Otnas Esprit Works Cafe carry luxury, exotic and enthusiast cars.",
+        "The Retro Cars Dealership specialises in classics.",
+        "The Komercial Dealership sells trucks, buses and vans."
+      ]},
+      {"type": "p", "text": "Some cars need a game pass before you can buy them: Luxury Car (R$259), Rare Imports (R$189), Retro Car (R$169) or Emergency Vehicle (R$139). The vehicle catalogue on this site shows which pass each car needs."},
+      {"type": "p", "text": "Garage space is limited. The Additional Ownable Car pass (R$99) adds 28 car slots, and 2x Additional Ownable Car (R$269) adds more."},
+      {"type": "link", "text": "Browse the vehicle catalogue", "href": "/vehicles"}
+    ]
+  },
+  {
+    "id": "dealership-guide",
+    "title": "Dealership Guide",
+    "category": "Vehicles",
+    "summary": "Which showroom sells what, and where to find it.",
+    "verification": "partial",
+    "sourceIds": ["src-wiki-map", "src-wiki-cars"],
+    "blocks": [
+      {"type": "p", "text": "Jakarta has most of the brand showrooms: Tokoma, Liaxe, Mestibis, Buffermacht/BMR, Murceso-Venz, Hyunson and Wuliuz. Bekasi has commercial, Hyunson, CIA and Sumber Jaya dealers. The wiki places Honade, Sanziky, Otnas Esprit Works and a Sumber Jaya branch in Bandung, and Ciawi has a single Densu dealer."},
+      {"type": "note", "text": "The wiki's map article was last edited in July 2025, before the Jawa Timur map (V2.2.0) and the Bandung rework (V2.7). Some showrooms may have moved."},
+      {"type": "link", "text": "Open the dealership locator", "href": "/dealerships"}
+    ]
+  },
+  {
+    "id": "customization",
+    "title": "Vehicle Customisation",
+    "category": "Vehicles",
+    "summary": "Modification garages, the Advanced Modification pass, and how to tune your car.",
+    "verification": "community",
+    "sourceIds": ["src-wiki-building", "src-roblox-gamepasses", "src-wiki-passes", "src-search-roblox-snapshots", "src-wiki-updates"],
+    "blocks": [
+      {"type": "p", "text": "Modification garages, including those in Sentul and Jakarta, let you customise cars. Updates have expanded the options over time: lights, horn and reset (V1.2.5), the modification feature itself (V1.9), a new modification UI (V2.0) and tyre modification (V2.2.0 and V2.3)."},
+      {"type": "p", "text": "The Advanced Modification pass (R$249) unlocks custom colour, custom plate, speed-limiter delete and air suspension. According to the wiki, players who already owned the older separate passes get it cheaper, and owners of all three get it free."},
+      {"type": "p", "text": "Car washes in Jakarta, BSD and Bali clean dirty vehicles."}
+    ]
+  },
+  {
+    "id": "gamepasses",
+    "title": "Game Passes",
+    "category": "Economy",
+    "summary": "Every official CDID game pass with its current Robux price.",
+    "verification": "official",
+    "sourceIds": ["src-roblox-gamepasses"],
+    "blocks": [
+      {"type": "gamepasses"}
+    ]
+  },
+  {
+    "id": "limited-vehicles",
+    "title": "Limited, Exclusive & Event Vehicles",
+    "category": "Vehicles",
+    "summary": "Timed releases, the Weekly Car Drop, exclusive unit counts, points rewards and minigame boxes.",
+    "verification": "community",
+    "sourceIds": ["src-wiki-limited", "src-wiki-updates", "src-cdidrepo"],
+    "blocks": [
+      {"type": "p", "text": "Many CDID cars are only sold for a short time. The community limited-car log records several ways they are released:"},
+      {"type": "list", "items": [
+        "Timed limiteds: on sale for a fixed window after an update, usually 2–12 hours and sometimes only 5 minutes.",
+        "Weekly Car Drop: introduced in V2.2.0. A new set of limited cars is released each week.",
+        "Exclusive cars: introduced in V2.3 and sold in fixed unit counts, for example 500 units with short restocks.",
+        "Event rewards: earned with event points (Ramadhan, Eid al-Adha, V5 Nostalgia, Independence Day) or given away during an event.",
+        "Minigame boxes: some cars only come from boxes earned through minigames."
+      ]},
+      {"type": "link", "text": "See limited vehicles in the catalogue", "href": "/vehicles?limited=limited"}
+    ]
+  },
+  {
+    "id": "gacha",
+    "title": "Gacha System",
+    "category": "Economy",
+    "summary": "What is confirmed about the new gacha system in V2.8.",
+    "verification": "official",
+    "sourceIds": ["src-roblox-game", "src-wiki-cars"],
+    "blocks": [
+      {"type": "p", "text": "The V2.8 changelog officially lists a \"New Gacha System\". The community wiki already lists Minigame Box, Limited Box and Robux Box as sources of some cars."},
+      {"type": "note", "text": "Odds, prices and the full prize pool have not been published in a source we could access. This guide will be updated once they are documented. Until then, check the official Discord."}
+    ]
+  },
+  {
+    "id": "driving",
+    "title": "Driving & Road Systems",
+    "category": "Basics",
+    "summary": "Traffic, tolls, lights and the systems that make CDID feel like Indonesian roads.",
+    "verification": "official",
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-updates", "src-roblox-media"],
+    "blocks": [
+      {"type": "list", "items": [
+        "Toll roads, including the Gerbang Tol Cikampek Utama toll plaza. The toll system was reworked in V2.4.",
+        "AI traffic, made more advanced on the seasonal map in V2.5.5.",
+        "Automatic headlamps and self-cancelling turn signals, added in V2.3.",
+        "A speedometer UI redesigned in V2.0, and a minimap reworked in V2.2.0.",
+        "A phone system, reworked in V2.4."
+      ]}
+    ]
+  },
+  {
+    "id": "private-servers",
+    "title": "Private Server Commands",
+    "category": "Basics",
+    "summary": "Chat commands available to private-server owners.",
+    "verification": "community",
+    "sourceIds": ["src-wiki-building", "src-search-roblox-snapshots"],
+    "blocks": [
+      {"type": "p", "text": "V2.0 added a private-server panel. The wiki also lists these chat commands for private servers:"},
+      {"type": "table", "columns": ["Command", "Effect"], "rows": [
+        ["/traffic", "Adds traffic to the map"],
+        ["/rain", "Toggles rain"],
+        ["/fog [number]", "Adds fog; higher numbers mean thicker fog"],
+        ["/time [number]", "Sets the server time"],
+        ["/freezetime · /unfreezetime", "Freezes or unfreezes the time"],
+        ["/topspeed [number]", "Caps every car's top speed"],
+        ["/morespawn", "Raises the spawnable car limit to 5"],
+        ["/removeallvehicle", "Removes all spawned vehicles"],
+        ["/rptools · /buildtools", "Gives roleplay or building placeables"],
+        ["/kick · /ban · /unban [player]", "Moderation"]
+      ]}
+    ]
+  },
+  {
+    "id": "events",
+    "title": "Events",
+    "category": "Community",
+    "summary": "CDID's seasonal calendar.",
+    "verification": "official",
+    "sourceIds": ["src-roblox-game", "src-search-roblox-snapshots", "src-wiki-updates", "src-wiki-limited"],
+    "blocks": [
+      {"type": "p", "text": "CDID follows the Indonesian calendar. Recent official changelogs list these events:"},
+      {"type": "list", "items": [
+        "Ramadhan: a quest in V2.0, then a seasonal map and race event in V2.5.5.",
+        "Eid al-Adha: in V2.6, with commercial-vehicle rewards.",
+        "Independence Day (17 August): HUT RI 78 in V1.2.5, then V2.2.0 and the Bandung event in V2.7.",
+        "Halloween: V1.9, V2.3 and the Halloween Event 2026 in V2.8.",
+        "Christmas: V2.4, with a limited-time map.",
+        "Partner and nostalgia events: myBCA in V2.7 and V5 Nostalgia 2026 in V2.6.5."
+      ]},
+      {"type": "link", "text": "Read the full update history", "href": "/updates"}
+    ]
+  }
+]

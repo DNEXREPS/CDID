@@ -1,0 +1,6 @@
+[
+  {"name": "Bandalam", "introducedVersion": "V2.7.5", "note": "New seasonal map.", "sourceIds": ["src-search-roblox-snapshots"]},
+  {"name": "V5 Nostalgia 2026", "introducedVersion": "V2.6.5", "note": "Map and event.", "sourceIds": ["src-search-roblox-snapshots"]},
+  {"name": "Ramadhan 2026", "introducedVersion": "V2.5.5", "note": "Map event, with advanced AI traffic.", "sourceIds": ["src-search-roblox-snapshots"]},
+  {"name": "Christmas limited-time map", "introducedVersion": "V2.4", "note": "Limited-time map shipped with the Christmas event.", "sourceIds": ["src-search-roblox-snapshots"]}
+]

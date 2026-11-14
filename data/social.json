@@ -1,0 +1,79 @@
+[
+  {
+    "id": "discord",
+    "platform": "Discord",
+    "accountName": "CDID Official Server",
+    "handle": "discord.gg/cdid",
+    "url": "https://discord.gg/cdid",
+    "description": "The main community hub. Discord lists it as the 'Official Roblox Car Driving Indonesia Discord server.' Around 330,000 members as of Nov 2026.",
+    "officialStatus": "official",
+    "verificationStatus": "official",
+    "sourceIds": ["src-discord-invite"]
+  },
+  {
+    "id": "roblox-game",
+    "platform": "Roblox",
+    "accountName": "Car Driving Indonesia",
+    "handle": "Place 6911148748",
+    "url": "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia",
+    "description": "The official experience page, published by the verified CDID Studio Official Group. The current changelog is posted here.",
+    "officialStatus": "official",
+    "verificationStatus": "official",
+    "sourceIds": ["src-roblox-game"]
+  },
+  {
+    "id": "roblox-group",
+    "platform": "Roblox",
+    "accountName": "CDID Studio Official Group",
+    "handle": "Community 10884667",
+    "url": "https://www.roblox.com/communities/10884667",
+    "description": "The verified developer group. The game description directs players here for future updates and bug reports.",
+    "officialStatus": "official",
+    "verificationStatus": "official",
+    "sourceIds": ["src-roblox-group"]
+  },
+  {
+    "id": "instagram",
+    "platform": "Instagram",
+    "accountName": "CDID",
+    "handle": "@cdidstudios",
+    "url": "https://www.instagram.com/cdidstudios/",
+    "description": "Describes itself as Car Driving Indonesia's official Instagram for updates and events. Fan accounts also point to it as the official one.",
+    "officialStatus": "official",
+    "verificationStatus": "partial",
+    "sourceIds": ["src-instagram"]
+  },
+  {
+    "id": "tiktok",
+    "platform": "TikTok",
+    "accountName": "CDID Studio",
+    "handle": "@cdidstudiodevelopment",
+    "url": "https://www.tiktok.com/@cdidstudiodevelopment",
+    "description": "Describes itself as CDID Studio's official TikTok account.",
+    "officialStatus": "official",
+    "verificationStatus": "partial",
+    "sourceIds": ["src-tiktok"]
+  },
+  {
+    "id": "wiki",
+    "platform": "Wiki",
+    "accountName": "CDID Wiki (Fandom)",
+    "handle": "cardrivingindonesia.fandom.com",
+    "url": "https://cardrivingindonesia.fandom.com/wiki/CDID_Wiki",
+    "description": "A player-run encyclopedia covering cars, maps, jobs and limited vehicles. Not operated by CDID Studio.",
+    "officialStatus": "community",
+    "verificationStatus": "community",
+    "sourceIds": ["src-wiki-home"]
+  },
+  {
+    "id": "cdidrepo",
+    "platform": "Database",
+    "accountName": "The CDID Database (Unofficial)",
+    "handle": "cdidrepo.vercel.app",
+    "url": "https://cdidrepo.vercel.app/",
+    "description": "A community-maintained database of CDID vehicles, prices and boxes. It is the main source for this site's vehicle catalogue.",
+    "officialStatus": "community",
+    "verificationStatus": "community",
+    "sourceIds": ["src-cdidrepo"]
+  }
+]

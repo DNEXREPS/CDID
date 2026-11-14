@@ -1,0 +1,93 @@
+{{Job
+|title=Emergency Service
+|image=emergency_service.png
+|caption=
+|task=Drive to patients' locations all over the map
+|location='''West Java:''' Cara Hospitals, BSD<br>'''Central Java:''' Rumah Sakit Tegal, Tegal
+|required=Ambulance (available at spawn)<br>Medkit (available in ambulance)
+|salary=Approx. RP. 10,000,000 per patient
+}}
+'''Emergency Service''' (Indonesian: '''Layanan darurat''') is a job featured in [[CDID Wiki|CDID]]. The player assumes the role of an ambulance driver (paramedic) and must drive to patients all across the map and tend to their injuries with medkits.
+
+== Guide ==
+* First, view '''Job Selection''' at the spawn point of the map you're in and select '''Emergency Service'''. Your character will appear dressed in a paramedic outfit.
+* Then, drive to the hospital. The hospital's location will depend on what map you're in (see '''Hospitals''' below).
+* Upon arriving at the hospital, initiate the job through '''Start Job Here'''. A waypoint will be set, as well as a blue arrow above your character will appear, pointing directly towards it.
+* Spawn an ambulance from one of the spawn bays in the hospital's parking lot.
+** There are four ambulances to choose from, and have a random chance upon being spawned (see '''Ambulances''' below).
+* Drive the ambulance over to the waypoint. You may turn on the emergency lights and siren to alert other drivers as you make your way there through the ambulance's control panel in the right of the screen.
+* Once you reach the waypoint, pull up beside the patient and pick up a '''medkit''' from the rear of your ambulance by pressing '''E'''.
+* Walk over to the patient and "heal" them using the '''medkit''', once again by pressing '''E'''. If successful, the patient will stand upright and walk away.
+
+
+== Hospitals ==
+There are currently two hospitals featured in [[CDID Wiki|CDID]]. The '''Emergency Service''' job is not available in the [[Jakarta]] map.
+{| class="wikitable sortable" width=70%
+!Name
+!Location
+!Map
+!Image
+|-
+!Cara Hospitals
+|BSD
+|West Java
+|[[File:cara_hospitals_bsd.png|450px|center|thumb]]
+|-
+!Rumah Sakit Tegal
+|Tegal
+|Central Java
+|[[File:rumah_sakit_tegal.png|425px|center|thumb]]
+|}
+
+
+== Ambulances ==
+The '''Emergency Service''' job features four special ambulances based on stock versions of the following vehicles. Each ambulance comes with unlimited fuel and a control panel for the lights and sirens.
+{| class="wikitable sortable" width=70%
+!Name
+!In-game counterpart
+!Front
+!Rear
+|-
+!2010 Sanziky APV GL Ambulans
+|[[2010 Sanziky APV|2010 Sanziky APV GL]]
+|[[File:2010 sanziky apv gl ambulance front.png|220px|center|thumb]]
+|[[File:2010 sanziky apv gl ambulance rear.png|220px|center|thumb]]
+|-
+!2012 Tokoma Alphard Ambulans
+|[[2012 Tokoma Alphard]]
+|[[File:2006 tokoma alphard 24 ambulance front.png|220px|center|thumb]]
+|[[File:2006 tokoma alphard 24 ambulance rear.png|220px|center|thumb]]
+|-
+!2020 Tokoma Hiace Ambulans
+|[[2020 Tokoma Hiace|2020 Tokoma Hiace Ambulance]]
+|[[File:2020 tokoma hiace ambulance front.png|220px|center|thumb]]
+|[[File:2020 tokoma hiace ambulance rear.png|220px|center|thumb]]
+|-
+!2012 Densu Luxio D Ambulans
+|[[2012 Densu Luxio|2012 Densu Luxio D]]
+|[[File:2012 densu luxio d ambulance front.png|220px|center|thumb]]
+|[[File:2012 densu luxio d ambulance rear.png|220px|center|thumb]]
+|}
+
+
+== Trivia ==
+* Cara Hospitals in BSD has a '''UGD'''; '''UGD''' stands for "''Unit Gawat Darurat''", which is Indonesian for "''emergency department''" (literally translates to "''urgent emergency unit''").
+* The '''Tokoma Hiace Ambulans''' features the same license plate (B 1740 OVQ) as the Tokoma Vios Taxi featured in the [[Burung Biru Driver]] job.
+
+
+== Gallery ==
+<gallery>
+cara_hospitals_bsd.png|Cara Hospitals
+rumah_sakit_tegal.png|Rumah Sakit Tegal
+2010_sanziky_apv_gl_ambulance_front.png
+2010_sanziky_apv_gl_ambulance_rear.png
+2006_tokoma_alphard_24_ambulance_front.png
+2006_tokoma_alphard_24_ambulance_rear.png
+2020_tokoma_hiace_ambulance_front.png
+2020_tokoma_hiace_ambulance_rear.png
+2012_densu_luxio_d_ambulance_front.png
+2012_densu_luxio_d_ambulance_rear.png
+</gallery>
+
+
+[[Category:Jobs]]

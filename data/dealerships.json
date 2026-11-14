@@ -1,0 +1,516 @@
+[
+  {
+    "id": "premium",
+    "name": "Premium Dealership",
+    "brand": "Multi-brand",
+    "category": "Premium & imports",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "CDID's largest showroom by stock. It sells luxury, exotic and imported models from many brands, most of them locked behind the Luxury or Rare Imports game passes.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya Used Cars",
+    "brand": "Multi-brand (used)",
+    "category": "Used cars",
+    "mapName": "Jawa Barat",
+    "city": "Bekasi · Bandung",
+    "locationDescription": "The wiki lists the Sumber Jaya used-car dealership in Bekasi, and a 'Sumberjaya Bandung' branch in Bandung. Both are on the Jawa Barat map.",
+    "nearbyLandmarks": [
+      "Summarecon Bekasi",
+      "Upside Down Pyramid (Bekasi)",
+      "Gedung Sate (Bandung)",
+      "Jembatan Pasupati (Bandung)"
+    ],
+    "coordinates": null,
+    "description": "Second-hand Indonesian favourites from every era, from early Kijangs and Civics to modern MPVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "retro",
+    "name": "Retro Cars Dealership",
+    "brand": "Multi-brand (classic)",
+    "category": "Retro & classic",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Cars of the past, from 1970s hot hatches to late-2000s saloons. Most models need the Retro Car Gamepass.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo",
+      "src-roblox-gamepasses"
+    ]
+  },
+  {
+    "id": "otnas-esprit-works",
+    "name": "Otnas Esprit Works Cafe",
+    "brand": "Multi-brand (enthusiast)",
+    "category": "Enthusiast & tuner",
+    "mapName": "Jawa Barat",
+    "city": "Bandung",
+    "locationDescription": "The wiki lists 'Otnas Espirit Works' among Bandung's dealerships on the Jawa Barat map. Bandung was rebuilt as a standalone map in V2.7, so this placement may have changed.",
+    "nearbyLandmarks": [
+      "Gedung Sate",
+      "Jembatan Pasupati",
+      "Dago"
+    ],
+    "coordinates": null,
+    "description": "A café-style showroom for enthusiast metal: JDM icons, European classics, tuned specials and rare imports.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "tokoma",
+    "name": "Tokoma Dealership",
+    "brand": "Tokoma",
+    "category": "Brand dealership",
+    "mapName": "Jakarta",
+    "city": "Jakarta",
+    "locationDescription": "The wiki lists Tokoma among the brand dealerships lining Jakarta's streets. The Tokoma Factory, a separate building, is in Bekasi.",
+    "nearbyLandmarks": [
+      "Monas (National Monument)",
+      "Bundaran HI",
+      "Gelora Bung Karno (GBK)",
+      "Blok M / Melawai"
+    ],
+    "coordinates": null,
+    "description": "The house of Indonesia's best-selling nameplates: Avanza, Kijang Innova, Fortuner, Alphard and more.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "liaxe",
+    "name": "Liaxe Dealership",
+    "brand": "Liaxe",
+    "category": "Brand dealership",
+    "mapName": "Jakarta",
+    "city": "Jakarta",
+    "locationDescription": "Listed on the wiki among Jakarta's brand dealerships.",
+    "nearbyLandmarks": [
+      "Monas (National Monument)",
+      "Bundaran HI"
+    ],
+    "coordinates": null,
+    "description": "Liaxe luxury saloons and SUVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "mestibis",
+    "name": "Mestibis Dealership",
+    "brand": "Mestibis",
+    "category": "Brand dealership",
+    "mapName": "Jakarta",
+    "city": "Jakarta",
+    "locationDescription": "Listed on the wiki among Jakarta's brand dealerships.",
+    "nearbyLandmarks": [
+      "Monas (National Monument)",
+      "Bundaran HI"
+    ],
+    "coordinates": null,
+    "description": "Mestibis family cars, SUVs and pickups.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "buffermacht",
+    "name": "Buffermacht Dealership",
+    "brand": "Buffermacht",
+    "category": "Brand dealership",
+    "mapName": "Jakarta",
+    "city": "Jakarta",
+    "locationDescription": "The wiki's Jakarta section lists a 'BMR/BMW' dealership; BMR was the earlier in-game name for the brand now called Buffermacht. Most BMR-badged cars are now marked removed in the community database.",
+    "nearbyLandmarks": [
+      "Monas (National Monument)",
+      "Bundaran HI"
+    ],
+    "coordinates": null,
+    "description": "German performance and luxury cars. Only a few Buffermacht models are currently on sale here; many have moved to the Premium Dealership.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "murceso-venz",
+    "name": "Murceso-Venz Dealership",
+    "brand": "Murceso-Venz",
+    "category": "Brand dealership",
+    "mapName": "Jakarta",
+    "city": "Jakarta",
+    "locationDescription": "Listed on the wiki among Jakarta's brand dealerships.",
+    "nearbyLandmarks": [
+      "Monas (National Monument)",
+      "Bundaran HI"
+    ],
+    "coordinates": null,
+    "description": "Three-pointed-star luxury, from executive saloons to G-class off-roaders.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "hyunson",
+    "name": "Hyunson Dealership",
+    "brand": "Hyunson",
+    "category": "Brand dealership",
+    "mapName": "Jakarta · Jawa Barat",
+    "city": "Jakarta · Bekasi",
+    "locationDescription": "The wiki lists Hyunson dealerships in both Jakarta and Bekasi.",
+    "nearbyLandmarks": [
+      "Summarecon Bekasi",
+      "Monas (National Monument)"
+    ],
+    "coordinates": null,
+    "description": "Korean hatchbacks, SUVs, MPVs and EVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "wuliuz",
+    "name": "Wuliuz Dealership",
+    "brand": "Wuliuz",
+    "category": "Brand dealership",
+    "mapName": "Jakarta",
+    "city": "Jakarta",
+    "locationDescription": "Listed on the wiki among Jakarta's brand dealerships.",
+    "nearbyLandmarks": [
+      "Monas (National Monument)",
+      "Bundaran HI"
+    ],
+    "coordinates": null,
+    "description": "Wuliuz MPVs and compact EVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "komercial",
+    "name": "Komercial Dealership",
+    "brand": "Multi-brand (commercial)",
+    "category": "Commercial vehicles",
+    "mapName": "Jawa Barat",
+    "city": "Bekasi",
+    "locationDescription": "The wiki lists a commercial-vehicle dealership in Bekasi on the Jawa Barat map.",
+    "nearbyLandmarks": [
+      "Summarecon Bekasi",
+      "Upside Down Pyramid",
+      "Tokoma Factory"
+    ],
+    "coordinates": null,
+    "description": "Trucks, buses, vans and light-commercial pickups for CDID's working drivers.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "cia",
+    "name": "CIA Dealership",
+    "brand": "CIA",
+    "category": "Brand dealership",
+    "mapName": "Jawa Barat",
+    "city": "Bekasi",
+    "locationDescription": "The wiki lists a CIA dealership in Bekasi on the Jawa Barat map.",
+    "nearbyLandmarks": [
+      "Summarecon Bekasi",
+      "Upside Down Pyramid"
+    ],
+    "coordinates": null,
+    "description": "CIA hatchbacks, SUVs and MPVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "honade",
+    "name": "Honade Dealership",
+    "brand": "Honade",
+    "category": "Brand dealership",
+    "mapName": "Jawa Barat",
+    "city": "Bandung",
+    "locationDescription": "The wiki lists a Honade dealership in Bandung. Bandung was rebuilt as a standalone map in V2.7, so this placement may have changed.",
+    "nearbyLandmarks": [
+      "Gedung Sate",
+      "Jembatan Pasupati",
+      "Dago"
+    ],
+    "coordinates": null,
+    "description": "Honade's line-up, from Brio and HR-V to Civic Type R.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "sanziky",
+    "name": "Sanziky Dealership",
+    "brand": "Sanziky",
+    "category": "Brand dealership",
+    "mapName": "Jawa Barat",
+    "city": "Bandung",
+    "locationDescription": "The wiki lists a Sanziky dealership in Bandung. Bandung was rebuilt as a standalone map in V2.7, so this placement may have changed.",
+    "nearbyLandmarks": [
+      "Gedung Sate",
+      "Jembatan Pasupati",
+      "Dago"
+    ],
+    "coordinates": null,
+    "description": "Sanziky city cars, MPVs and the Carry workhorse.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "densu",
+    "name": "Densu Dealership",
+    "brand": "Densu",
+    "category": "Brand dealership",
+    "mapName": "Jawa Barat",
+    "city": "Ciawi",
+    "locationDescription": "The wiki says Ciawi, near the Jagorawi toll road terminus, has only a Densu dealer.",
+    "nearbyLandmarks": [
+      "Jagorawi Toll Road",
+      "Puncak pass"
+    ],
+    "coordinates": null,
+    "description": "Densu city cars, people-carriers and the Gran Max.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-map",
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "atruse-weltwagen",
+    "name": "Atruse-Weltwagen Dealership",
+    "brand": "Atruse · Weltwagen",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "A shared showroom for the Atruse and Weltwagen German brands.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "naisen",
+    "name": "Naisen Dealership",
+    "brand": "Naisen",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Naisen's current line-up.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "mizada",
+    "name": "Mizada Dealership",
+    "brand": "Mizada",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Mizada's crossovers, saloons and roadsters.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "slm",
+    "name": "SLM Dealership",
+    "brand": "SLM",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "SLM's Semeru and Mahameru utility vehicles.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "dir",
+    "name": "DIR Dealership",
+    "brand": "DIR",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "DIR battery-electric cars, from the Atto 1 to the Seal.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "citrus",
+    "name": "Citrus Dealership",
+    "brand": "Citrus",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Citrus crossovers and SUVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "haekoo",
+    "name": "Haekoo Dealership",
+    "brand": "Haekoo",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified. The community database groups these cars under a 'Jaecoo' dealership key.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Haekoo J5, J7 and J8 SUVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "shehua",
+    "name": "Shehua Dealership",
+    "brand": "Shehua",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Shehua electric MPVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  },
+  {
+    "id": "shufu",
+    "name": "Shufu Dealership",
+    "brand": "Shufu",
+    "category": "Brand dealership",
+    "mapName": null,
+    "city": null,
+    "locationDescription": "The in-game location could not be verified from an accessible source.",
+    "nearbyLandmarks": [],
+    "coordinates": null,
+    "description": "Shufu crossovers and EVs.",
+    "verificationStatus": "partial",
+    "lastVerified": "2026-11-14",
+    "sourceIds": [
+      "src-wiki-cars",
+      "src-cdidrepo"
+    ]
+  }
+]

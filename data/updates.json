@@ -1,0 +1,227 @@
+[
+  {
+    "id": "v2-8",
+    "version": "V2.8",
+    "releaseDate": "2026-11-13",
+    "dateLabel": "Current version (Roblox listing last updated 13 Nov 2026)",
+    "dateConfidence": "approximate",
+    "title": "Halloween 2026, Bali Phase 1 & the Gacha System",
+    "summary": "The current CDID update: 92 new and reworked cars, the Halloween Event 2026, a reworked Office Job, the first phase of the refreshed Bali map, and a new gacha system.",
+    "officialText": ["92 New & Reworked Cars!", "New Halloween Event 2026", "Reworked Office Job", "Bali Phase 1 Refresh Map", "New Gacha System", "Bug fixes"],
+    "changelog": {
+      "vehicles": ["92 new and reworked cars"],
+      "maps": ["Bali Phase 1 refresh"],
+      "features": ["New gacha system"],
+      "jobs": ["Reworked Office Job"],
+      "events": ["Halloween Event 2026"],
+      "fixes": ["Bug fixes"]
+    },
+    "status": "released",
+    "image": "/images/media/shot-75212879644756.webp",
+    "sourceIds": ["src-roblox-game", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-7-5",
+    "version": "V2.7.5",
+    "releaseDate": "2026-10-24",
+    "dateLabel": "≈ Oct 2026 (listing snapshot dated 24 Oct 2026)",
+    "dateConfidence": "approximate",
+    "title": "Bandalam Seasonal Map & the Barista Rework",
+    "summary": "Added Bandalam, a new seasonal map, and reworked the barista job in Jakarta.",
+    "officialText": ["New seasonal map: Bandalam", "Reworked Barista job (Jakarta)"],
+    "changelog": {
+      "maps": ["New seasonal map: Bandalam"],
+      "jobs": ["Reworked Barista job in Jakarta"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-7",
+    "version": "V2.7",
+    "releaseDate": "2026-08-17",
+    "dateLabel": "≈ Aug 2026 (Independence Day event)",
+    "dateConfidence": "approximate",
+    "title": "Bandung Reborn & myBCA Event",
+    "summary": "Added 43 new cars, a myBCA event, a rebuilt standalone Bandung map, and an Independence Day event in Bandung.",
+    "officialText": ["43 New Cars!", "New myBCA Event", "Reworked Bandung Standalone Map", "Independence Day Event for Bandung"],
+    "changelog": {
+      "vehicles": ["43 new cars"],
+      "maps": ["Reworked Bandung standalone map"],
+      "events": ["myBCA event", "Independence Day event (Bandung)"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-6-5",
+    "version": "V2.6.5",
+    "releaseDate": "2026-07-26",
+    "dateLabel": "≈ Jul 2026 (listing snapshot dated 26 Jul 2026)",
+    "dateConfidence": "approximate",
+    "title": "V5 Nostalgia 2026",
+    "summary": "Added 20 new cars and a V5 Nostalgia 2026 map and event. Twenty 'V5 Nostalgic Edition' cars were offered as points rewards.",
+    "officialText": ["20 New Cars", "V5 Nostalgia 2026 Map & Event"],
+    "changelog": {
+      "vehicles": ["20 new cars", "V5 Nostalgic Edition reward cars (points-based, per wiki)"],
+      "maps": ["V5 Nostalgia 2026 map"],
+      "events": ["V5 Nostalgia 2026 event"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-6",
+    "version": "V2.6",
+    "releaseDate": "2026-06-20",
+    "dateLabel": "≈ Jun 2026 (listing snapshot dated 20 Jun 2026)",
+    "dateConfidence": "approximate",
+    "title": "Eid al-Adha 2026",
+    "summary": "Added 40 new cars, an Eid al-Adha 2026 event with commercial-vehicle rewards, and improved lighting on the West Java map.",
+    "officialText": ["40 New Cars", "Eid Al-Adha 2026 Event", "West Java lighting improvements"],
+    "changelog": {
+      "vehicles": ["40 new cars"],
+      "maps": ["West Java lighting improvements"],
+      "events": ["Eid al-Adha 2026 event"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-5-5",
+    "version": "V2.5.5",
+    "releaseDate": "2026-03-01",
+    "dateLabel": "≈ Ramadan 2026 (Feb–Mar 2026)",
+    "dateConfidence": "approximate",
+    "title": "Ramadhan 2026",
+    "summary": "Added a Ramadhan 2026 map event, a Ramadhan race event, and more advanced AI traffic on the seasonal map.",
+    "officialText": ["Ramadhan 2026 Map Event!", "Ramadhan Race Event", "Advanced AI traffic in seasonal map", "New cars next week"],
+    "changelog": {
+      "maps": ["Ramadhan 2026 seasonal map"],
+      "events": ["Ramadhan 2026 map event", "Ramadhan race event"],
+      "gameplay": ["More advanced AI traffic in the seasonal map"],
+      "vehicles": ["New cars announced for the following week"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-4",
+    "version": "V2.4",
+    "releaseDate": "2025-12-20",
+    "dateLabel": "≈ Dec 2025 (Christmas event)",
+    "dateConfidence": "approximate",
+    "title": "Christmas 2025",
+    "summary": "Added 60 new and reworked cars, a Christmas event and a limited-time map, and reworked the phone and toll systems.",
+    "officialText": ["60 New and Reworked Cars", "New Christmas Event", "New limited-time map", "Reworked Phone System", "Reworked Toll System"],
+    "changelog": {
+      "vehicles": ["60 new and reworked cars"],
+      "maps": ["Limited-time map"],
+      "features": ["Reworked phone system", "Reworked toll system"],
+      "events": ["Christmas event"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-3",
+    "version": "V2.3",
+    "releaseDate": "2025-10-31",
+    "dateLabel": "≈ Oct 2025 (Halloween event)",
+    "dateConfidence": "approximate",
+    "title": "Halloween 2025 & Exclusive Cars",
+    "summary": "Added 81 new and reworked cars, a Halloween event and the first Exclusive cars, plus tyre modification, automatic headlamps and self-cancelling turn signals.",
+    "officialText": ["81 New and Reworked Cars", "New Halloween Event", "New Exclusive Cars", "New Tire Modification", "New Auto Headlamp and Cancelling Turn Signal", "Bug fixes"],
+    "changelog": {
+      "vehicles": ["81 new and reworked cars", "New Exclusive cars (limited unit counts, per wiki)"],
+      "features": ["Tyre modification", "Automatic headlamps", "Self-cancelling turn signals"],
+      "events": ["Halloween event"],
+      "fixes": ["Bug fixes"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-2",
+    "version": "V2.2.0",
+    "releaseDate": "2025-08-17",
+    "dateLabel": "≈ Aug 2025 (Independence Day 2025 codes)",
+    "dateConfidence": "approximate",
+    "title": "Jawa Timur Unlocked",
+    "summary": "Opened the Jawa Timur map (Ngawi, Kediri, Surabaya, Sidoarjo, Malang). Also added 96 new and reworked cars, a weekly car drop, an Independence Day event, a new mobile UI and a reworked minimap.",
+    "officialText": ["+ 96 New and Reworked Cars", "+ (Weekly Car Drop)", "Unlock new map: Jawa Timur [Ngawi, Kediri, Surabaya, Sidoarjo, Malang]", "New Independence Day Event", "New UI for Mobile User", "New Tire Modification", "New Emote menu", "New Disable vehicle prompt settings", "Reworked Minimap", "Bug fixes", "Updated System settings and UI"],
+    "changelog": {
+      "vehicles": ["96 new and reworked cars", "Weekly Car Drop introduced"],
+      "maps": ["New map: Jawa Timur — Ngawi, Kediri, Surabaya, Sidoarjo, Malang"],
+      "features": ["New mobile UI", "Tyre modification", "Emote menu", "Setting to disable vehicle prompts", "Reworked minimap", "Updated system settings and UI"],
+      "events": ["Independence Day event (ended)", "Redeem codes at launch: 17AGUSTUS2025, INDONESIARAYA, HIDUPROBLOX (likely expired)"],
+      "fixes": ["Bug fixes"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-wiki-updates", "src-wiki-limited"]
+  },
+  {
+    "id": "v2-0",
+    "version": "V2.0",
+    "releaseDate": "2025-03-15",
+    "dateLabel": "≈ Ramadan 2025 (inferred from the Ramadhan quest)",
+    "dateConfidence": "approximate",
+    "title": "Welcome to Bali",
+    "summary": "Added the Bali map, 76 new and reworked cars, new modification and speedometer UI, a private-server panel and a Ramadhan quest.",
+    "officialText": ["76 New and Reworked Cars", "New Bali Map", "New UI for Modification and Speedometer", "New Private Server Panel", "Ramadhan Quest!"],
+    "changelog": {
+      "vehicles": ["76 new and reworked cars"],
+      "maps": ["New Bali map"],
+      "features": ["New modification UI", "New speedometer UI", "Private server panel"],
+      "events": ["Ramadhan quest"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-map", "src-wiki-limited"]
+  },
+  {
+    "id": "v1-9",
+    "version": "V1.9",
+    "releaseDate": null,
+    "dateLabel": "Halloween season, year not confirmed",
+    "dateConfidence": "unknown",
+    "title": "Halloween & the Modification Feature",
+    "summary": "Added 102 new and reworked cars, a Halloween event and a new modification feature.",
+    "officialText": ["102 New and Reworked Cars", "Added Halloween Event", "New Modification Feature"],
+    "changelog": {
+      "vehicles": ["102 new and reworked cars"],
+      "features": ["New modification feature"],
+      "events": ["Halloween event"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-search-roblox-snapshots", "src-wiki-limited"]
+  },
+  {
+    "id": "v1-2-5",
+    "version": "V1.2.5",
+    "releaseDate": "2023-08-17",
+    "dateLabel": "≈ Aug 2023 (HUT RI 78 event)",
+    "dateConfidence": "approximate",
+    "title": "HUT RI 78",
+    "summary": "Added 30 new cars and 3 special cars, a HUT RI 78 (Indonesia's 78th Independence Day) event, and new modification options for lights, horn and reset.",
+    "officialText": ["30 New Cars + 3 Special Cars", "New HUT RI 78 event", "New Modification Option (Lights, Horn & Reset)", "Bug fixes"],
+    "changelog": {
+      "vehicles": ["30 new cars", "3 special cars"],
+      "features": ["Modification options: lights, horn and reset"],
+      "events": ["HUT RI 78 event"],
+      "fixes": ["Bug fixes"]
+    },
+    "status": "released",
+    "image": null,
+    "sourceIds": ["src-reupload-v125", "src-wiki-limited"]
+  }
+]

@@ -1,0 +1,626 @@
+[
+ {
+  "name": "AM",
+  "realLifeCounterpart": "MAN",
+  "vehicleCount": 9,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "ATEN",
+  "realLifeCounterpart": "Neta",
+  "vehicleCount": 7,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Aleps",
+  "realLifeCounterpart": "Alpine",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Alfira",
+  "realLifeCounterpart": "Alfa Romeo",
+  "vehicleCount": 16,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Aston Hill",
+  "realLifeCounterpart": "Aston Martin",
+  "vehicleCount": 13,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Athena",
+  "realLifeCounterpart": null,
+  "vehicleCount": 4,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Atruse",
+  "realLifeCounterpart": "Audi",
+  "vehicleCount": 51,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "BAIK",
+  "realLifeCounterpart": "BAIC",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "BMR",
+  "realLifeCounterpart": null,
+  "vehicleCount": 204,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "BNC",
+  "realLifeCounterpart": "BAC",
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Benston",
+  "realLifeCounterpart": "Bentley",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Buck",
+  "realLifeCounterpart": "Buick",
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Buffermacht",
+  "realLifeCounterpart": "BMW",
+  "vehicleCount": 57,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Busch",
+  "realLifeCounterpart": null,
+  "vehicleCount": 9,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "CIA",
+  "realLifeCounterpart": "KIA",
+  "vehicleCount": 41,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Catera",
+  "realLifeCounterpart": "Cadillac",
+  "vehicleCount": 5,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Chapman",
+  "realLifeCounterpart": "Lotus",
+  "vehicleCount": 6,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Chevrion",
+  "realLifeCounterpart": "Chevrolet",
+  "vehicleCount": 28,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Chrisye",
+  "realLifeCounterpart": "Chrysler",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Citrus",
+  "realLifeCounterpart": "Chery",
+  "vehicleCount": 6,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Clever",
+  "realLifeCounterpart": "Smart",
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Corteon",
+  "realLifeCounterpart": "Citroen",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "DFKS",
+  "realLifeCounterpart": "DFSK",
+  "vehicleCount": 6,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "DIR",
+  "realLifeCounterpart": "BYD",
+  "vehicleCount": 15,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "DVC",
+  "realLifeCounterpart": "GMC",
+  "vehicleCount": 7,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Densu",
+  "realLifeCounterpart": "Daihatsu",
+  "vehicleCount": 122,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Edison",
+  "realLifeCounterpart": "Tesla",
+  "vehicleCount": 12,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Evonext",
+  "realLifeCounterpart": null,
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Flores",
+  "realLifeCounterpart": "Ford",
+  "vehicleCount": 31,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Fresco",
+  "realLifeCounterpart": null,
+  "vehicleCount": 13,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "GWS",
+  "realLifeCounterpart": "GWM",
+  "vehicleCount": 4,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Goath",
+  "realLifeCounterpart": "Dodge",
+  "vehicleCount": 9,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Gumball",
+  "realLifeCounterpart": null,
+  "vehicleCount": 2,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Gyunson",
+  "realLifeCounterpart": "Genesis",
+  "vehicleCount": 14,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Haekoo",
+  "realLifeCounterpart": "Jaecoo",
+  "vehicleCount": 7,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Henry-Rolls",
+  "realLifeCounterpart": null,
+  "vehicleCount": 10,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Hina",
+  "realLifeCounterpart": "Hino",
+  "vehicleCount": 7,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Holland",
+  "realLifeCounterpart": "Jeep",
+  "vehicleCount": 7,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Honade",
+  "realLifeCounterpart": "Honda",
+  "vehicleCount": 177,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Hyunson",
+  "realLifeCounterpart": "Hyundai",
+  "vehicleCount": 98,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "ION",
+  "realLifeCounterpart": "AION",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Inertium",
+  "realLifeCounterpart": "Infiniti",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Julmann",
+  "realLifeCounterpart": null,
+  "vehicleCount": 1,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "KingsMann",
+  "realLifeCounterpart": "Rolls-Royce",
+  "vehicleCount": 11,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Kronenvik",
+  "realLifeCounterpart": null,
+  "vehicleCount": 1,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Lahkokgini",
+  "realLifeCounterpart": "Lamborghini",
+  "vehicleCount": 30,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Laksamana",
+  "realLifeCounterpart": "Laksana",
+  "vehicleCount": 4,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Liaxe",
+  "realLifeCounterpart": "Lexus",
+  "vehicleCount": 48,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Luigi",
+  "realLifeCounterpart": "Fiat",
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Lukic",
+  "realLifeCounterpart": null,
+  "vehicleCount": 2,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Malfieri",
+  "realLifeCounterpart": "Maserati",
+  "vehicleCount": 5,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "McSena",
+  "realLifeCounterpart": "McLaren",
+  "vehicleCount": 10,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Mestibis",
+  "realLifeCounterpart": "Mitsubishi",
+  "vehicleCount": 137,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Mizada",
+  "realLifeCounterpart": "Mazda",
+  "vehicleCount": 51,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Morrison",
+  "realLifeCounterpart": null,
+  "vehicleCount": 2,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Motorsaurus",
+  "realLifeCounterpart": null,
+  "vehicleCount": 1,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Mullbach",
+  "realLifeCounterpart": "Mercedes-Maybach",
+  "vehicleCount": 7,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Murceso-Venz",
+  "realLifeCounterpart": "Mercedes-Benz",
+  "vehicleCount": 204,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "NANO",
+  "realLifeCounterpart": "Mini",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "NG",
+  "realLifeCounterpart": "MG",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "NUF",
+  "realLifeCounterpart": null,
+  "vehicleCount": 2,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Naisen",
+  "realLifeCounterpart": "Nissan",
+  "vehicleCount": 138,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Neutron",
+  "realLifeCounterpart": "Proton",
+  "vehicleCount": 6,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Nusad",
+  "realLifeCounterpart": null,
+  "vehicleCount": 3,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Opal",
+  "realLifeCounterpart": "Opel",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Otnas",
+  "realLifeCounterpart": null,
+  "vehicleCount": 62,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Over Ranger",
+  "realLifeCounterpart": "Range Rover",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Overlander",
+  "realLifeCounterpart": "Land Rover",
+  "vehicleCount": 15,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Pacific",
+  "realLifeCounterpart": "Porsche",
+  "vehicleCount": 51,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Pagagini",
+  "realLifeCounterpart": null,
+  "vehicleCount": 3,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Palmera",
+  "realLifeCounterpart": null,
+  "vehicleCount": 1,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Perkasa",
+  "realLifeCounterpart": "Esemka",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Puzyo",
+  "realLifeCounterpart": "Peugeot",
+  "vehicleCount": 14,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "RAW",
+  "realLifeCounterpart": "RAM",
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Renee",
+  "realLifeCounterpart": "Renault",
+  "vehicleCount": 4,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Rinaldi",
+  "realLifeCounterpart": null,
+  "vehicleCount": 1,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Romit",
+  "realLifeCounterpart": "Timor",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "SLM",
+  "realLifeCounterpart": null,
+  "vehicleCount": 23,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "SVEN",
+  "realLifeCounterpart": "SAAB",
+  "vehicleCount": 1,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "SVX",
+  "realLifeCounterpart": null,
+  "vehicleCount": 2,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Sanziky",
+  "realLifeCounterpart": "Suzuki",
+  "vehicleCount": 96,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Seekr",
+  "realLifeCounterpart": "Zeekr",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Shehua",
+  "realLifeCounterpart": "Denza",
+  "vehicleCount": 4,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Shufu",
+  "realLifeCounterpart": "Geely",
+  "vehicleCount": 5,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Siyang",
+  "realLifeCounterpart": "Xiaomi",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Skola",
+  "realLifeCounterpart": "Skoda",
+  "vehicleCount": 11,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Skunia",
+  "realLifeCounterpart": "Scania",
+  "vehicleCount": 6,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Staru",
+  "realLifeCounterpart": "Subaru",
+  "vehicleCount": 33,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Sundat",
+  "realLifeCounterpart": "Datsun",
+  "vehicleCount": 11,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Suzi",
+  "realLifeCounterpart": "Isuzu",
+  "vehicleCount": 44,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Tada",
+  "realLifeCounterpart": "Tata",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Tetrachi",
+  "realLifeCounterpart": "Trumpchi",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Tigora",
+  "realLifeCounterpart": "Jaguar",
+  "vehicleCount": 10,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Tiny",
+  "realLifeCounterpart": null,
+  "vehicleCount": 10,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Tokoma",
+  "realLifeCounterpart": "Toyota",
+  "vehicleCount": 534,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "UT",
+  "realLifeCounterpart": "UD",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Valkon",
+  "realLifeCounterpart": "Volvo",
+  "vehicleCount": 27,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Venus",
+  "realLifeCounterpart": "Eunos",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "VinFlash",
+  "realLifeCounterpart": "VinFast",
+  "vehicleCount": 9,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Walden",
+  "realLifeCounterpart": null,
+  "vehicleCount": 3,
+  "inWikiBrandList": false
+ },
+ {
+  "name": "Weltwagen",
+  "realLifeCounterpart": "Volkswagen",
+  "vehicleCount": 61,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Wuliuz",
+  "realLifeCounterpart": "Wuling",
+  "vehicleCount": 21,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "Xianpeng",
+  "realLifeCounterpart": "XPeng",
+  "vehicleCount": 3,
+  "inWikiBrandList": true
+ },
+ {
+  "name": "YinYang",
+  "realLifeCounterpart": "Yangwang",
+  "vehicleCount": 2,
+  "inWikiBrandList": true
+ }
+]

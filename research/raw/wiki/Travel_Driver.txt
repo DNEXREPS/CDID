@@ -1,0 +1,55 @@
+ '''<big>THIS PAGE IS STILL BEING WORKED ON</big>'''
+{{Job
+|title=Travel Driver
+|image=travel.png
+|caption=
+|task=Transporting clients to various destinations
+|location='''Jakarta:''' Gambir Station, Central Jakarta<br>'''West Java:''' Cara Hospitals, BSD<br>'''Central Java:''' Rumah Sakit Tegal, Tegal
+|required=Bus/Minibus (depending on region) (available at spawn)
+|salary=Approx. RP. XX per stop
+}}'''Travel''' is a job featured in [[CDID Wiki|CDID]]. The player assumes the role of a driver of the travel and must drive passengers to destinations marked all across the map. 
+==Guide==
+*First, view '''Job Selection''' at the spawn point of the map you're in and select '''Travel'''. Your character will appear dressed in a Travel driver outfit.
+*Then, drive to the spawn point. location will depend on what map you're in (see '''Spawn Points''' below).
+*Upon arriving at the spawn point, initiate the job through '''Start Job Here'''. A waypoint will be set, as well as a blue arrow above your character wll appear, pointing directly towards a passenger's pick-up point.
+*Spawn a bus/minibus from one of the spawn bays in the designated area.
+*Drive the bus/minibus over to the waypoint.
+*Once you reach the waypoint, pull up beside the bus stop to pick them up - once you pick them up, drive over to their specified location.
+*After you successfully drop off a passenger, you will be directed to your next passenger's pick-up point and so on.
+==Spawn Points==
+{| class="wikitable sortable" width="70%"
+!Name
+!Location
+!Map
+!Image
+|-
+!Halte Stasiun Gambir
+|Gambir
+|Jakarta
+|[[File:TravelBusGambir.png|center|thumb|450x450px]]
+|-
+!Trans Cdid BSD
+|BSD
+|West Java
+|
+|}
+==Taxis==
+The '''Burung Biru Driver''' job features only one special taxi based on the [[2014 Tokoma Vios]]. The taxi comes with unlimited fuel.
+{| class="wikitable sortable" width="70%"
+!Name
+!In-game counterpart
+!Front
+!Rear
+|-
+!2014 Tokoma Vios E Taxi
+|[[2014 Tokoma Vios|2014 Tokoma Vios Taxi]]
+|[[File:2014 tokoma vios taxi front.png|220px|center|thumb]]
+|[[File:2014 tokoma vios taxi rear.png|220px|center|thumb]]
+|}
+==Trivia==
+*'''Burung Biru''' literally translates to "Blue Bird" in English; Blue Bird (or Blue Bird Group) is an Indonesian transportation company based in Jakarta, and is one of the largest and most popular taxi service companies in the country, offering a wide variety of services and fleet vehicles.
+**The transportation company '''TrueBird''' featured on the side of the taxi is a parody of Blue Bird.
+*Despite the '''Burung Biru''' job being avaliable in the '''Job Selection''' menu in the [[Central Java]] map, there is no specific location to start the job at. The waypoint simply points towards an inaccessible location outside the map, and is therefore either a glitch or a developer oversight.
+*The '''Burung Biru''' Taxi features the same license plate (B 1740 OVQ) as the '''Tokoma Hiace Ambulans''' featured in the [[Emergency Service]] job.
+==Gallery==
+[[Category:Jobs]]

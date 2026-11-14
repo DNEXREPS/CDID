@@ -1,0 +1,53 @@
+'''Commands''' are available in private servers for various things, such as giving players admin. Here are a list of commands in CDID:
+
+== Traffic Commands ==
+'''/traffic''' - Adds traffic to the map.
+
+'''/trafficspeed___''' - Sets the traffic speed.
+
+'''/trafficspawntime___''' - Sets the spawn time interval between the traffic. 
+
+== Time & Weather Commands ==
+'''/fog [number]''' - Adds fog, the bigger the number the foggier.
+
+'''/rain''' - Toggles rain. You can run the /rain command twice to turn off the rain.
+
+'''/time [number]''' - Sets the server time. 
+
+'''/freezetime''' - Freezes the server time.
+
+'''/unfreezetime''' - Unfreezes the server time.
+
+== Car Commands ==
+'''/viewcar''' - Puts a node on every car spawned. 
+
+'''/topspeed [number]''' - Sets the max top speed that every car can go. (Does not affect cars that cannot go past the speed you set.)
+
+'''/morespawn''' - Increases the max amount of cars that can be spawned to 5. 
+
+'''[[Billioniour|/spawnamount [number]''' - Enables the ability to increase the 5 car limit. (Max is 20.)]]
+'''/removeallvehicle''' - Removes all spawned vehicles.
+
+'''/removevehicle [user]''' - Removes a specific user's vehicle.
+
+== Server Commands ==
+'''/rptools''' - Gives you various placeables, e.g. a road sign.
+
+'''/buildtools''' - Gives you various other placeables, e.g. a gazebo.
+
+'''/kick [player]''' - Kicks the specified player from the server.
+
+'''/ban [player]''' - Bans the specified player from the server. 
+
+'''/unban [player]''' - Unbans the specified player from the server. 
+
+'''/m @[player]''' - Mutes the specified player.
+
+'''/um @[player]''' - Unmutes the specified player.
+
+'''/moderator [player]''' - Give commands to the specified player.
+
+'''/unmoderator [player]''' - Removes command permissions from specified player.
+[[Category:Traffic]]
+
+'''/'''

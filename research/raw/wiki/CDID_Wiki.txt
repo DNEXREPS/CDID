@@ -1,0 +1,64 @@
+<mainpage-leftcolumn-start />
+<div style="text-align: center; font-size: x-large; padding: 1em;">'''{{SITENAME}}!''' </div>[[File:CDIDmengkilapshadow.png|thumb|162x162px]]
+
+== CDID Wiki ==
+'''Car Driving Indonesia''' (or '''CDID''') is a town-and-city driving/roleplaying game based in Indonesia, created by user [https://www.roblox.com/users/2584360064/profile/ Pengemudiindonesiaa], otherwise known as 'shad'. As of August 2025, CDID has had over '''336M+''' visits.
+
+'''Car Driving Indonesia''' (atau '''CDID''') adalah sebuah game kendaraan Indonesia yang berbasis di Indonesia. Dibuat oleh [https://www.roblox.com/users/2584360064/profile/ Pengemudiindonesiaa] atau biasa disebut shad. Sampai Agustus 2025, CDID memiliki pengunjung sebanyak '''336 Juta+'''.
+ '''<big>Current Game Version: V.2.2.0</big>'''
+
+
+
+=== Editor's Note ===
+'''Unfortunately, due to recent Wiki vandalism, the History and CDID Youtuber pages are no longer available and their previous iterations cannot be recovered anymore as a result of broken redirects. Apologies for any inconvenience caused.'''
+
+
+==Content Page==
+{| class="fandom-table"
+![[File:History wiki.png|175x175px]]
+'''History'''
+![[File:Map wiki.png|175x175px]]
+'''[[Map]]'''
+![[File:Cars wiki.png|175x175px]]
+'''[[Cars]]'''
+![[File:Limited Cars wiki.png|175x175px]]
+'''[[Limited Cars]]'''
+|-
+![[File:CDID Wiki Update icon.png|175x175px]]
+'''Updates'''
+![[File:CDID Wiki Images Icon.png|175x175px|alt=https://cardrivingindonesia.fandom.com/wiki/Images]]
+'''[[Images]]'''
+![[File:Passes_wiki.png|175x175px]]
+'''[[Passes]]'''
+![[Jobs]]
+|-
+!Features
+
+Coming Soon
+!Building
+Coming Soon
+![[File:Cdid_youtuber.png|frameless]]
+'''CDID YouTubers'''
+|
+|-
+|
+|
+|
+|
+|}'''<big><br /></big>* CLICK THE TEXT, DONT CLICK IMAGE'''<!-- The gallery above works well for individual articles, but it would also be good to have another below it that points to important Category: pages. -->
+<mainpage-endcolumn />
+
+<mainpage-rightcolumn-start />''Need help building out this community?''
+*[[Project:Wiki rules|Rules of this wiki]]
+*[[w:c:community:Help:Getting Started|Getting Started]]
+*[[w:c:community:Help:Contributing|How to Contribute]]
+*[[w:c:community:Help:Community Management|Managing your new community]]
+*[[w:c:community:Help:Contents|Guides]]
+*[[w:c:community:Help:Index|All Help articles]]
+
+You can also be part of the larger Fandom family of communities. Visit [[w:c:community|Fandom's Community Central]]!
+
+
+
+''Community Founders'': Write a good and paragraph-length description for your welcome section about your topic. Let your readers know what your topic is about and add some general information about it. Then you should visit [[Special:AdminDashboard|the admin dashboard for more tips]].<mainpage-endcolumn />
+[[Category:{{SITENAME}}]]
